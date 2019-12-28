@@ -1,0 +1,26 @@
+// Nav links should not have text-decoration by default, but
+// add text-decoration on hover/focus to improve accessibility.
+.nav-link {
+	text-decoration: none;
+
+	&:not(.disabled) {
+		@include hover-focus {
+			text-decoration: underline;
+		}
+	}
+}
+
+// No text-decoration necessary on tabs
+.nav-tabs .nav-link {
+	@include hover-focus {
+		text-decoration: none;
+	}
+}
+
+// No text-decoration necessary on active pills
+.nav-pills {
+	.nav-link.active,
+	.nav-item.show .nav-link {
+		text-decoration: none;
+	}
+}

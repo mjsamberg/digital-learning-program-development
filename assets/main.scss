@@ -1,9 +1,13 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+@import "ncstate-bootstrap/scss/variables";
 @import "variables";
+@import "ncstate";
 @import "bootstrap/bootstrap";
+@import "ncstate-bootstrap/scss/ncstate-overrides";
+
 @import "syntax-highlighting";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
+

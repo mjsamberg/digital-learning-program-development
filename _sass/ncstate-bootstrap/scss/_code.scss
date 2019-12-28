@@ -1,0 +1,18 @@
+// Inline code
+// Add padding and a background color
+code {
+	background-color: $gray-100;
+	padding: 2px 4px;
+	
+	// Don't use background and padding in a link
+	a > & {
+		background-color: inherit;
+		padding: inherit;
+	}
+}
+
+// Don't use background and padding in a code block
+pre code {
+	background-color: inherit;
+	padding: inherit;
+}

@@ -1,0 +1,14 @@
+// Add letter spacing because our font gets messy
+// Disable default link underline
+.badge {
+	letter-spacing: 0.24px;
+	text-decoration: none;
+}
+
+// Pill badges
+//
+// Allow rounding if specifically applied.
+
+.badge-pill {
+	border-radius: $badge-pill-border-radius;
+}

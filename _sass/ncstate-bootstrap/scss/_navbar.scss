@@ -1,0 +1,14 @@
+// Navbar active state needs underline for accessibility
+.navbar {
+	.show > .nav-link,
+	.active > .nav-link,
+	.nav-link.show,
+	.nav-link.active {
+		text-decoration: underline;
+	}
+}
+
+// Navbar brand link shouldn't have text-decoration
+.navbar-brand {
+	text-decoration: none;
+}

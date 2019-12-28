@@ -1,0 +1,5 @@
+// Make focus state match hover state
+a:focus {
+	color: $link-hover-color;
+	text-decoration: $link-hover-decoration;
+}

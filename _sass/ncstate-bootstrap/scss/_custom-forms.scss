@@ -1,0 +1,23 @@
+// Valid and invalid state background colors didn't have
+// have variables and used the lighten() function, so we
+// have to override here.
+
+.custom-control-input {
+	.was-validated &:invalid,
+	&.is-invalid {
+		~ .custom-control-label {
+			&::before {
+				background-color: #ea1500; // Reynolds 100
+			}
+		}
+	}
+
+	.was-validated &:valid,
+	&.is-valid {
+		~ .custom-control-label {
+			&::before {
+				background-color: $success;
+			}
+		}
+	}
+}

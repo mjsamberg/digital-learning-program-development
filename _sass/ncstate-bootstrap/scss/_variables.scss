@@ -1,0 +1,277 @@
+// Variables
+//
+// Variables should follow the `$component-state-property-size` formula for
+// consistent naming. Ex: $nav-link-disabled-color and $modal-content-box-shadow-xs.
+
+
+//
+// Color system
+//
+
+// stylelint-disable
+$white:    #fff;
+$gray-000: #f2f2f2;
+$gray-100: #e5e5e5;
+$gray-200: #cccccc;
+$gray-300: #b2b2b2;
+$gray-400: #999999;
+$gray-500: #808080;
+$gray-600: #666666;
+$gray-700: #4d4d4d;
+$gray-800: #333333;
+$gray-900: #1a1a1a;
+$black:    #000;
+
+// Primary NC State brand colors
+$brand-red:      #cc0000;
+$brand-reynolds: #990000;
+$brand-indigo:   #4156a1;
+$brand-blue:     #427e93;
+$brand-green:    #6F7D1C;
+$brand-yellow:   #fac800;
+$brand-orange:   #d14905;
+$brand-aqua:     #008473;
+
+//NC State Secondary Color Palette
+$red-100: #cc0000;
+$red-200: #cc0000;
+$red-300: #cc0000;
+$red-400: $brand-red;
+$red-500: #990000;
+$red-600: #990000;
+$red-700: #5e0000;
+
+$reynolds-100: #ea1500;
+$reynolds-200: $brand-red;
+$reynolds-300: #b40000;
+$reynolds-400: $brand-reynolds;
+$reynolds-500: #7e0000;
+$reynolds-600: #5e0000;
+$reynolds-700: #3e0000;
+
+$orange-100: #f8a812;
+$orange-200: #f28c0d;
+$orange-300: #e16408;
+$orange-400: $brand-orange;
+$orange-500: #c03003;
+$orange-600: #a91b02;
+$orange-700: #910e01;
+
+$yellow-100: #fef8cb;
+$yellow-200: #fde565;
+$yellow-300: #f8da3e;
+$yellow-400: $brand-yellow;
+$yellow-500: #d7a700;
+$yellow-600: #b88800;
+$yellow-700: #966d00;
+
+$green-100: #bfcc46;
+$green-200: #a2b729;
+$green-300: #8d9e2b;
+$green-400: $brand-green;
+$green-500: #586800;
+$green-600: #424c09;
+$green-700: #2f3a03;
+
+$aqua-100: #91f2cb;
+$aqua-200: #57dab1;
+$aqua-300: #2db597;
+$aqua-400: $brand-aqua;
+$aqua-500: #00716d;
+$aqua-600: #005b5f;
+$aqua-700: #00444c;
+
+$blue-100: #80c3d4;
+$blue-200: #6fb2c5;
+$blue-300: #599baf;
+$blue-400: $brand-blue;
+$blue-500: #2d637a;
+$blue-600: #1d4b61;
+$blue-700: #12394d;
+
+$indigo-100: #84a0dc;
+$indigo-200: #728bcf;
+$indigo-300: #5b73bb;
+$indigo-400: $brand-indigo;
+$indigo-500: #344891;
+$indigo-600: #24347b;
+$indigo-700: #192668;
+
+// Bootstrap's color variables
+$blue:    $brand-blue;
+$indigo:  $brand-indigo;
+$purple:  #6f42c1; //?
+$pink:    #e83e8c; //?
+$red:     $brand-red;
+$orange:  $brand-orange;
+$yellow:  $brand-yellow;
+$green:   $brand-green;
+$teal:    #20c997; //?
+$cyan:    $blue-300;
+
+// Map for Bootstrap's color variables, plus our brand colors
+$colors: ();
+$colors: map-merge((
+  "brand-red":      $brand-red,
+  "brand-reynolds": $brand-reynolds,
+  "brand-indigo":   $brand-indigo,
+  "brand-blue":     $brand-blue,
+  "brand-green":    $brand-green,
+  "brand-yellow":   $brand-yellow,
+  "brand-orange":   $brand-orange,
+  "brand-aqua":     $brand-aqua,
+), $colors);
+
+// Map for NC State Brand Palette
+$brand-palette: ();
+$brand-palette: map-merge((
+  'red-100': $red-100,
+  'red-200': $red-200,
+  'red-300': $red-300,
+  'red-400': $red-400,
+  'red-500': $red-500,
+  'red-600': $red-600,
+  'red-700': $red-700,
+
+  'reynolds-100': $reynolds-100,
+  'reynolds-200': $reynolds-200,
+  'reynolds-300': $reynolds-300,
+  'reynolds-400': $reynolds-400,
+  'reynolds-500': $reynolds-500,
+  'reynolds-600': $reynolds-600,
+  'reynolds-700': $reynolds-700,
+
+  'orange-100': $orange-100,
+  'orange-200': $orange-200,
+  'orange-300': $orange-300,
+  'orange-400': $orange-400,
+  'orange-500': $orange-500,
+  'orange-600': $orange-600,
+  'orange-700': $orange-700,
+
+  'yellow-100': $yellow-100,
+  'yellow-200': $yellow-200,
+  'yellow-300': $yellow-300,
+  'yellow-400': $yellow-400,
+  'yellow-500': $yellow-500,
+  'yellow-600': $yellow-600,
+  'yellow-700': $yellow-700,
+
+  'green-100': $green-100,
+  'green-200': $green-200,
+  'green-300': $green-300,
+  'green-400': $green-400,
+  'green-500': $green-500,
+  'green-600': $green-600,
+  'green-700': $green-700,
+
+  'aqua-100': $aqua-100,
+  'aqua-200': $aqua-200,
+  'aqua-300': $aqua-300,
+  'aqua-400': $aqua-400,
+  'aqua-500': $aqua-500,
+  'aqua-600': $aqua-600,
+  'aqua-700': $aqua-700,
+
+  'blue-100': $blue-100,
+  'blue-200': $blue-200,
+  'blue-300': $blue-300,
+  'blue-400': $blue-400,
+  'blue-500': $blue-500,
+  'blue-600': $blue-600,
+  'blue-700': $blue-700,
+
+  'indigo-100': $indigo-100,
+  'indigo-200': $indigo-200,
+  'indigo-300': $indigo-300,
+  'indigo-400': $indigo-400,
+  'indigo-500': $indigo-500,
+  'indigo-600': $indigo-600,
+  'indigo-700': $indigo-700,
+
+  'gray-000': $gray-000,
+  'gray-100': $gray-100,
+  'gray-200': $gray-200,
+  'gray-300': $gray-300,
+  'gray-400': $gray-400,
+  'gray-500': $gray-500,
+  'gray-600': $gray-600,
+  'gray-700': $gray-700,
+  'gray-800': $gray-800,
+  'gray-900': $gray-900,
+), $brand-palette);
+
+// Map for NC State primary brand colors only
+$brand-colors: ();
+$brand-colors: map-merge((
+  "red":      $brand-red,
+  "reynolds": $brand-reynolds,
+  "indigo":   $brand-indigo,
+  "blue":     $brand-blue,
+  "green":    $brand-green,
+  "aqua":     $brand-aqua,
+  "yellow":   $brand-yellow,
+  "orange":   $brand-orange,
+), $brand-colors);
+
+$primary:       $red;
+$secondary:     $gray-600;
+$success:       $green-300;
+$info:          $cyan;
+$warning:       $yellow-300;
+$danger:        $orange-300;
+$light:         $gray-100;
+$dark:          $gray-800;
+// stylelint-enable
+
+// The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
+$yiq-contrasted-threshold: 115 !default;
+
+
+// Options
+//
+// Quickly modify global styling by enabling or disabling optional features.
+$enable-rounded: false;
+
+
+// Links
+
+$link-decoration:           underline;
+$link-hover-decoration:     none;
+
+
+// Fonts
+//
+// Font, line-height, and color for body text, headings, and more.
+
+// stylelint-disable value-keyword-case
+$font-family-sans-serif: Univers, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+// stylelint-enable value-keyword-case
+
+$mark-bg: $yellow-200;
+
+
+// Forms
+
+$input-btn-focus-color:    rgba($secondary, .25);
+$input-focus-border-color: $gray-600;
+
+
+// Form validation
+
+$form-feedback-valid-color:   $brand-green;
+$form-feedback-invalid-color: $brand-red;
+
+
+// Alerts
+//
+// Define alert colors, border radius, and padding.
+
+$alert-bg-level:     0;
+$alert-border-level: 0;
+$alert-color-level:  12;
+
+
+// Code
+
+$code-color: $black;

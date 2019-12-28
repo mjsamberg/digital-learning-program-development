@@ -1,0 +1,12 @@
+// Use contrast function to determine alert text color
+@each $color, $value in $theme-colors {
+	.alert-#{$color} {
+		color: color-yiq(theme-color($color));
+		
+		// Make link color match text. Rely on 
+		// inherited text-decoration for distinciton
+		.alert-link {
+			color: color-yiq(theme-color($color));
+		}
+	}
+}

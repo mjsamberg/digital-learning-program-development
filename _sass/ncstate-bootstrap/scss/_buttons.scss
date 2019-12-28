@@ -1,0 +1,25 @@
+//
+// Base styles
+//
+
+.btn {
+	// Buttons should not have text decoration.
+	// Mainly targeting instances of a.btn
+	text-decoration: none;
+}
+
+
+//
+// Link buttons
+//
+
+// Buttons styled as links should behave like normal links
+.btn-link {
+	text-decoration: $link-decoration;
+	
+	&:not(:disabled):not(.disabled) {
+		@include hover-focus {
+			text-decoration: $link-hover-decoration;
+		}
+	}
+}

@@ -1,0 +1,46 @@
+// Returns a brand color with optional level.
+// Level defaults to 400, which is the primary shade.
+@function brand-color($color, $level: 400) {
+  $key: "#{ $color }-#{ $level }";
+
+  @return map-get($brand-palette, $key);
+}
+
+// Returns a tint or shade of the given color for
+// use in context of a background color.
+//
+// The secondary color is 2 levels darker than the given color.
+// However, the function reserves color space for hover effects
+// ensuring at least 3 darker shades are available. If less than
+// 3 darker shades exist, then the secondary color returned is
+// 2 levels lighter than the given color.
+@function secondary-color( $color, $level: 400 ) {
+  $colorMax: $level + 300;
+  $key: "#{ $color }-#{ $colorMax }";
+
+  @if map-has-key( $brand-palette, $key ) {
+    @return brand-color( $color, $level + 200 );
+  }
+  @else {
+    @return brand-color( $color, $level - 200 );
+  }
+}
+
+// Returns a tint or shade of the given color for
+// use as the hover effect on a secondary color in
+// context of a background color.
+//
+// The hover color is 3 levels darker than the given color.
+// If such a color doesn't exist, then a shade 1 level lighter
+// is returned.
+@function secondary-color-hover( $color, $level: 400 ) {
+  $colorMax: $level + 300;
+  $key: "#{ $color }-#{ $colorMax }";
+
+  @if map-has-key( $brand-palette, $key ) {
+    @return brand-color( $color, $colorMax );
+  }
+  @else {
+    @return brand-color( $color, $level - 100 );
+  }
+}

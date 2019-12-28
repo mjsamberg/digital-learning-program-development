@@ -1,3 +1,7 @@
+# NC State Customized Bootstrap 4 for Github Pages
+
+Customized version of Bootstrap 4 theme originally created by nicolas-van. Original readme follows.
+
 
 # Boostrap 4 Github Pages
 

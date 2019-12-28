@@ -1,0 +1,12 @@
+// Use squares as primary instead of circles
+ul {
+	list-style-type: square;
+}
+
+ul ul {
+	list-style-type: circle;
+}
+
+ul ul ul {
+	list-style-type: square;
+}

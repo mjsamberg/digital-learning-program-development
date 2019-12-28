@@ -1,3 +1,16 @@
+<div class="container">
+  <div class="site-title">
+      <h1>
+        {{ site.title | escape }}
+      </h1>
+      {%- if site.unit_name -%}
+          <h2 class="parent-unit">
+              <a href="{{ site.unit_url }}" target="_blank">{{ site.unit_name | escape }}</a>
+          </h2>
+      {%- endif -%}
+  </div>
+</div>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -17,9 +30,6 @@
           </li>
           {%- endif -%}
         {% endfor -%}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
-        </li>
       </ul>
     </div>
   </div>

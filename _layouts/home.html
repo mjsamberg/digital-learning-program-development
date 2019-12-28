@@ -5,8 +5,9 @@ layout: default
 <div>
 
   {%- if page.title -%}
-  <header>
-    <h1>{{ page.title }}</h1>
+  <header class="container-fluid page-title">
+    <h1>{{ page.title | escape }}</h1>
+    <hr/>
   </header>
   {%- endif -%}
 

@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 facebook_username: TheFridayInstitute
 twitter_username: fridayinstitute
 github_username:  mjsamberg
-github_url: 
+github_url: https://github.com/mjsamberg/digital-learning-program-development
 
 repository: "mjsamberg/digital-learning-program-development/"
 
@@ -45,11 +45,10 @@ header_pages:
     absolute: true
   - title: Home
     url: /
-  # - title: Pages
-  #   subpages:
-  #     - title: A URL
-  #       url: http://www.fi.ncsu.edu
-  #       absolute: true 
+  - title: Units
+    subpages:
+      - title: "Unit 1: Introduction"
+        url: content/intro/1_intro
 
 footer_pages: 
   # - title: Home

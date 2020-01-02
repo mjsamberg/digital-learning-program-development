@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages (NC State Custom)
+title: Digital Learning Program Development
 ncstate_brand_search_code: 018149703590495268473:u8ozjjclv58
 ncstate_brand_search_placeholder: Search FI
-unit_name: Friday Institute for Educational Innovation
-unit_name_long: "William and Ida Friday Institute<br/>For Educational Innovation"
+unit_name_long: "Department of Teacher Education and Learning Sciences"
 address: "1890 Main Campus Drive<br/>Raleigh, NC 27606<br/>919.513.8551"
 college_name: College Of Education
 college_url: https://ced.ncsu.edu
-unit_url: https://www.fi.ncsu.edu
+unit_url: https://ced.ncsu.edu/tels
 email: "mjsamber@ncsu.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   A Bootstrap 4 start up project for Jekyll and Github Pages
@@ -32,7 +31,7 @@ twitter_username: fridayinstitute
 github_username:  mjsamberg
 github_url: 
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "mjsamberg/digital-learning-program-development/"
 
 # Build settings
 plugins:
@@ -41,8 +40,11 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  # - title: Home
-  #   url: /
+  - title: Wolfware
+    url: https://moodle-courses1920.wolfware.ncsu.edu/course/view.php?id=4903
+    absolute: true
+  - title: Home
+    url: /
   # - title: Pages
   #   subpages:
   #     - title: A URL

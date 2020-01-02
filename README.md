@@ -2,6 +2,8 @@
 
 Customized version of Bootstrap 4 theme originally created by nicolas-van. Original readme follows.
 
+[Demo](https://pages.github.ncsu.edu/mjsamber/ncstate-github-pages)
+
 
 # Boostrap 4 Github Pages
 

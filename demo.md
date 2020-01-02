@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Demo Page
-sidebar: data.sidebars.chapter1
+sidebar_section: 1
 next: demo
 previous: index
 ---
+
+# Content goes here

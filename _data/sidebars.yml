@@ -1,4 +1,6 @@
-sidebars:
- chapter1:
-  - title: Introduction
-  - url: demo
+- title: Introduction
+  url: /demo.html
+  section: 1
+- title: Home
+  url: /index.html
+  section: 1

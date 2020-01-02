@@ -2,7 +2,7 @@
 layout: page
 title: "Unit 1: Introduction to Digital Learning"
 sidebar_section: 1
-next: demo
+next: "/content/intro/2_history.html"
 ---
 
 This unit will explore the definition and origins of the term "digital learning". At the core, the term "digital learning" has evolved into shorthand for the transition from the "traditional" model of education to a model that aims to disrupt this model by leveraging emerging technologies. This includes a wide array of ideas, from simply using laptops in classrooms to radically redefining some of the basic tentpoles of our education system such as the [Carnegie Unit](https://www.carnegiefoundation.org/faqs/carnegie-unit/) or placing students in grade levels or requiring students to attend school in a physical building.
@@ -28,7 +28,7 @@ In practice, there is no right answer. The questions of how much technology shou
 * Technology and Infrastructure
 * Data and Assessment
 
-The [Future Ready Initiative](https://futureready.org/ourwork/future-ready-frameworks/) launched in November 14 as a partnership between the US Department of Education, the Alliance for Excellent Education, the Friday Institute, Common Sense Education, the Learning Accelerator, Digital Promise, and the LEAD Commission. The goal of Future Ready was to get schools, districts, and states to take a ["Future Ready Pleadge"](https://futureready.org/thenetwork/take-the-pledge/) to transition to digital-age learning opportunities. They identified eight major areas of focus to build a successful program:
+The [Future Ready Initiative](https://futureready.org/ourwork/future-ready-frameworks/) launched in November 14 as a partnership between the US Department of Education, the Alliance for Excellent Education, the Friday Institute, Common Sense Education, the Learning Accelerator, Digital Promise, and the LEAD Commission. The goal of Future Ready was to get schools, districts, and states to take a ["Future Ready Pleadge"](https://futureready.org/thenetwork/take-the-pledge/) to transition to digital-age learning opportunities. Over 3,400 districts signed the pledge and had access to professional learning to get started on their digitail-age learning transition. The Future Ready Framework identified eight major areas of focus to build a successful program:
 * Curriculum, Instruction, and Assessment
 * Personalized Professional Learning
 * Budget and Resources

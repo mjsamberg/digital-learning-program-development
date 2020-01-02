@@ -1,6 +1,12 @@
 - title: Introduction
   url: /content/intro/1_intro.html
   section: 1
-- title: Home
-  url: /index.html
+- title: A (Very Brief) History of Digital Learning
+  url: /content/intro/2_history.html
+  section: 1
+- title: Digital Learning in North Carolina
+  url: /content/intro/3_nc.html
+  section: 1
+- title: Digital Learning Staff Roles
+  url: /content/intro/4_roles.html
   section: 1

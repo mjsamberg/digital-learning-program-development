@@ -12,3 +12,21 @@ layout: default
   </main>
 
 </article>
+
+
+{% if page.next or page.previous %}
+  <nav class="container mt-5" aria-label="Previous/Next Navigation">
+    <ul class="pagination pagination-lg  justify-content-center">
+      {% if page.previous %}
+        <li class="page-item">
+          <a class="page-link" href="{{page.previous | relative_url}}"><i class="fas fa-chevron-left">&nbsp;</i>Previous</i></a>
+        </li>
+      {% endif %}
+      {% if page.next %}
+        <li class="page-item ml-auto">
+          <a class="page-link" href="{{page.next | relative_url}}">Next&nbsp;<i class="fas fa-chevron-right"></i></a>
+        </li>
+      {% endif %}
+    </ul>
+  </nav>
+{% endif %}

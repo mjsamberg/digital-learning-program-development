@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bootstrap 4 Github Pages (NC State Custom)
+ncstate_brand_search_code: 018149703590495268473:u8ozjjclv58
+ncstate_brand_search_placeholder: Search FI
 unit_name: Friday Institute for Educational Innovation
 unit_name_long: "William and Ida Friday Institute<br/>For Educational Innovation"
 address: "1890 Main Campus Drive<br/>Raleigh, NC 27606<br/>919.513.8551"
@@ -39,10 +41,20 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - title: Home
+    url: /
+  - title: Pages
+    subpages:
+      - title: A
+        url: http://www.fi.ncsu.edu
+        absolute: true 
 
 footer_pages: 
-#  - title: Home
-#    url: /
+  - title: Home
+    url: /
+  - title: Friday Institute
+    url: https://www.fi.ncsu.edu
+    absolute: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,29 +1,3 @@
-# NC State Customized Bootstrap 4 for Github Pages
+# Digital Learning Program Development
 
-Customized version of Bootstrap 4 theme originally created by nicolas-van. Original readme follows.
-
-Organization units and branding bar can be customized in the _config.yml as can navigation (template provided)
-
-[Demo](https://pages.github.ncsu.edu/mjsamber/ncstate-github-pages)
-
-
-# Boostrap 4 Github Pages
-
-[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
-
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
-
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
-
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
-
-## Contribution
-
-[See the contribution guide.](./CONTRIBUTING.md)
-
-## License
-
-[See the license file.](./LICENSE.md)
+This website contains the course readings for ECI518: Digital Learning Program and Staff Development. The text on this site was written by [Dr. Mark Samberg](http://go.ncsu.edu/mark) and is made available under a Creative Commons (BY-NC-SA license). All content is housed in a [GitHub repository](https://github.com/mjsamberg/digital-learning-program-development) and the markdown content is located in the "content" folder. You're free to use any content you would like, but I ask that you rebrand it if you choose to use the site wholesale. While much of the content is generally applicable, some of the content is specific to North Carolina and is labeled appropriately.

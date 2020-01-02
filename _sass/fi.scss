@@ -30,3 +30,51 @@ hr.header-hr {
     font-family: UniversRoman, sans-serif;
     color: $white;
 }
+
+footer{
+    margin-top: 1rem;
+    background-color:$primary;
+    color:$white;
+}
+
+footer .main-footer{
+    padding: 1rem;
+}
+
+footer a{
+    color: $white;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: $white;
+    text-decoration: underline;
+}
+
+.footer-address span{
+    display: block;
+}
+
+#footer-unit-name{
+    font-family: UniversCondensed;
+    font-size: 1.5rem;
+    font-wight: 400;
+}
+
+footer .college-logo{
+    text-transform: uppercase;
+    font-size: 1.25rem;
+}
+
+.college-logo-university{
+    font-family: UniversRoman;
+    font-weight: bolder;
+}
+
+.college-logo-college{
+    font-family: UniversCondensed;
+}
+
+footer .social{
+    font-size: 1.25rem;
+}

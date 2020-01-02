@@ -2,6 +2,8 @@
 
 Customized version of Bootstrap 4 theme originally created by nicolas-van. Original readme follows.
 
+Organization units and branding bar can be customized in the _config.yml as can navigation (template provided)
+
 [Demo](https://pages.github.ncsu.edu/mjsamber/ncstate-github-pages)
 
 

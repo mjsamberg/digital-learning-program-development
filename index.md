@@ -5,7 +5,7 @@ title: Digital Learning Program Development
 
 This website contains the course readings for ECI518: Digital Learning Program and Staff Development. Units may be accessed from below:
 
-## [Unit 1: Introduction]("content/intro/1_intro.md")
+## [Unit 1: Introduction](content/intro/1_intro.html)
 ## Unit 2: Leadership of School Technology Programs
 ## Unit 3: Digital Content and Materials
 ## Unit 4: Technology Infrastructure

@@ -60,7 +60,7 @@ In Unit 2, we discuss the need for transitioning from _Acceptable Use Policies_ 
 * 3 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
 * 1 point: Write-up addresses the challenges faced when writing the RUP.
 
-# Option 6: Choose Your Own Adventure
+## Option 6: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 
 [1]:	https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main

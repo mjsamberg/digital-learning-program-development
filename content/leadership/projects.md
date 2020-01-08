@@ -18,7 +18,7 @@ The assignment will be graded as follows:
 * 3 points: Write-up synthesizes ideas from the focus groups and, discusses key take-aways, and implications for a vision for digital-age learning.
 * 3 points: Major points for a vision are identified and explained.
 
-## Option 2: Develop a Logic Model of your digital-age learning program
+## Option 2: Develop a Logic Model for your digital-age learning program
 A [logic model][1] is a "map" that describes the relationships between cause and effect. They generally take the form of "if-then" statements in narrative form, but are often presented graphically. In educational research, a logic model usually has four columns - Inputs and Constraints, Activities, Outputs, and Effects. The purpose and context are also noted in the model (see linked example). The purpose of the logic model is to "operationalize" your vision statement - to display the activities that get you from a vision to reality. To complete this project:
 * Create a logic model for your school's digital-age learning program.
 * Complete a short write-up that explains how you identified the inputs, activities, and outputs; and how you decided on the relationship between them.

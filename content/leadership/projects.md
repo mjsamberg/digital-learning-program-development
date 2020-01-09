@@ -8,7 +8,7 @@ The purpose of the projects in each unit is to provide you with hands-on experie
 ## Option 1: Develop a vision statement for digital-age learning
 The needs and goals of a digital-age learning program is different in each school. It is critical when beginning a digital-age learning transition to gather input from a variety of stakeholders about **why** they believe they should be engaging in this type of transition and how they envision the business of school being impacted. Remember that the goal of digital-age learning is **not** to have students using technology but to change outcomes and the business of teaching and learning. To that end, to complete this project, you should:
 * Conduct at least two focus group sessions. Focus groups may be small, but should be with two different groups (i.e. teachers, students, parents, administrators, counselors, etc.).
-* Create a write-up summarizing points of consensus and divergence in the groups. From this write-up, identify the major points that should be addressed in a vision. You do \_not \_need to create a formal vision statement.
+* Create a write-up summarizing points of consensus and divergence in the groups. From this write-up, identify the major points that should be addressed in a vision. You do _not _need to create a formal vision statement.
 * Submit your write-up, as well as your focus group protocol, and some type of evidence that the focus groups occurred (such as your notes or a recording).
 
 ### Grading

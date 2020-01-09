@@ -6,8 +6,4 @@ next: "/content/intro/2\_history.html"
 ---
 ## Visioning
 
-### Focus Groups
-
-### Planning
-
-### Logic Modeling
+### Data Collection

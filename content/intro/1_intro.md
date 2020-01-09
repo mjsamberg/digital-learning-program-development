@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Unit 1: Introduction to Digital Learning"
-sidebar\_section: 1
-next: "/content/intro/2\_history.html"
+sidebar_section: 1
+next: "/content/intro/2_history.html"
 ---
 
 This unit will explore the definition and origins of the term "digital learning". At the core, the term "digital learning" has evolved into shorthand for the transition from the "traditional" model of education to a model that aims to disrupt this model by leveraging emerging technologies. This includes a wide array of ideas, from simply using laptops in classrooms to radically redefining some of the basic tentpoles of our education system such as the [Carnegie Unit][1] or placing students in grade levels or requiring students to attend school in a physical building.

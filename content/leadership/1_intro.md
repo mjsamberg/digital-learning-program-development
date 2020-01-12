@@ -42,6 +42,12 @@ Often, in technology, shared leadership will take the form of a Media and Techno
 
 A shared leadership committee should include stakeholders from across the school - teachers, support staff, parents, and students. Also, the tendency for these types of committees is to pick the "high-flyers" and the "trailblazers" for these types of groups - a truly effective shared leadership structure includes a representative sampling of the entire school population such that there everyone has someone that represents them on the committee. 
 
+Review the video below from Wisconsin. Notice shared leadership in action - the teachers involved have a voice in developing the program as do the students, and everything from the curriculum to the furniture supports the vision.
+<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WFgmQIQpMi4?rel=0"></iframe>
+</div>
+<br/>
+
 [1]:	http://hackeducation.com/2015/04/25/factory-model
 [2]:	https://courses.lumenlearning.com/teachereducationx92x1/chapter/educational-reforms/
 [3]:	https://www.theatlantic.com/business/archive/2012/05/how-to-break-free-of-our-19th-century-factory-model-education-system/256881/

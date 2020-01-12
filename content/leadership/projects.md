@@ -72,7 +72,19 @@ In Unit 2, we discuss the need for transitioning from _Acceptable Use Policies_ 
 * 3 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
 * 1 point: Write-up addresses the challenges faced when writing the RUP.
 
-## Option 7: Choose Your Own Adventure
+## Option 7: Create a branding toolkit for your school/district
+Consistency in branding and marketing is a critical component to being able to tell your story consistently and cleanly online. In this assignment, you will:
+* Create a branding toolkit for your district that includes colors, fonts, tone, imagery, and social media standards.
+* Create at least three templates for use, including PowerPoint, letterhead, webpage, flyer, etc. 
+* Complete a brief reflection explaining your choices, how they reflect your school's brand, and any compromises or challenges faced.
+
+### Grading
+* 3 points: Branding guide includes colors, fonts, tone, imagery, and social media standards.
+* 4 points: Templates are complete and usable.
+* 3 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
+* 1 point: Write-up addresses the choices made, how they reflect the school brand, and any compromises or challenges faced.
+
+## Option 8: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 
 [1]:	https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main

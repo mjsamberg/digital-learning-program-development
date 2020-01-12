@@ -6,6 +6,7 @@ previous: "/content/leadership/3_planning.html"
 next: "content/leadership/5_evaluation.html"
 ---
 > If you're not telling your story, someone else is.
+
 You may have heard this quote before. Schools have a wide and varied audience, and people will certainly talk. How you control your message will often determine how your program is perceived. Because you're going to be "selling" the school technology plan, and because more and more marketing and communications happens electronically, the technology department typically shares responsibility for marketing and communications efforts in schools. Many school CTOs also supervise the PIO (Public Information Officer). 
 
 When crafting your message, it's a best practice to start with a story. Notice all of the videos shared in the unit thus far have shared data and information about the school programs, but they are also telling a story about a student or a school. Storytelling captures attention and imagination, and allows a more Human connection to what's happening in a school. 

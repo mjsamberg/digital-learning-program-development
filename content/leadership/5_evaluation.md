@@ -23,6 +23,8 @@ There are several common evaluation models, which can be useful to suggest strat
 ## Data Collection
 Data collection for evaluation is similar to data collection for vision, typically involving a series of focus groups, surveys, and rubrics. Having this data from the original visioning process and comparing it can be useful in determining whether there have been any changes. 
 
+Evaluation, in general, is a partnership between the evaluator and the implementor. It's important that if you're evaluating someone else's project, that they see you as an advocate for the success of their program and know that you're there to support them.
+
 ## What To Evaluate
 When constructing an evaluation plan, all of the SMART goals in your technology plan should be evaluated to determine if they were effective. Each individual strategy and outcome in the logic model should also be evaluated. It's also important to evaluate awareness of issues as well - going in to a digital-age learning program, staff may think "they've got this", but then realize they didn't know what they didn't know as they progress through. Capturing this data is useful.
 

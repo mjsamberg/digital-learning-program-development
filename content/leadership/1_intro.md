@@ -29,7 +29,7 @@ The vision for a school's digital-age learning program should be reflective of t
 </div>
 <br/>
 
-The vision is more than a statement. While it's important to create a "vision statement", that is a short and succinct version of the vision - the real **vision** for a digital-age learning vision may be several pages long. There are numerous tools that should be employed to create the vision, including focus groups and surveys.
+The vision is more than a statement. While it's important to create a "vision statement", that is a short and succinct version of the vision - the real **vision** for a digital-age learning vision may be several pages long. Everyone should be able to buy in to the vision and be able to see themselves reflected in it. There are numerous tools that should be employed to create the vision, including focus groups and surveys.
 
 ## Shared Leadership
 In many organizations, leadership is top-down - the leader makes all of the decisions and expects the staff to execute. While the leader may seek input on issues from employees, the leader ultimately is the one who makes the decisions. 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Unit 2: Leadership of Digital Learning Programs"
-sidebar_section_2
+sidebar_section: 2
 next: "/content/leadership/2_datacollection.html"
 ---
 ## Managing Change

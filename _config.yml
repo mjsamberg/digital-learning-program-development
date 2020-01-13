@@ -48,6 +48,8 @@ header_pages:
     subpages:
       - title: "Unit 1: Introduction"
         url: content/intro/1_intro
+      - title: "Unit 2: Leadership"
+        url: content/leadership/1_intro
 
 footer_pages: 
   # - title: Home

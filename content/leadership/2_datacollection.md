@@ -49,7 +49,7 @@ In order to generate buy-in from stakeholders in the process, it's important to 
 Once themes have been identified, conduct a root cause analysis to ensure that you have fully identified "why" a problem or barrier may exist. 
 
 <div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/T1HF3c-GmvU&?rel=0"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/T1HF3c-GmvU?rel=0"></iframe>
 </div>
 <br/>
 

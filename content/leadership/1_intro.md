@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Unit 2: Leadership of Digital Learning Programs"
-sidebar_section: 2
-next: "/content/leadership/2_datacollection.html"
+sidebar\_section: 2
+next: "/content/leadership/2\_datacollection.html"
 ---
 ## Managing Change
 While the current model of schooling is often referred to as the ["factory model"][1], the roots of American education as we know it today actually date back to [Horace Mann][2] in the mid-19th century. Mann argued that universal public education was transform American children into "disciplined, judicious republican citizens". His model was based on the [Prussian model of education][3], and mimicked the factory in many ways. 
@@ -31,7 +31,7 @@ The vision for a school's digital-age learning program should be reflective of t
 </div>
 <br/>
 
-The vision is more than a statement. While it's important to create a "vision statement", that is a short and succinct version of the vision - the real **vision** for a digital-age learning vision may be several pages long. Everyone should be able to buy in to the vision and be able to see themselves reflected in it. There are numerous tools that should be employed to create the vision, including focus groups and surveys.
+The vision is more than a statement. While it's important to create a "vision statement", that is a short and succinct version of the vision - the real **vision** for a digital-age learning vision may be several pages long. Everyone should be able to buy in to the vision and be able to see themselves reflected in it. The vision statement is a good tool for stakeholders to be able to articulate the vision for digital-age learning. There are numerous tools that should be employed to create the vision, including focus groups and surveys. 
 
 ## Shared Leadership
 In many organizations, leadership is top-down - the leader makes all of the decisions and expects the staff to execute. While the leader may seek input on issues from employees, the leader ultimately is the one who makes the decisions. 

@@ -23,7 +23,7 @@ School CTOs should be especially careful with regard to student "sexting". In so
 ### Acceptable/Responsible Use Policies
 An [Acceptable Use Policy][4] defines which behaviors are acceptable for the use of school technology. In addition to the federally mandated elements that need to be included from CIPA, schools should include expectations for professional conduct on the network, how personal devices may be connected, and consequences for actions. Here are a few sample [Acceptable][5] [Use][6] [Policies][7] (click each word).
 
-Increasingly, AUPs have been shifting to become "Responsible Use Policies", or RUPs. An [RUP differs from an AUP][8] in that it is framed more positively, less as a "list of things you can't do" and more "here's what we expect from you". Responsible use policies are still new and tend to be melded with AUPs, but [here is a sample of one][9]. 
+Increasingly, AUPs have been shifting to become "Responsible Use Policies", or RUPs. An [RUP differs from an AUP][8] in that it is framed more positively, less as a legalese "list of things you can't do" and more as a student-friendly "here's what we expect from you". Responsible use policies are still new and tend to be melded with AUPs, but [here is a sample of one][9]. 
 
 ## State Laws
 ### North Carolina Public Records Law

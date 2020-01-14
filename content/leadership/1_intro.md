@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Unit 2: Leadership of Digital Learning Programs"
-sidebar\_section: 2
-next: "/content/leadership/2\_datacollection.html"
+sidebar_section: 2
+next: "/content/leadership/2_datacollection.html"
 ---
 ## Managing Change
 While the current model of schooling is often referred to as the ["factory model"][1], the roots of American education as we know it today actually date back to [Horace Mann][2] in the mid-19th century. Mann argued that universal public education was transform American children into "disciplined, judicious republican citizens". His model was based on the [Prussian model of education][3], and mimicked the factory in many ways. 

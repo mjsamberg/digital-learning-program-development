@@ -69,8 +69,8 @@ In Unit 2, we discuss the need for transitioning from _Acceptable Use Policies_ 
 
 ### Grading
 * 3 points: RUP addresses applicable laws.
-* 3 points: RUP thoroughly addresses expectations for student technology use.
-* 3 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
+* 4 points: RUP thoroughly and clearly addresses expectations for student technology use and addresses all CIPA requirements.
+* 2 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
 * 1 point: Write-up addresses the challenges faced when writing the RUP.
 
 ## Option 7: Create a branding toolkit for your school/district

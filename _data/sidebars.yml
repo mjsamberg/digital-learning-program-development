@@ -46,23 +46,20 @@
 - title: Evaluating Digital Resources
   url: /content/content/4_evaluation.html
   section: 3
-- title: Procurement
-  url: /content/content/5_procurement.html
-  section: 3
 - title: Copyright
-  url: /content/content/6_copyright.html
+  url: /content/content/5_copyright.html
   section: 3
 - title: Creative Commons
-  url: /content/content/7_creativecommons.html
+  url: /content/content/6_creativecommons.html
   section: 3
 - title: Open Educational Resources
-  url: /content/content/8_oer.html
+  url: /content/content/7_oer.html
   section: 3
 - title: Teacher-Created Materials
-  url: /content/content/9_teachercreated.html
+  url: /content/content/8_teachercreated.html
   section: 3
 - title: Interoperability
-  url: /content/content/10_interoperability.html
+  url: /content/content/9_interoperability.html
   section: 3
 - title: Projects
   url: /content/content/11_projects.html

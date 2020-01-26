@@ -2,7 +2,7 @@
 layout: page
 title: "Universal Design for Learning"
 sidebar_section: 3
-prev: "content/content/2_accessibility.html"
+previous: "content/content/2_accessibility.html"
 next: "content/content/4_evaluation.html"
 ---
 While accessibility is a legal requirement, it's just the beginning. Semantic styling, for example, is an accessibility requirement. But it also brings us things like reader mode which makes reading easier. Captions and transcripts are useful for people with hearing difficulties, but also with attention difficulties or ESL students. Beyond creating accessible content, is it possible to create content that accommodates the needs of all students beyond captioning and dyslexic-focused fonts. While we make adjustments for students with disabilities, we tend to do it to provide students with disabilities with an "average" classroom experience. As Harvard researcher Todd Rose points out, there is really no such thing as the "average student":

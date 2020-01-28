@@ -21,6 +21,14 @@ Especially when curricula are created from a collection of learning objects, and
 Cultural responsiveness goes beyond simply using diverse sets of names in word problems. Evaluating for cultural responsiveness means that the work is being evaluated to determine if it's free from any cultural bias and that the examples that are used are locally relevant and can be understood by the students (for example, as a new teacher, I created a math problem involving an escalator - something many of my students had never seen before). In addition, it's important for all students, including students of color, LGBTQ+ students, students with disabilities, and students of various nationalities and religious backgrounds to be able to see themselves in the content and in the examples. The Metropolitan Center for Research on Equity and the Transformation of Schools out of New York University has created a [Culturally Responsive Curriculum Scorecard][9] for teachers to use to evaluate instructional materials. 
 
 In addition to cultural representation, digital tools are much easier to _localize_, or translate into different languages. If your school has a large population of students speaking a language other than English, native support for that language promotes UDL principles and accessibility by allowing students to learn in their native language. 
+### Research Base and Instructional Design
+Procured content packages, especially ILS systems and intelligent tutors (and even most textbooks), should have a research base behind them that delineates the pedagogical models that the product employs, what implementation with fidelity looks like, how success is measured, and how successful the product is. While the [What Works Clearinghouse][10] has very rigorous research standards, it's a good place to look for the research. Vendors should also be able to share this information with you as well. The presence of rigorous research and evaluation is probably the greatest advantage that procured content has over OER and teacher-created materials.
+
+With OER and teacher-created materials, you should always check for solid [instructional design principles][11]. 
+### Peer Feedback
+With procured products and large OER collections, there are always other schools and districts that are using the products (if not, that should be a warning sign...). A phone call or email to a peer CTO or ITF can provide feedback about a product that you might not be able to get otherwise. Vendors typically will provide the name of a district that you can call. They should also be able to provide the name of a district with similar demographics to yours.
+
+Many OER platforms also include rating and comment systems to allow teachers to share feedback with other teachers.  For teachers, a [Critical Friends protocol][12] can be employed to help teachers review and improve their lessons.
 ### Actionable Data
 Many instructional software packages provide a plethora of data for analysis. Some of these data are useless (for example, time on page is generally considered to be an invalid metric in unsupervised learning environments - you don't know if a student spent time on the page reading the content or going to get coffee). However, other packages can zero-in on student knowledge and knowledge gaps and provide teachers with actionable data that they can use to make decisions. The quality and usefulness of these data should be evaluated. 
 ### Qualitative Feedback
@@ -43,3 +51,6 @@ Most schools purchase instructional resources once and simply pay the bill each 
 [7]:	https://www.dpi.nc.gov/districts-schools/classroom-resources/k-12-standards-curriculum-and-instruction/standard-course-study
 [8]:	https://www.edreports.org/
 [9]:	https://research.steinhardt.nyu.edu/metrocenter/resources/culturally-responsive-scorecard
+[10]:	https://ies.ed.gov/ncee/wwc/
+[11]:	https://www.shiftelearning.com/blog/top-instructional-design-models-explained
+[12]:	https://32dkl02ezpk0qcqvqmlx19lk-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/NTN-critical-friends.pdf

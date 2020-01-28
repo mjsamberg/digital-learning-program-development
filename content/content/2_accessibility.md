@@ -67,7 +67,7 @@ Many operating systems and applications have built tools to support accessibilit
 [2]:	https://www.ada.gov/ada_title_II.htm
 [3]:	https://sites.ed.gov/idea/statuteregulations/
 [4]:	https://news.berkeley.edu/2017/03/01/course-capture/
-[5]:	https://news.berkeley.edu/2017/03/01/course-capture/
+[5]:	https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/%20
 [6]:	https://github.com/UKHomeOffice/posters
 [7]:	https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 [8]:	https://www.w3.org/TR/WCAG21/

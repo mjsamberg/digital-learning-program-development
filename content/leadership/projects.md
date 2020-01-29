@@ -84,7 +84,7 @@ Consistency in branding and marketing is a critical component to being able to t
 * 2 points: Branding guide includes colors, fonts, tone, imagery, and social media standards.
 * 2 points: Marketing document is compelling and articulates the vision for digital-age learning in the school.
 * 3 points: Templates are complete and usable.
-* 3 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
+* 3 points: Reflection explains your choices, how they reflect your school's brand, and any compromises or challenges faced.
 
 ## Option 8: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.

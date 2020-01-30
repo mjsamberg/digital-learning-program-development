@@ -24,7 +24,7 @@ The assignment will be graded as follows:
 * 4 points: Reflection connects lesson activities and materials to UDL principles and explains the decisions made, rationale, and difficulties.
 
 ## Option 3: Conduct a Thorough Software Review
-For this project, you should conduct a thorough software review for a large software package like an ILS or Intelligent Tutoring System, or 3-5 smaller packages like a learning object or lesson plan. You should include results of all of the NC Quality Review Tools checklist, one of the EQuIP rubrics, and the Culturally Responsive Scorecard. You should also evaluate curricular alignment, coherence, cultural responsiveness, actionable data, accessibility, and TCO. Submit a write-up summarizing your results.
+For this project, you should conduct a thorough software review for a large software package like a curriculum, an ILS or Intelligent Tutoring System, or 3-5 smaller packages like learning objects or lesson plans. You should include results of all of the NC Quality Review Tools checklist, one of the EQuIP rubrics, and the Culturally Responsive Scorecard. You should also evaluate curricular alignment, coherence, cultural responsiveness, actionable data, accessibility, and TCO. Submit a write-up summarizing your results.
 
 ### Grading
 The assignment will be graded as follows:

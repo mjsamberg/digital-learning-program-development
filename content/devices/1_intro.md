@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Unit 4 Introduction"
+sidebar_section: 3
+
+---
+As a CTO, you'll have the daunting task of building a network that can support thousands of different devices (and hundreds of different models - this is not an exaggeration, even in a small LEA or Charter). Management of the variety of computers, printers, displays, applications, phones, air conditioners, intercom systems, etc will be of the single biggest stressors as a CTO. The development (and the enforcement) will be a huge commitment, but is one of the best ways to mitigate some of the stressors you'll face. 
+
+In addition, with technology ever changing, there's pressure on CTOs to provide the latest, greatest, coolest equipment at all times to every school. Another issue CTOs face with devices is a lack of understanding about why devices purchased for Enterprise use (printers, computers, etc.) tend to be larger, uglier, and more expensive than what consumers can get for their home. Dubbed the _Best Buy Effect_, school boards and decision-makers increasingly need to be taught why you can only buy iPads from Apple and not shop around for better bargains or why they can buy a wireless router for their home for $300, but one for a school may cost 2-3 times that amount. Some of this conversation will bleed into Unit 6 in our discussion of state master agreements and leasing versus purchasing.
+
+## Setting Standards
+Fundamentally, a school's IT program will be judged by two factors: (1) how well someone's desktop PC works and (2) how well the Internet works. Printing is a perennial headache as well -- but no matter what you do, printing in an enterprise environment will never truly work like it's supposed to.
+
+As a CTO, you'll be responsible for purchasing the bulk of the devices in your school.  That said, CTE, Special Education, Title I, and other grant and Federal programs often have their own funds and want to  purchase equipment on their own. It's important for CTOs to set equipment standards - which models of desktop/laptop/printer/etc. people can buy regardless of funding source. A good relationship with your Finance Officer is critical here - even if someone chooses to bypass you as the CTO, they can't bypass the finance office. Ideally a finance officer would recognize an IT purchase, and kick it over to the CTO for approval. Some districts even require equipment that is donated by a PTA or procured through Donors Choose to meet district standards. While this means that equipment will almost certainly be more expensive, people can be guaranteed that it will work with your software and your infrastructure, and that the IT department has the expertise to support the device. Obviously, it's much easier for an IT department to support one or two of everything than twenty of thirty of everything. 
+
+The number and types of standards your district will have will depend on your use case. Some districts choose not to support Windows devices or Macs or iOS devices, based on their ability to support. For each different operating system you bring in, there's a new set of management tools and administration that's very different from every other. For each brand of laptop, there's potentially a different power adapter and video adapter that you'll need to keep in stock. Simplifying the computer inventory allows for this simplicity. 
+
+With [USB-C ports][1] becoming increasingly prevalent, it's becoming possible to have a power cord and peripheral adapters that are universal which may simplify peripheral inventory. Many districts are starting to enforce USB-C as a standard for all devices for this reason.
+
+[1]:	https://www.pcmag.com/how-to/what-is-usb-c-an-explainer

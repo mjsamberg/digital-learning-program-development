@@ -9,45 +9,29 @@ sidebar\_section: 3
 It's important to differentiate between BYOD and guest access. A BYOD program is well-defined: students are told the types of devices they can bring, the software that must be loaded on it, and any accessories they may need to have. There are several BYOD schools that allow students to bring any device to school they want, so long as that device is a late-model iPad with an external keyboard. A well defined BYOD program mitigates some of the equity issues that may occur with one student bringing a more powerful laptop than the school requires - since the students are all using similar tools, the "cooler" device provides no functional benefit over the school issued device (this takes work). By contrast, guest access refers simply to allowing personally owned devices to connect to the school network.
 
 BYOD, guest access, and 1:1 programs can all be combined to create your school's device strategy.
-<table class="table table-bordered table-striped">
-	<thead>
-		<tr>
-			<th>No Guest Access/No Active Device Initiative</th>
-			<th>Guest Access Permitted, No Active Device Initiative</th>
-			<th>Active Device Initiative/No Guest Access</th>
-			<th>Active Device Initiative/Guest Access Permitted</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>In this setup, students/staff are not allowed to connect personally-owned devices to the school network. A BYOD or 1:1 initiative is not in place.</td>
-			<td>The school allows teachers and students to bring and connect devices to the school wi-fi network. Devices are used for minimal instructional tasks, personal use, or enhancement activities.</td>
-			<td>The school has an active device program such as a 1:1 or BYOD initiative. Devices outside of these programs are not allowed to connect to the school network.</td>
-			<td>The school has an active 1:1 or BYOD program in place. In addition, the school also allows other devices outside the scope of the program to connect to the school network.</td>
-		</tr>
-	</tbody>
-</table>
 
+### Types of Guest Access Programs
+* No Guest Access/No Active Device Initiative
+	* In this setup, students/staff are not allowed to connect personally-owned devices to the school network. A BYOD or 1:1 initiative is not in place.
+* Guest Access Permitted, No Active Device Initiative
+	* The school allows teachers and students to bring and connect devices to the school wi-fi network. Devices are used for minimal instructional tasks, personal use, or enhancement activities.
+* Active Device Initiative/No Guest Access
+	* The school has an active device program such as a 1:1 or BYOD initiative. Devices outside of these programs are not allowed to connect to the school network.
+* Active Device Initiative/Guest Access Permitted
+	* The school has an active 1:1 or BYOD program in place. In addition, the school also allows other devices outside the scope of the program to connect to the school network.
 
 ## BYOD
 Bring Your Own Device programs are done in lieu of (or in addition to) a 1:1 device program. Both 1:1 and BYOD create an environment where the use of technology is essential to the daily operations of the classroom and are used to redefine classroom instruction. In a BYOD environment, schools place a series of standards on which devices are considered eligible for the initiative (based on many factors, including platform and app compatibility, wireless standards, screen size, etc.).
-<table class="table table-bordered table-striped">
-	<thead>
-		<tr>
-			<th>No BYOD or 1:1 Program</th>
-			<th>BYOD Program</th>
-			<th>1:1 Program without a BYOD component</th>
-			<th>Hybrid BYOD and 1:1 Program</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>The school may allow guest access, but does not provide a device to students/staff, and does not have a formalized device initiative and does not depend on device usage for instructional practice.</td>
-			<td>The school has established standards for devices and students/staff are allowed to bring and use devices that meet the standards for instruction. Students bringing and having devices becomes essential to daily instruction.</td>
-			<td>Schools provide devices to all students and staff. Students/staff are required to use the school-provided device in instructional practice. The school may still allow guest access.</td>
-			<td>The school provides a device to all students and staff. However, the school has also created standards for devices that students/staff may bring and use in lieu of the school-owned device for instructional purposes.</td>
-		</tr>
-	</tbody>
-</table>
 
+### Types of BYOD Programs
+* No BYOD or 1:1 Program
+	* The school may allow guest access, but does not provide a device to students/staff, and does not have a formalized device initiative and does not depend on device usage for instructional practice.
+* BYOD Program
+	* The school has established standards for devices and students/staff are allowed to bring and use devices that meet the standards for instruction. Students bringing and having devices becomes essential to daily instruction.
+* 1:1 Program without a BYOD component
+	* Schools provide devices to all students and staff. Students/staff are required to use the school-provided device in instructional practice. The school may still allow guest access.
+* Hybrid BYOD and 1:1 Program
+	* The school provides a device to all students and staff. However, the school has also created standards for devices that students/staff may bring and use in lieu of the school-owned device for instructional purposes.
 
 ### Policy Considerations for a BYOD Environment 
 BYOD requires a policy. The following questions are helpful in defining the policy:

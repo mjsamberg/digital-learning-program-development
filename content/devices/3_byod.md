@@ -27,6 +27,7 @@ BYOD, guest access, and 1:1 programs can all be combined to create your school's
 	</tbody>
 </table>
 
+
 ## BYOD
 Bring Your Own Device programs are done in lieu of (or in addition to) a 1:1 device program. Both 1:1 and BYOD create an environment where the use of technology is essential to the daily operations of the classroom and are used to redefine classroom instruction. In a BYOD environment, schools place a series of standards on which devices are considered eligible for the initiative (based on many factors, including platform and app compatibility, wireless standards, screen size, etc.).
 <table class="table table-bordered table-striped">
@@ -47,37 +48,38 @@ Bring Your Own Device programs are done in lieu of (or in addition to) a 1:1 dev
 	</tbody>
 </table>
 
+
 ### Policy Considerations for a BYOD Environment 
 BYOD requires a policy. The following questions are helpful in defining the policy:
-- Planning Questions:
-	- What is the purpose of the BYOD program?
-	- What are the instructional shifts that will occur in the BYOD classroom?
-	- Where will digital content be generated?  Stored?  Accessed?
-	- Are teachers using enough platform-agnostic tools to allow for a successful BYOD implementation, or are your BYOD policies detailed enough that students will be able to use school apps on their devices?
-	- How will teachers address varying device types and capabilities.
-	- How will teachers address the fact that some students will not be bringing devices to school?
-	- How will teachers address classroom management in a BYOD situation?
-	- Will the school have any programs in place to help students get devices if they don’t already have them?
-- Device Questions:
-	- What defines a “device” for the purposes of your program?
-	- What devices are allowed to connect to your network?  What devices are acceptable for classroom use? (Considerations: minimum screen size, physical keyboard, wi-fi standards)
-	- How many different devices can a student connect to the network?  Are students limited to a single device?
-	- What capabilities must a device have in order for it to be considered acceptable for use under your BYOD program? (Considerations: Compatibility with your LMS, must run certain apps)
-	- Is there any software that must be purchased for a student to use a device in class?  (Are you going to require use of Microsoft Office, for example)
-	- Where and when are students able to use BYOD devices?  
-- Logistical Questions:
-	- Are you going to keep a list of students who are bringing devices?  Will the school keep an inventory of BYOD devices (useful if a device and owner need to be reunited)?
-	- How will students authenticate to the network?  Will students have to authenticate again to access the web filter?  Will web filtering data be able to be tracked back to a student device?
-	- What is the school’s responsibility for protecting student devices?  What is the procedure a school will follow if a device is lost, stolen, intentionally damaged, or accidentally damaged?
-	- Can students leave devices in their lockers overnight?
-	- Is there a procedure for when substitutes are in the classroom, students are at lunch, etc.?
-	- What is the procedure when a student misuses a device? (Recommendation: Consider NOT revoking device privileges - focus on the offense and not the tool)
-	- Are students going to be allowed to print using their devices?
-	- Where will students store content?
-- Technical Support
-	- What level of technical support will the school be providing?  Will you be assisting students with getting connected to the network?  Installing/using apps?
-	- What is the procedure if a student who typically is bringing a device forgets or if their device stops working during class? 
-	- Are you going to be actively monitoring network usage to look at unusual trends?
-	- Are web logs being reviewed?
-	- What is your anti-virus policy? Will personally owned devices be required to run a specific anti-virus or anti-malware software?
-	- Can devices be banned from the network if they’re causing network traffic?  
+* Planning Questions:
+	* What is the purpose of the BYOD program?
+	* What are the instructional shifts that will occur in the BYOD classroom?
+	* Where will digital content be generated?  Stored?  Accessed?
+	* Are teachers using enough platform-agnostic tools to allow for a successful BYOD implementation, or are your BYOD policies detailed enough that students will be able to use school apps on their devices?
+	* How will teachers address varying device types and capabilities.
+	* How will teachers address the fact that some students will not be bringing devices to school?
+	* How will teachers address classroom management in a BYOD situation?
+	* Will the school have any programs in place to help students get devices if they don’t already have them?
+* Device Questions:
+	* What defines a “device” for the purposes of your program?
+	* What devices are allowed to connect to your network?  What devices are acceptable for classroom use? (Considerations: minimum screen size, physical keyboard, wi-fi standards)
+	* How many different devices can a student connect to the network?  Are students limited to a single device?
+	* What capabilities must a device have in order for it to be considered acceptable for use under your BYOD program? (Considerations: Compatibility with your LMS, must run certain apps)
+	* Is there any software that must be purchased for a student to use a device in class?  (Are you going to require use of Microsoft Office, for example)
+	* Where and when are students able to use BYOD devices?  
+* Logistical Questions:
+	* Are you going to keep a list of students who are bringing devices?  Will the school keep an inventory of BYOD devices (useful if a device and owner need to be reunited)?
+	* How will students authenticate to the network?  Will students have to authenticate again to access the web filter?  Will web filtering data be able to be tracked back to a student device?
+	* What is the school’s responsibility for protecting student devices?  What is the procedure a school will follow if a device is lost, stolen, intentionally damaged, or accidentally damaged?
+	* Can students leave devices in their lockers overnight?
+	* Is there a procedure for when substitutes are in the classroom, students are at lunch, etc.?
+	* What is the procedure when a student misuses a device? (Recommendation: Consider NOT revoking device privileges - focus on the offense and not the tool)
+	* Are students going to be allowed to print using their devices?
+	* Where will students store content?
+* Technical Support
+	* What level of technical support will the school be providing?  Will you be assisting students with getting connected to the network?  Installing/using apps?
+	* What is the procedure if a student who typically is bringing a device forgets or if their device stops working during class? 
+	* Are you going to be actively monitoring network usage to look at unusual trends?
+	* Are web logs being reviewed?
+	* What is your anti-virus policy? Will personally owned devices be required to run a specific anti-virus or anti-malware software?
+	* Can devices be banned from the network if they’re causing network traffic?  

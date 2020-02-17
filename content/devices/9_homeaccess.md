@@ -18,7 +18,7 @@ Last year, the NC Broadband Office [released a report detailing the homework gap
 ## Addressing the Homework Gap
 While there's no "silver bullet" to address the homework gap, many organizations and districts have solutions to help:
 
-### LIfeline Program
+### Lifeline Program
 Under the [Lifeline program through the FCC][3], consumers can get a discount on their Internet access service. Eligibility for this program typically requires verification of participation in the National School Lunch Program, either directly or through the Community Eligibility provision. [Spectrum reduces their price for Internet to $17.99 per month][4], [CenturyLink participates][5] as well (though their pricing on their site is less clear), [AT&T offers service][6] for $5-10 per month. While these prices aren't approachable for everyone (and assume people live in an area with access and consistently have electricity), they can help a portion of the population get Internet access. 
 
 ### 1Million Project

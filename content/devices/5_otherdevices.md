@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Other Devices in the Schools"
-sidebar\_section: 3
-
+sidebar_section: 4
+previous: "/content/devices/4_networks.html"
+next: "/content/devices/6_furniture.html"
 ---
 Beyond computers, Internet connectivity is a part of just about every device that's going to be installed in schools now. 
 

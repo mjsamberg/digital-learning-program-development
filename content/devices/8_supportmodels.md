@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Furniture and Physical Spaces"
-sidebar\_section: 3
-
+title: "Technical Support Models"
+sidebar_section: 4
+previous: "/content/devices/7_makerspaces.html"
+next: "/content/devices/9_homeaccess.html"
 ---
 Because of the fact that the ITF is the only "tech person" that is in a school full-time, the bulk of the tech support tends to fall on the shoulders of the ITF, even though that should be outside the scope of their responsibilities. Also, the line between tech support and training can sometimes be blurry:
 <div class="embed-responsive embed-responsive-4by3" style="max-height: 500px; width: auto;">

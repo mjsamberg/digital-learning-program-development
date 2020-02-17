@@ -3,7 +3,7 @@ layout: page
 title: "\"Bring Your Own Device\" and Guest Access"
 sidebar_section: 4
 previous: "/content/devices/2_selection.html"
-next: "/content/devices/4_network.html"
+next: "/content/devices/4_networks.html"
 ---
 "Bring Your Own Device" (BYOD) programs are extremely popular and extremely misunderstood in the ed-tech world. At the most basic level, BYOD defines the role of personally owned devices in the school environment. However, there is a misconception that BYOD is done as a cost-savings or in place of a school-owned device. In many successful implementations, BYOD is used as a supplement to a 1:1 program, or creates a situation where students can use the devices they're most comfortable with (use my personal MacBook instead of my school Windows device) or already own (use my personal iPad instead of a school iPad). 
 

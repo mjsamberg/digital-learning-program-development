@@ -7,9 +7,10 @@ next: "/content/devices/6_furniture.html"
 ---
 Beyond computers, Internet connectivity is a part of just about every device that's going to be installed in schools now. 
 
-As a point of clarification "cloud hosted" refers to a software-as-a-service model, where the vendor hosts infrastructure to support a system instead of the servers being hosted on premises. 
-
 Many of these devices are powered using Power Over Ethernet (PoE). PoE utilizes a special type of network switch that sends both data and electrical power over the same ethernet cable. Plugging a PoE compatible device, like a phone, into a PoE switch will power the device and communicate between the switch and the phone along a single cable. Switches in network closets should always be equipped with Uninterruptible Power Supplies (UPS). A UPS is a large battery that your network devices are plugged in to which is in turn plugged in to an electrical outlet. UPSes provide redundancy for several hours in the event of a power blip or electrical failure.
+
+As a point of clarification, "cloud hosted" refers to a software-as-a-service model, where the vendor hosts infrastructure to support a system instead of the servers being hosted on premises. 
+
 
 ## District Infrastructure 
 

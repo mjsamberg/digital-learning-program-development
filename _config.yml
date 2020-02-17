@@ -52,6 +52,8 @@ header_pages:
         url: content/leadership/1_intro
       - title: "Unit 3: Content and Materials"
         url: content/content/1_intro
+      - title: "Unit 4: Technology Infrastructure"
+        url: content/devices/1_intro
 
 footer_pages: 
   # - title: Home

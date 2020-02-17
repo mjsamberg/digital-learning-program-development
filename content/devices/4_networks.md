@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Networking"
-sidebar\_section: 3
+sidebar_section: 4
 
 ---
 A good network is seldom noticed and a great network is never noticed. The goal of network services is to ensure that Internet access is always available at the point of need to however many people need it. 

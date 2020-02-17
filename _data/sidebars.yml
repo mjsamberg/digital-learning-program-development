@@ -64,3 +64,33 @@
 - title: Projects
   url: /content/content/10_projects.html
   section: 3
+- title: Introduction
+  url: /content/devices/1_intro.html
+  section: 4
+- title: Selection of Computing Devices
+  url: /content/devices/2_selection.html
+  section: 4
+- title: BYOD and Guess Access
+  url: /content/devices/3_byod.html
+  section: 4
+- title: Networks
+  url: /content/devices/4_networks.html
+  section: 4
+- title: Other Devices
+  url: /content/devices/5_otherdevices.html
+  section: 4
+- title: Furniture and Physical Spaces
+  url: /content/devices/6_furniture.html
+  section: 4
+- title: Makerspaces
+  url: /content/devices/7_makerspaces.html
+  section: 4
+- title: Technical Support Models
+  url: /content/devices/8_supportmodels.html
+  section: 4
+- title: Home Internet Accesss
+  url: /content/devices/9_homeaccess.html
+  section: 4
+- title: Unit Projects
+  url: /content/devices/10_projects.html
+  section: 4

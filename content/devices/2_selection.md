@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Selecting Computing Devices"
-sidebar\_section: 3
+sidebar_section: 4
 
 ---
 Aside from physical buildings, desktop and laptop computer purchases may be your district's single biggest capital expenditure -- it's important to get it right. The task of selecting computers is daunting as there are seemingly limitless options. While there were once only two options (Windows and Mac), the market has experienced seismic disruption in the last decade with the release of the iPad in 2010 and the Chromebook in 2011. 

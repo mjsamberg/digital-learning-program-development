@@ -67,7 +67,7 @@ BYOD requires a policy. The following questions are helpful in defining the poli
 	* Are you going to be actively monitoring network usage to look at unusual trends?
 	* Are web logs being reviewed?
 	* What is your anti-virus policy? Will personally owned devices be required to run a specific anti-virus or anti-malware software? How will devices be certified?
-	* Can devices be banned from the network if they’re causing network traffic?  
+	* Can devices be banned from the network if they’re causing too much or harmful network traffic?  
 
 [1]:	https://www.tolerance.org/magazine/fall-2014/byod-bring-your-own-device
 [2]:	https://online-distance.ncsu.edu/get-started/technology-requirements/

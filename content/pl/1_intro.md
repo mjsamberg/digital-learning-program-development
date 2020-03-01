@@ -19,6 +19,7 @@ In their 2002 book [Student Achievement Through Staff Development][7], Joyce and
 |Above plus practice and feedback|60%|60%|5%|
 |Above plus coaching in classroom after training|95%|95%|95%|
 
+
 In summary, this pretty much destroys the idea that a one-shot professional development will have any  useful impact on practice, especially if it's only a "sit and get" style workshop. 
 
 [Darling-Hammond, Hyler, Gardner, and Espinosa (2017)][8] identified the following characteristics of effective professional learning:

@@ -11,41 +11,7 @@ In short, professional learning adopts elements of inquiry-based personalized le
 
 ## Theories of Effective Professional Learning
 In their 2002 book [Student Achievement Through Staff Development][7], Joyce and Showers examined the impact of professional learning on transfer to practice. After professional learning experiences in different formats, they examined the percentage of participants who were able to demonstrate new knowledge and demonstrate new skills as a result of a professional development experience, and then the percentage of teachers who applied their skills in their professional practice. Their results are summarized below:
-<table class="table table-bordered">
-	<thead>
-<tr>
-			<th>Training Component</th>
-			<th>Demonstrated Knowledge</th>
-			<th>Demonstrated Skills</th>
-			<th>Applied in Practice</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Theory and Discussion</td>
-			<td>10%</td>
-			<td>5%</td>
-			<td>0%</td>
-		</tr>
-		<tr>
-			<td>Above plus Demonstration</td>
-			<td>30%</td>
-			<td>20%</td>
-			<td>0%</td>
-		</tr>
-		<tr>
-			<td>Above plus practice and feedback</td>
-			<td>60%</td>
-			<td>60%</td>
-			<td>5%</td>
-		</tr>
-		<tr>
-			<td>Above plus coaching in classroom after training</td>
-			<td>95%</td>
-			<td>95%</td>
-			<td>95%</td>
-	</tbody>
-</table>
+
 In summary, this pretty much destroys the idea that a one-shot professional development will have any  useful impact on practice, especially if it's only a "sit and get" style workshop. 
 
 [Darling-Hammond, Hyler, Gardner, and Espinosa (2017)][8] identified the following characteristics of effective professional learning:

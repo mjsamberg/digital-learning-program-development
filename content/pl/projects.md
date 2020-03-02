@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Unit 5 Projects"
+sidebar_section: 5
+previous: /content/pl/5_online.html
 ---
 
 ## Option 1: Administer a PD needs assessment

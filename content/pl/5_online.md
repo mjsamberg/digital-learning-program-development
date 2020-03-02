@@ -3,7 +3,7 @@ layout: page
 title: "Online Learning"
 sidebar_section: 5
 previous: /content/pl/4_badging.html
-next: /content/intro/projects.html
+next: /content/pl/projects.html
 ---
 Designing online learning experiences is [hard work][1]. What you gain in the flexibility from the asynchronous nature, you lose in the ability that you have as a teacher to gauge the response of your audience, to improvise and revise on the fly, and to co-create your content. Every step of an online course must be explicitly thought out and documented in advance. However, [high quality][2] online courses can be a great way for teachers with limited time or across multiple sites to access professional learning experiences. Online courses may take the form of [webinars][3] (synchronous chats with voice, video, and multimedia), online courses (whole courses or course modules, which may be self-paced and individual, or may be part of an online community with discussions and peer review), or MOOCs (massive open online courses which are free courses that enroll hundreds or thousands of students across the world). A day of scheduled webinars is also referred to as an "online conference".
 

@@ -3,7 +3,7 @@ layout: page
 title: "Badging and Gamification"
 sidebar_section: 5
 previous: /content/pl/3_selfdirected.html
-next: /content/intro/5_online.html
+next: /content/pl/5_online.html
 ---
 ## Badging
 Badges are ["digital credentials that represent an individual's skills, interests, and achievements."][1] Badging has emerged as a trend in professional learning, as it values the accomplishment and not the learning. This means that it doesn't matter whether a teacher learned a new skill by attending a PD session, going to an Edcamp, reading a book, or experimenting to figure it out, they are earning credit for the demonstration of competency in a skill. While anybody can issue badges, the [Open Badges][2] standard allows for badges to be created in a way that they are machine readable and able to be exchanged across systems. Badging requires an ecosystem to succeed, with the following players:

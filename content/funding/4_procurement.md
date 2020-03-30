@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Procurement and Contracting"
-sidebar\_section: 6
-previous: "/content/funding/3\_budgeting.html"
-next: "/content/funding/5\_grants.html"
+sidebar_section: 6
+previous: "/content/funding/3_budgeting.html"
+next: "/content/funding/5_grants.html"
 ---
 The [Local Government Fiscal Control Act][1] is the guiding rule for procurement in public schools. This act defines the fiscal controls that ensure that money is allocated and spent appropriately. Specifically, it states that only the local Board of Education has the authority to agree to purchase or enter into a contract. Additionally, all purchases must be preaudited by a finance officer to ensure that the expenditure is legal and proper, and that the funds exist to cover the fiscal obligation. Local boards will typically, in their policy, delegate purchasing authority for all purchases below a certain amount (in many districts, $5,000) to the Superintendent. who may in turn delegate that within the organization. As a CTO, you'll create a purchase order which will be approved by the Superintendent or designee and then preaudited to the finance officer before being sent to the vendor. The vendor will process the purchase order and send the product along with an invoice for payment to be remitted within 30 days. Once you, as the CTO, sign-off on receipt of the purchase, the finance officer will process the invoice and remit payment to the vendor. Most organizations, beyond schools, will follow a very similar procedure to this.
 

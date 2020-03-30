@@ -112,3 +112,27 @@
 - title: Projects
   url: /content/pl/projects.html
   section: 5
+- title: Introduction
+  url: /content/funding/1_intro.html
+  section: 6
+- title: Funding in NC
+  url: /content/funding/2_nc.html
+  section: 6
+- title: Budgeting
+  url: /content/funding/3_budgeting.html
+  section: 6
+- title: Procurement
+  url: /content/funding/4_procurement.html
+  section: 6
+- title: Grants
+  url: /content/funding/5_grantwriting.html
+  section: 6
+- title: E-Rate
+  url: /content/funding/6_erate.html
+  section: 6
+- title: Disposition
+  url: /content/funding/7_disposition.html
+  section: 6
+- title: Projects
+  url: /content/funding/8_projects.html
+  section: 6

@@ -9,8 +9,8 @@ This website contains the course readings for ECI518: Digital Learning Program a
 ## [Unit 2: Leadership of School Technology Programs](content/leadership/1_intro.html)
 ## [Unit 3: Digital Content and Materials](content/content/1_intro.html)
 ## [Unit 4: Technology Infrastructure](content/devices/1_intro.html)
-## Unit 5: Professional Learning
-## Unit 6: Funding
+## [Unit 5: Professional Learning](content/pl/1_intro.html)
+## [Unit 6: Funding](content/funding/1_intro.html)
 ## Unit 7: Security
 
 <br/><br/>

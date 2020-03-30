@@ -36,7 +36,7 @@ In summary, this essentially destroys the idea that a one-shot professional deve
 [Clarke and Hollingsworth][9] identify their Interconnected Model of Professional Growth and that growth occurs in three domains that are interconnected: the personal domain (teachers knowledge, beliefs, and practices), the domain of practice (professional experimentation) and the domain of consequence (production of salient outcomes).
 ![Clarke and Hollingsworth's Interconnected Model of Professional Growth][image-1]
 
-In ed-tech circles, this tends to mean that teachers have to understand the purpose and benefits of a new technology ("why is this new thing better?") and have sufficient time to experiment before the can adopt to practice. Additionally, teachers may have to have time to experiment and adopt a tool for administrative functions (i.e. using Google Docs for lesson planning first) before using it with students. 
+In ed-tech circles, this tends to mean that teachers have to understand the purpose and benefits of a new technology ("why is this new thing better?") and have sufficient time to experiment before they can adopt to practice. Additionally, teachers may have to have time to experiment and adopt a tool for administrative functions (i.e. using Google Docs for lesson planning first) before using it with students. 
 
 [Guskey (2016)][10] identified five levels of impact data for professional learning:
 1. **Participant reactions**: Did the participants enjoy the experience and find it useful (spoiler: most PD evaluation tends to stop here)?

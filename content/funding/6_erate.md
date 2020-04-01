@@ -33,61 +33,61 @@ For districts that don't participate in the National School Lunch Program, the d
 
 Once the poverty percentage is calculated, a district needs to [determine if it's Rural or Urban][5] based on the FCC's  designation. From there, the discount percentages can be calculated:
 
-\<table class="table-bordered table-striped"\>
-\<thead\>
-\<tr\>
-\<th\>Income\</th\>
-\<th\>Urban Discount (C1)\</th\>
-\<th\>Rural Discount (C1)\</th\>
-\<th\>Urban Discount (C2)\</th\>
-\<th\>Rural Discount (C2)\</th\>
-\</tr\>
-\</thead\>
-\<tbody\>
-\<tr\>
-\<td\>\<1%\</td\>
-\<td\>20%\</td\>
-\<td\>25%\</td\>
-\<td\>20%\</td\>
-\<td\>25%\</td\>
-\</tr\>
-\<tr\>
-\<td\>1%-19%\</td\>
-\<td\>40%\</td\>
-\<td\>50%\</td\>
-\<td\>40%\</td\>
-\<td\>50%\</td\>
-\</tr\>
-\<tr\>
-\<td\>20%-34%\</td\>
-\<td\>50%\</td\>
-\<td\>60%\</td\>
-\<td\>50%\</td\>
-\<td\>60%\</td\>
-\</tr\>
-\<tr\>
-\<td\>35%-49%\</td\>
-\<td\>60%\</td\>
-\<td\>70%\</td\>
-\<td\>60%\</td\>
-\<td\>70%\</td\>
-\</tr\>
-\<tr\>
-\<td\>50%-74%\</td\>
-\<td\>80%\</td\>
-\<td\>80%\</td\>
-\<td\>80%\</td\>
-\<td\>80%\</td\>
-\</tr\>
-\<tr\>
-\<td\>75%-100%\</td\>
-\<td\>90%\</td\>
-\<td\>90%\</td\>
-\<td\>85%\</td\>
-\<td\>85%\</td\>
-\</tr\>
-\<tbody\>
-\</table\>
+<table class="table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>Income</th>
+			<th>Urban Discount (C1)</th>
+			<th>Rural Discount (C1)</th>
+			<th>Urban Discount (C2)</th>
+			<th>Rural Discount (C2)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><1%</td>
+			<td>20%</td>
+			<td>25%</td>
+			<td>20%</td>
+			<td>25%</td>
+		</tr>
+		<tr>
+			<td>1%-19%</td>
+			<td>40%</td>
+			<td>50%</td>
+			<td>40%</td>
+			<td>50%</td>
+		</tr>
+		<tr>
+			<td>20%-34%</td>
+			<td>50%</td>
+			<td>60%</td>
+			<td>50%</td>
+			<td>60%</td>
+		</tr>
+		<tr>
+			<td>35%-49%</td>
+			<td>60%</td>
+			<td>70%</td>
+			<td>60%</td>
+			<td>70%</td>
+		</tr>
+		<tr>
+			<td>50%-74%</td>
+			<td>80%</td>
+			<td>80%</td>
+			<td>80%</td>
+			<td>80%</td>
+		</tr>
+		<tr>
+			<td>75%-100%</td>
+			<td>90%</td>
+			<td>90%</td>
+			<td>85%</td>
+			<td>85%</td>
+		</tr>
+	<tbody>
+</table>
 
 ## The Process
 The [E-Rate process][6] is divided into several, typically referred to by the form numbers:

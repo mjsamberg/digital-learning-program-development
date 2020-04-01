@@ -20,7 +20,7 @@ In their 2002 book [Student Achievement Through Staff Development][7], Joyce and
 |Above plus Demonstration|30%|20%|0%|
 |Above plus practice and feedback|60%|60%|5%|
 |Above plus coaching in classroom after training|95%|95%|95%|
-{:.table .table-striped .table-striped}
+{:.table .table-bordered .table-striped}
 
 
 In summary, this essentially destroys the idea that a one-shot professional development will have any useful impact on practice, especially if it's only a "sit-and-get" style workshop. 

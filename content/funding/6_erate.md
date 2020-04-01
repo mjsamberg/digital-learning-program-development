@@ -41,7 +41,7 @@ Once the poverty percentage is calculated, a district needs to [determine if it'
 |35%-49%|60%|70%|60%|70%|
 |50%-74%|80%|80%|80%|80%|
 |75%-100%|90%|90%|85%|85%|
-{:.table-bordered .table-striped}
+{:.table .table-striped .table-striped}
 
 ## The Process
 The [E-Rate process][6] is divided into several, typically referred to by the form numbers:

@@ -47,6 +47,6 @@ The third phase is to identify expansion, as this, while important, is also the 
 * New software, curricular initiatives, and technology programs
 * New staff
 
-The fourth phase is your "wish list", in the unlikely event you have extra funds or end-of-year funds or a grant.
+The fourth phase is your "wish list", in the event you have extra funds or end-of-year funds or a grant.
 
 Once you have identified the items, you and your finance officer will work together to figure out which budget can handle each item. Some new purchases may be shifted from capital outlay to current expense funding based on other needs, or some costs may be split (for example, a technician who supports CTE labs may have a portion of their salary charged to CTE). It may be determined that you'll pursue a grant to launch an initiative or hold on another initiative for the following fiscal year. This all gets documented in a spreadsheet for your reference and then loaded in your budget system. Once July 1 rolls around, you're free to start spending! 

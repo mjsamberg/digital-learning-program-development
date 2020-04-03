@@ -30,6 +30,7 @@ Once you've identified all of the components of the budget, it's time to actuall
 * Maintenance agreements
 * Software subscriptions
 * Device leases 
+
 The second phase is to identify the costs to keep the equipment you have running. This includes the following:
 * Ink, toner, and paper for copy machines
 * Projector bulbs
@@ -37,6 +38,7 @@ The second phase is to identify the costs to keep the equipment you have running
 * Replacement parts for computers (and a buffer for unexpected replacements)
 * Any data processing or service charges that will be needed
 * Any professional learning that will be needed for existing software
+
 The third phase is to identify expansion, as this, while important, is also the first thing to be cut in the event of a financial exigency:
 * Computer replacement cycles
 * New or expanded computer rollouts
@@ -44,6 +46,7 @@ The third phase is to identify expansion, as this, while important, is also the 
 * Furniture/technology related spaces
 * New software, curricular initiatives, and technology programs
 * New staff
+
 The fourth phase is your "wish list". In the unlikely event you have extra funds or end-of-year funds or a grant.
 
 Once you have identified the items, you and your finance officer will work together to figure out which budget can handle each item. Some new purchases may be shifted from capital outlay to current expense funding based on other needs, or some costs may be split (for example, a technician who supports CTE labs may have a portion of their salary charged to CTE). It may be determined that you'll pursue a grant to launch an initiative or hold on another initiative for the following fiscal year. This all gets documented in a spreadsheet for your reference and then loaded in your budget system. Once July 1 rolls around, you're free to start spending! 

@@ -22,6 +22,7 @@ In an RFP, you should be as detailed as possible, and should issue a document (s
 * Implementation timeline
 * Information about other district initiatives that may intersect with the use of this content
 * Requirements to inter-operate with other systems, such as a Student Information System.
+
 Providing the vendor with as much information as possible helps them provide you with the best solution. Vendors will review your needs and prepare a response. In your response, you should ask for the following to be included:
 * Protocols and timeline for implementation
 * If the RFP is for a digital content package, you should ask for:

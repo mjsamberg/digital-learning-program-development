@@ -58,6 +58,8 @@ header_pages:
         url: content/pl/1_intro
       - title: "Unit 6: Funding"
         url: content/funding/1_intro
+      - title: "Unit 7: Cybersecurity"
+        url: content/cybersecurity/1_intro
 
 footer_pages: 
   # - title: Home

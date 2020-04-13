@@ -136,3 +136,24 @@
 - title: Projects
   url: /content/funding/8_projects.html
   section: 6
+- title: Introduction
+  url: /content/cybersecurity/1_intro.html
+  section: 7
+- title: Networks and Disaster Recovery Planning
+  url: /content/cybersecurity/2_networks.html
+  section: 7
+- title: Physical Security
+  url: /content/cybersecurity/3_physical.html
+  section: 7
+- title: User Education
+  url: /content/cybersecurity/4_user.html
+  section: 7
+- title: Data Security
+  url: /content/cybersecurity/5_data.html
+  section: 7
+- title: Public Records Laws
+  url: /content/cybersecurity/6_publicrecords.html
+  section: 7
+- title: Projects
+  url: /content/cybersecurity/projects.html
+  section: 7

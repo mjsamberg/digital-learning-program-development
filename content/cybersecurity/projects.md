@@ -10,7 +10,10 @@ For this project, you'll create a data security matrix similar to [UNC Charlotte
 ## Option 2: Create a Data Security Training Module
 Create a training module for users on the topic(s) of your choice throughout Unit 7. The module should be factually accurate (4 points) and use elements of good professional learning outlined in Unit 5 (2 points). The module may be for online or face-to-face delivery; synchronous or self-paced but should involve a training module and a plan for follow-up (1 point). In your reflection (3 points), identify the rationale behind the training module you created and the rationale for your design, a potential plan for implementation, and any challenges you faced in designing the activity.
 
-## Option 3: Choose Your Own Adventure
+## Option 3: Create a BYOD Data Security Policy
+Create a policy for users who are accessing work data on personally owned devices. This should include encryption and password standards, data breach notifications, and other best practices (7 points). In your reflection, address the decisions you made, challenges you faced, and how you plan to monitor compliance (3 points).
+
+## Option 4: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 
 [1]:	https://itservices.uncc.edu/iso/guideline-data-handling

@@ -26,8 +26,13 @@ The easiest thing you can do to protect a computer network from being a victim o
   
 In addition to workstations, any Internet connected device in your school is a potential attack vector. Your phones and phone systems, printers, HVAC systems, lighting systems, servers, applications, PA systems, etc. are all potential targets for attack or vectors that can be used to attack other systems. These systems can also be impacted by ransomware attacks (many phone systems have been compromised in ransomware attacks). These devices all need to be patched and maintained (which is another argument for standardization). In the event that a device can no longer be patched or upgraded, it is a liability and should be discarded.
 
+## Anti-Malware Tools
+Beyond patching, there are a variety of tools that can proactively detect malware on a computer and prevent a computer from being infected or spread. [Google Suite][1] and [Office 365][2] feature built-in anti-phishing and anti-malware protection that can automatically detect and quarantine malware and flag potential phishing emails. Content filters like [ZScaler][3] and many firewalls can also proactively detect and block malware.  
+
+On your computer, tools like [Windows Defender][4] (built-in to windows) and [DetectX for Mac][5] can be used to identify and protect computers from malware by referencing and looking for known executable files. These tools contain profiles that need to be kept up-to-date to find the latest malware. ChromeOS and iOS are locked-down enough that they don't need anti-malware tools because they're built in to the way the OS works. On Android devices, malware is a possibility, but can be avoided by only downloading apps from the Play Store. 
+
 ## Managed Services
-One of the advantages of using hosted, managed services, especially for critical systems, is that it shifts the responsibility for patching and management from you as the CTO to the vendor. Instead of needing to take responsibility for your keeping your servers secure, patched, and isolated, a managed service does this for you. In addition, if a managed service is breached through technical means (not due to a privilege issue or a compromised account), the vendor of that service is liable which protects both the CTO and the district both legally and financially.   
+One of the advantages of using hosted, managed services, especially for critical systems, is that it shifts the responsibility for patching and management from you as the CTO to the vendor. Instead of needing to take responsibility for your keeping your servers secure, patched, and isolated, a managed service does this for you. In addition, if a managed service is breached through technical means (not due to a privilege issue or a compromised account), the vendor of that service is liable which protects both the CTO and the district both legally and financially.  
 
 ## Disaster Recovery Plans
 Despite your best plans and tightest security, you may still end up with a data breach or a malware attack. Like many other potential disasters that may impact a school system, this is one that needs to be planned for. In the event of a data breach, the impacted system should be shut down immediately and local authorities should be notified. They'll provide direction and begin a detailed investigation to determine how the attacker got in, and what (if any) data was stolen or compromised. In the event that the issue was caused by an unpatched vulnerability, districts (or a liable service provider) may have to provide identity theft protection for a year and pay for any damages that result from the theft of personal data. 
@@ -42,3 +47,9 @@ However, a comprehensive backup strategy is critical. On-premises servers and co
 Some districts still use tape backup systems to back up servers, These systems are time-tested and highly effective. However, in these systems, tapes should also be transferred off site to prevent data loss in the event of a fire or other catastrophic event in the building. For example in the last district where I used tape backup systems, I had one set of tapes each month moved from our district office to a safe deposit box in Raleigh since our school district flooded several times. 
 
 Some cloud backup tools will also back up users Google Drives and OneDrives so that they can also be restored in the event of data loss. 
+
+[1]:	https://support.google.com/a/answer/9157861?hl=en
+[2]:	https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/anti-spam-and-anti-malware-protection?view=o365-worldwide
+[3]:	https://help.zscaler.com/zia/configuring-malware-protection-policy
+[4]:	https://www.microsoft.com/en-us/windows/comprehensive-security
+[5]:	https://sqwarq.com/detectx/

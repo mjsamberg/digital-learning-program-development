@@ -19,6 +19,8 @@ A few years ago, the webcomic xkcd released a strip called [Password Strength][9
 
 The second recommendation is to ensure that no two sites use the same password. Every password should be unique to every website, such that if a website is compromised, the damage will be limited to that one website. The password should also be entirely unique, such that a hacker could guess the password to another site based on the one password they know. Obviously, this is incredibly difficult to manage. However, the use of a password manager tool, such as [LastPass][10], [1Password][11], or [Dashlane][12] avoids this issue by automatically generating passwords for sites when you sign up, and then storing all of your passwords for you. The passwords are stored in a database and then filled in for you across your devices. These apps are designed with special encryption, such that even if the password and database were stolen, it would be nearly impossible to capture data from them. Using a password manager means that a user would need to remember a small handful of passwords for their computer and password manager, instead of passwords for every website. 
 
+Combining these recommendations, you would have a secure passphrase for your password manager, and nonsense random passwords generated for all sites at the point of use. As the Computerphile video shares, the best option is to use Google/Facebook/Apple or other single-sign-in when you can.
+
 ## Two-Factor Authentication
 Authentication factors are the different ways that you can identify that a person is who they claim to be. In general, there are three different factors of authentication that are used:
 
@@ -54,7 +56,7 @@ User training and education is a critical component to any cybersecurity program
 [5]:	https://www.youtube.com/watch?v=8ZtInClXe1Q
 [6]:	https://www.youtube.com/watch?v=7U-RbOKanYs
 [7]:	https://haveibeenpwned.com
-[8]:	https://www.youtube.com/watch?v=7U-RbOKanYs 
+[8]:	https://www.youtube.com/watch?v=7U-RbOKanYs
 [9]:	https://xkcd.com/936/
 [10]:	https://www.lastpass.com
 [11]:	https://1password.com

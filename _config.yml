@@ -44,7 +44,7 @@ header_pages:
     absolute: true
   - title: Home
     url: /
-  - title: Units
+  - title: DL Program Development
     subpages:
       - title: "Unit 1: Introduction"
         url: /dlprograms/intro/1_intro

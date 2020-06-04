@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Unit 3 Introduction"
-sidebar_section: 3
-next: "content/content/2_accessibility.html"
+course: "dlprograms"
+unit: 3
 ---
  In the "old days", a teacher would receive a textbook and curriculum materials, and would teach from those materials. Most teachers would put their own spin on these resources, but the core content would remain the same and wouldn't vary that much from teacher to teacher. Enter...the Internet. Now, a teacher never has to open their district-issued textbooks (if they even have them, but more on that in a moment).  They can find an endless supply of activities and resources on the Internet that they can use in their classrooms. Many of them are available free of charge, or for a small fee, and teachers have been able to find spaces on the Internet to monetize their materials. Recognizing the changing marketplace and the push towards digital materials, CTOs now have a bigger seat at the table in the materials selection process, with a muddier marketplace than ever.
 

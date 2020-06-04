@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Introduction"
-sidebar_section: 7
-next: "content/cybersecurity/2_networks.html"
+course: "dlprograms"
+unit: 7
 ---
 A data breach or a cybersecurity incident is the closest thing a CTO will have to a "3 a.m. phone call". Cybersecurity breaches of any kind can be critically damaging to a CTO, to their school and district, to students and staff and their families, and to public trust. 
 

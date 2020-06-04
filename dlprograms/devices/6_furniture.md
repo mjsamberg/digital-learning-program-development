@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Furniture and Physical Spaces"
-sidebar_section: 4
-previous: "/content/devices/5_otherdevices.html"
-next: "/content/devices/7_makerspaces.html"
+course: "dlprograms"
+unit: 4
 ---
 Fundamentally, classroom layouts haven't changed very much in the last 100 years. Desks in rows, probably connected to uncomfortable chairs that students need to sit in for hours on end. More than likely, this furniture model is incompatible with your school's vision for digital-age learning. If for no other reason, the desks aren't large enough for a student to place a laptop and a notebook on the same surface. From a UDL standpoint, some students are too large or too small for the desks, some don't like the sensation, and some students may need to work in an isolated area to be able to focus or may need a different type of chair. For some students, seating arrangements may be dictated by their IEP or used to provide an environment that supports their learning differences.
 

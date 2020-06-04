@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Makerspaces"
-sidebar_section: 4
-previous: "/content/devices/6_furniture.html"
-next: "/content/devices/8_supportmodels.html"
+course: "dlprograms"
+unit: 4
 ---
 More and more, schools are integrating "[makerspaces][1]", usually in the library or another common area. A makerspace is a space designed for students to explore creativity and STEM education in a hands-on way. Critically, makerspaces should be about **making** and less about**space**. 
 

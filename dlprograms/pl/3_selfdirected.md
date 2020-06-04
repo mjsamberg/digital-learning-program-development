@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Self-Directed and Informal PL"
-sidebar_section: 5
-previous: /content/pl/2_coaching.html
-next: /content/pl/4_badging.html
+course: "dlprograms"
+unit: 5
 ---
 Teachers are increasingly turning to the Internet or [seeking resources beyond what a school provides to drive their own learning][1]. The theoretical framework behind this is called [heutagogy][2], and has anchors in the theories of both constructivism and [constructionism][3]. Like Makerspaces encourage students to experiment and learn through the process of development, teachers will seek out the information they need to direct their own professional learning and growth. In many cases, the extent to which teachers will do this is [cultural][4] - how much the school values this work, encourages growth, and supports teachers in this process. Schools also see results from self-directed professional learning when time and resources are made available for teachers to engage in conferences and professional organizations, and for teachers to share their learning with others.
 

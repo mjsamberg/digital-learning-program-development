@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Budgeting"
-sidebar_section: 6
-previous: "/content/funding/2_nc.html"
-next: "/content/funding/4_procurement.html"
+course: "dlprograms"
+unit: 6
 ---
 It's often said that a school district's priorities can be shown by where they spend their money. This is becoming painfully true as we look at some districts which are able to pivot immediately to remote learning for the COVID-19 crisis, versus others who are tens of thousands of computers short and haven't invested in any teacher training on digital learning.
 

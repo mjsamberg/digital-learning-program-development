@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Physical Security"
-sidebar_section: 7
-previous: "content/cybersecurity/2_networks.html"
-next: "content/cybersecurity/4_user.html"
+course: "dlprograms"
+unit: 7
 ---
 If I walked in to your school office dressed as the copier repair person, and knew the locations of the copy machines in your building, how far would I get before I was questioned? Would I be able to roam your building freely? Would someone let me use a computer? Would they log out of whatever applications they were using before they did? 
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Grants"
-sidebar_section: 6
-previous: "/content/funding/4_procurement.html"
-next: "/content/funding/6_erate.html"
+course: "dlprograms"
+unit: 6
 ---
 All grants, regardless of whether a block grant or a competitive grant, have a few components in common:
 * Grants almost always involve require a specific project or action to be executed and the project needs to be thoroughly documented and reviewed.

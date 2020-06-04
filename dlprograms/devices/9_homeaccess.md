@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Home Access"
-sidebar_section: 4
-previous: "/content/devices/8_supportmodels.html"
-next: "/content/devices/10_projects.html"
+course: "dlprograms"
+unit: 4
 ---
 
 One of the major equity issues in digital-age learning programs is what's referred to as the "Homework Gap", where students do not have access to the Internet at home, even if they have a device. 

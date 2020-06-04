@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Marketing and Communications"
-sidebar_section: 2
-previous: "/content/leadership/3_planning.html"
-next: "content/leadership/5_evaluation.html"
+course: "dlprograms"
+unit: 2
 ---
 > If you're not telling your story, someone else is.
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Program Evaluation"
-sidebar_section: 2
-previous: "/content/leadership/4_marketing.html"
-next: "content/leadership/6_dlmodels.html"
+course: "dlprograms"
+unit: 2
 ---
 Evaluation is the process of gathering and analyzing data to inform decision-making. Evaluation is different from assessment, which is the process of determining performance against a known standard. Evaluation is also different than research, which is the process of investigating phenomena to derive conclusions or develop theory. Evaluation does, however, use data from assessment and research to support decision making.
 

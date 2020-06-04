@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Policies and Laws"
-sidebar_section: 2
-next: "/content/leadership/projects.html"
-previous: "content/leadership/6_dlmodels.html"
+course: "dlprograms"
+unit: 2
 ---
 ## Local Policies
 Districts are required, both by law and by good practice, to have a few policies in place that are reviewed yearly: a directory information policy, an applications policy, a photography policy, a social media policy, and an acceptable/responsible use policy. Districts may choose to have other policies and regulations at the discretion of the Board, and there are other policies around purchasing and contracting that we will discuss later in the course that aren't included in this list. The directory information policy is part of FERPA (below) and the applications policy is part of COPPA (below). Typically a parent and student will be asked to consent to all of these policies at one time, and have the option to opt-out. Increasingly in most district, opt-out requires a conference with the parent to understand the reason behind the request so that reasonable accommodations can be made. On average, less than 1% of students in any given LEA opt out. It is acceptable to disallow opt-outs for state-required functions such as testing. 

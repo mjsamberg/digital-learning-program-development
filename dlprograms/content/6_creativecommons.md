@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Creative Commons and Open Source"
-sidebar_section: 3
-previous: "content/content/5_copyright.html"
-next: "content/content/7_oer.html"
+course: "dlprograms"
+unit: 3
 ---
 The holder of a copyright can give up any of the rights afforded to them through copyright, including releasing the work into the Public Domain with no restriction. In the early days of software development, academics and developers realized that they needed to collaborate on software in order for it to be successful. While some software was kept proprietary, other software was released to the Internet for anyone to view the source code and improve upon. In Open Source software, anyone had access to the source code. While there was a "blessed" master copy of the software, anyone could create a patch or new feature for this software that a governing body could adopt for everyone to use. But an individual could also remix (pull elements from the original and create something new) the software into something unique that only they would use. Virtually all computing devices today include some form of open source software, from the Apache and nginx web server packages which account for nearly 75% of all web servers on the Internet to Apple OSes which are based on the open-source Unix operating system, to Firefox to Chrome and Android which are projects that Google has open sourced under the Chromium project. 
 

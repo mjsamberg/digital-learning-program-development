@@ -3,8 +3,6 @@ layout: page
 title: "Digital Learning in North Carolina"
 course: "dlprograms"
 unit: 1
-previous: /content/intro/2_history.html
-next: /content/intro/4_roles.html
 ---
 In 1993, Governor Jim Hunt launched the [North Carolina Information Highway][1]. This program, spearheaded by the Department of Commerce, the NC Research and Education Network, and local telephone companies, created the largest public switched network in the world at the time, and eventually spawned off the E-NC Authority, spearheading rural broadband. The E-NC authority operated until 2011, when it was folded back into state government as the rural broadband office in the Department of Information Technology. While the dream of connecting every public institution was never fully realized through this program, numerous video links were established and NC Universities and Community Colleges were able to offer video classes between campuses and between universities. Rural schools were able to offer students synchronous video classes through the NC School of Science and Math. The NCIH video conferencing backbone still operates and is actively used today across many schools in North Carolina.
 

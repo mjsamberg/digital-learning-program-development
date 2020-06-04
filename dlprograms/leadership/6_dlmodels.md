@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Digital Learning Frameworks and Models"
-sidebar_section: 2
-previous: "/content/leadership/5_evaluation.html"
-next: "content/leadership/7_policy.html"
+course: "dlprograms"
+unit: 2
 ---
 Models, standards, and frameworks can provide a research base for your digital-age learning program. There are many different versions of frameworks for instruction, and only a few are listed on this page. Typically, a digital-age learning plan will choose one framework to adopt for their district, or they will pick pieces of them that align to their vision.
 

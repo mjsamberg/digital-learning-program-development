@@ -3,7 +3,6 @@ layout: page
 title: "Digital Learning Staff Roles"
 course: "dlprograms"
 unit: 1
-previous: /content/intro/3_nc.html
 ---
 ## Chief Technology Officer
 (Also called the Director of Technology or Director of Instructional Technology). While in some districts, the technical component of this job may be separated from the instructional component, the CTO is the lead technology team member in the district. They are responsible for long-term planning  and leadership of both the technology infrastructure and instructional program. They are expected to work with superintendents, school boards, and the community to construct a vision for digital-age learning within the district and execute that vision. They also plan, develop, and deliver professional development to stakeholders throughout the district. While there are no set licensure criteria for a CTO, most districts require a Master's degree in Instructional Technology and, in North Carolina, the 077 Instructional Technology Specialist license. UNC Chapel Hill School of Government offers a [Certified Educational Chief Technology Officer (CECTO)][1] program for practicing CTOs. The [Consortium for School Networking (CoSN)][2] is the national organization for CTOs. Their certification, the [Certified Educational Technology Leader (CETL)][3] involves passing a rigorous day-long assessment that is offered several times per year. CoSN has also developed a [Framework of Essential Skills][4] for a district CTO.

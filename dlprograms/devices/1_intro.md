@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Unit 4 Introduction"
-sidebar_section: 4
-next: "/content/devices/2_selection.html"
+course: "dlprograms"
+unit: 4
 ---
 As a CTO, you'll have the daunting task of building a network that can support thousands of different devices (and hundreds of different models - this is not an exaggeration, even in a small LEA or Charter). Management of the variety of computers, printers, displays, applications, phones, air conditioners, intercom systems, etc will be of the single biggest stressors as a CTO. The development (and the enforcement) will be a huge commitment, but is one of the best ways to mitigate some of the stressors you'll face. 
 

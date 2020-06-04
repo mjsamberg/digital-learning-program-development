@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Evaluation of Digital Resources"
-sidebar_section: 3
-previous: "content/content/3_udl.html"
-next: "content/content/5_copyright.html"
+course: "dlprograms"
+unit: 3
 ---
 Every learning object and software package you use is going to impact your students. Sometimes this impact will be positive and will provide value in supporting your learning goals. Sometimes the impact will be negative, that students will be worse-off for having used this product or tool. Sometimes, the impact will be neutral. Also, the best tool may not have the greatest impact. If a tool is pedagogically sound but everyone hates using it, for example, the impact of the tool will be dulled.
 

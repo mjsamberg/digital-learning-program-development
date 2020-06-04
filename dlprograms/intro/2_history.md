@@ -3,8 +3,6 @@ layout: page
 title: "A (Very Brief) History of Digital Learning"
 course: "dlprograms"
 unit: 1
-previous: /content/intro/1_intro.html
-next: /content/intro/3_nc.html
 ---
 
 Despite the fact that we tend to think of "technology" as "computers", the dictionary defines technology as "the application of scientific knowledge for practical purposes, especially in industry." Technology revolutionizing learning certainly isn't something new. The printing press made texts widely accessible for the very first time, eventually giving us the textbook. Overhead projectors [became widely used in the 1960s][1], allowing teachers to present and annotate diagrams for a whole class, and write on a transparency without worrying about the chalkboard. The [ball-point pen][2], invented in the 40s, [changed how we write on paper][3]. This section is a very brief and abbreviated history of digital learning. It is by no means comprehensive.

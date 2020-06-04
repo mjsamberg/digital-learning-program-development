@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Universal Design for Learning"
-sidebar_section: 3
-previous: "content/content/2_accessibility.html"
-next: "content/content/4_evaluation.html"
+course: "dlprograms"
+unit: 3
 ---
 Semantic styling is an accessibility requirement. But it also brings us things like reader mode which makes reading easier. Captions and transcripts are useful for people with hearing difficulties, but also with attention difficulties or ESL students or for people who just prefer to read. Access is a "minimum threshold" - while we make sure all children have access to all materials. But we don't tend to tailor materials to the needs of each student, which is something that technology, combined with our wealth of digital resources enables us to do. When we make adjustments for students with disabilities, we tend to do it to provide students with disabilities with an "average" classroom experience. As Harvard researcher Todd Rose points out, there is really no such thing as the "average student":
 

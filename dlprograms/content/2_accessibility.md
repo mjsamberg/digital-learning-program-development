@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Accessibility"
-sidebar_section: 3
-previous: "content/content/1_intro.html"
-next: "content/content/3_udl.html"
+course: "dlprograms"
+unit: 3
 ---
 
 One of the most important (and often overlooked) components of selecting good digital resources is to ensure that these resources are accessible to all students. In many districts, accessibility is an afterthought, and usually just thought simply as captioning videos. However, building and selecting tools that are accessible is a process that is intentional, involved, and complex.  Accessibility comes in two forms: software accessibility which will be discussed in this unit, and assistive and adaptive hardware which will be discussed in Unit 4.

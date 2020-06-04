@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Interoperability"
-sidebar_section: 3
-previous: "content/content/8_teachercreated.html"
-next: "content/content/10_projects.html"
+course: "dlprograms"
+unit: 3
 ---
 
 Once content is selected, CTOs and ITFs need to work to weave all of the content into a coherent ecosystem. We will talk more about infrastructure in Unit 4. However, for content packages, you should be particularly aware of the data needs of an application and will have to work to integrate it. Interoperability between educational software is a relatively new concept, and most packages still rely on text files being passed back and forth to provide data to different apps.

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Data Collection"
-sidebar_section: 2
-next: "/content/leadership/3_planning.html"
-previous: "content/leadership/1_intro.html"
+course: "dlprograms"
+unit: 2
 ---
 The [Deming Cycle][1] is a standard and common cycle for change management, consisting of four components: Plan, Do, Study, Act. 
 ## Data Collection

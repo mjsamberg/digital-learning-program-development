@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Program Planning"
-sidebar_section: 2
-next: "/content/leadership/4_marketing.html"
-previous: "content/leadership/2_datacollection.html"
+course: "dlprograms"
+unit: 2
 ---
 Once a vision for digital-age learning has been built and the current status is known, the process of program planning can begin. Typically this will happen in two phases: the development of a logic model (or a theory of action) and then the development of a formal strategic pan.
 

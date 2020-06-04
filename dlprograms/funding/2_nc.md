@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Public School Funding in North Carolina"
-sidebar_section: 6
-previous: "/content/funding/1_intro.html"
-next: "/content/funding/3_budgeting.html"
+course: "dlprograms"
+unit: 6
 ---
 A majority of the funding for public K-12 education in North Carolina comes from the State budget (approximately 65% of all K-12 funding). K-12 funding represents 39% of the state budget and is the largest expenditure for the State.  Federal funds, for Title I, EC, CTE, etc. contributes another 11% of state funding. Funding provided to each LEA by the county makes up the balance of funding in the state. Funding from the state and Federal governments are provided equally to each county based on a funding formula consisting of the ADM in each school district. ADM stands for _Average Daily Membership_ which is the average number of students in attendance. Calculations vary by state, but in [North Carolina it is calculated][1] as the total number of school days attended by all students in a school divided by the number of days per month. Federal funds are block grants to the state, which then allocate funds based on eligible ADM in each district.
 

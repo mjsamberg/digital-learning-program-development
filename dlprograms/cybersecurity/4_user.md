@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "User Education"
-sidebar_section: 7
-previous: "content/cybersecurity/3_physical.html"
-next: "content/cybersecurity/5_data.html"
+course: "dlprograms"
+unit: 7
 ---
 All of the technical tools in the world can't protect a user in your district from inadvertently releasing or being manipulated into sharing personal information.  Additionally, users are increasingly accessing school-owned data from personal devices (checking email accounts from their phones, etc.) so security practices can't be limited to software on the machines. Security best practices need to be implemented on all personally-owned devices as well, and schools have a responsibility to verify and enforce these settings. Some settings [can be managed remotely][1], but others require training users to do things on their own.
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Teacher Created Materials"
-sidebar_section: 3
-previous: "content/content/7_oer.html"
-next: "content/content/9_interoperability.html"
+course: "dlprograms"
+unit: 3
 ---
 
 Teachers sometimes find create their own learning objects to meet the needs of their students, or due to lack of resources, or because they can't find the OER materials that they want to use. The NC Digital Learning Initiative study referenced earlier found that teachers prefer to create their own learning objects (or prefer learning objects created by other teachers) because they believe that the content they create is the content best matched for their students. They also lament the lack of resources and learning objects available to them. 

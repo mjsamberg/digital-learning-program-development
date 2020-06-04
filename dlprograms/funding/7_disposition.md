@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Disposition"
-sidebar_section: 6
-previous: "/content/funding/6_erate.html"
-next: "/content/funding/8_projects.html"
+course: "dlprograms"
+unit: 6
 ---
 At the end of a capitalized asset's useful life, a public school can't simply throw it away, nor can the devices be given away. [NC General Statute 160A, Article 12][1] defines how cities and schools dispose of capitalized assets. Capitalized assets need to be declared by Board policy as surplus, and then sold. Some districts [hold surplus sales in a warehouse at a predetermined date and time][2]. Others use sites like [GovDeals][3] to list surplus materials for auction or sale. 
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Copyright"
-sidebar_section: 3
-previous: "content/content/4_evaluation.html"
-next: "content/content/6_creativecommons.html"
+course: "dlprograms"
+unit: 3
 ---
 Article 1, Section 8 of the United States Constitution states that "The Congress shall have Power"...""To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries." In practice, this clause has yielded our modern copyright law. 
 

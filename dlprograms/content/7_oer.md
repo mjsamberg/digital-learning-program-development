@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Open Educational Resources (OER)"
-sidebar_section: 3
-previous: "content/content/6_creativecommons.html"
-next: "content/content/8_teachercreated.html"
+course: "dlprograms"
+unit: 3
 ---
 Open Educational Resources are a subset of "free stuff on the internet". Specifically, the principles of OER align with the principles of reuse and remix that are espoused by Creative Commons. OER lessons are designed to be free of charge and almost all of them are licensed under a Creative Commons license.
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Unit 4 Projects"
-sidebar_section: 4
-previous: "/content/devices/9_homeaccess.html"
+course: "dlprograms"
+unit: 4
 ---
 The purpose of the projects in each unit is to provide you with hands-on experience with the content in the unit. Each unit will have several project options. You should choose the one project that best aligns with your personal interests and your context.
 **NOTE: For some of these projects, these deliverables may already exist in your district. While you're free to build on what exists, you cannot simply turn in what your district already has.**

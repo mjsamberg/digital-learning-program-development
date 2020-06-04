@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Data Security"
-sidebar_section: 7
-previous: "content/cybersecurity/4_user.html"
-next: "content/cybersecurity/6_publicrecords.html"
+course: "dlprograms"
+unit: 7
 ---
 Until the very early 2000's, many schools and colleges used a Social Security Number as a unique identifier for students. The number was posted in many places and made available to teachers on class rosters. My high school ID card, which students were required to wear, had my social security number in large print next to my name (along with a barcode). When I came to college, professors would often post your SSN on the wall with your grades. Sometimes they'd even include your name.
 

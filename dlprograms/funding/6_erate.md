@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "E-Rate Program"
-sidebar_section: 6
-previous: "/content/funding/5_grants.html"
-next: "/content/funding/7_disposition.html"
+course: "dlprograms"
+unit: 6
 ---
 Take a look at your most recent cell phone bill or Internet bill. On the bill, you'll notice a "Universal Service Fee". This charge funds the Federal [Universal Service Fund][1]. The USF is a program mandated by the FCC and administered by the [Universal Service Administrative Company][2] (USAC). USF provides application-based funding to offset the cost of network construction and service for the following four categories:
 * Offsetting high cost telecommunications installations such as running telephone cables to rural houses or across mountains.

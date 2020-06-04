@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Networks and Disaster Recovery Planning"
-sidebar_section: 7
-previous: "content/cybersecurity/1_intro.html"
-next: "content/cybersecurity/3_physical.html"
+course: "dlprograms"
+unit: 7
 ---
 ## Principle of Least Privilege
 One of the core principles of cybersecurity is the _Principle of Least Privilege_. The Principle of Least Privilege is the concept that any user should not have access to things that they don't need to do their jobs. Restricting the number of files and computers a user can compromise is a way to reduce your overall attack surface.

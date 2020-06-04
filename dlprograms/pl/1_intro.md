@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Professional Learning"
-sidebar_section: 5
-next: /content/pl/2_coaching.html
+course: "dlprograms"
+unit: 5
 ---
 "Professional Development" is a loaded term, often being the target of [jokes][1], [ridicule][2], and [memes][3]. We know from numerous [research][4] and [reports][5], as well as anecdotal experiences, that professional development activities are rarely high-quality and rarely align to the needs of the teachers they serve.  Additionally, the only true metric that we have for professional development is _survival_ - how many participants attended a professional development event and lived through the experience so they could earn a certificate of completion. While some schools may collect data on the quality of PD, many schools never fully operationalize that data. An even smaller number of schools will ever customize PD to meet the needs of their teachers or collect data on how PD is changing classroom practice (beyond a compliance measure - are teachers doing the thing that they were told to do as a part of the PD). Compliance doesn't tend to drive long term changes to practice, as practices begin to fade in cases where there isn't adequate buy-in and when administrators stop looking for a specific intervention. 
 

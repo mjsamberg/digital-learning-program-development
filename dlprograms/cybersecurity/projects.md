@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Projects"
-sidebar_section: 7
-previous: "content/cybersecurity/6_publicrecords.html"
+course: "dlprograms"
+unit: 7
 ---
 ## Option 1: Create a Data Security Matrix
 For this project, you'll create a data security matrix similar to [UNC Charlotte's guidelines][1] and/or NC State's [list of data elements][2] and [storage locations][3] chart that's customized for your district. You should list the data elements that your district has, applicable laws (FERPA, IDEA, Public Records laws, and board policies; most of them are included in NC State's table already).   You should also list the systems your school has access to and where data may be stored (7 points). In your reflection (3 points), address the challenges you had creating the chart and how you identified the data and systems reflected in the chart.

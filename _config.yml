@@ -31,7 +31,7 @@ github_username:  mjsamberg
 github_url: https://github.com/mjsamberg/digital-learning-program-development
 
 repository: "mjsamberg/digital-learning-program-development/"
-
+nav_showcourses: 1
 # Build settings
 plugins:
   - jekyll-feed
@@ -44,23 +44,6 @@ header_pages:
     absolute: true
   - title: Home
     url: /
-  - title: DL Program Development
-    subpages:
-      - title: "Unit 1: Introduction"
-        url: /dlprograms/intro/1_intro
-      - title: "Unit 2: Leadership"
-        url: /dlprograms/leadership/1_intro
-      - title: "Unit 3: Content and Materials"
-        url: /dlprograms/content/1_intro
-      - title: "Unit 4: Technology Infrastructure"
-        url: /dlprograms/devices/1_intro
-      - title: "Unit 5: Professional Learning"
-        url: /dlprograms/pl/1_intro
-      - title: "Unit 6: Funding"
-        url: /dlprograms/funding/1_intro
-      - title: "Unit 7: Cybersecurity"
-        url: /dlprograms/cybersecurity/1_intro
-
 footer_pages: 
   # - title: Home
   #   url: /

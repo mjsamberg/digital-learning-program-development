@@ -46,7 +46,31 @@
               {% endif %} 
             </li>
           {% endif %}
-        {%- endfor -%} 
+        {%- endfor -%}
+        {% if site.nav_showcourses == 1 %}
+          {% for course in site.data.courses %}
+            <li class="nav-item dropdown">
+              {% assign element = course[0] %}
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ site.data.courses[element].shorttitle | escape}}</a>
+              <div class="dropdown-menu">
+                {% for unit in site.data.courses[element].units %}
+                    {% assign uid = unit[0] %}
+                    <a href="{{ site.data.courses[element].units[uid].home | relative_url }} " class="dropdown-item">{{ site.data.courses[element].units[uid].title | escape }}</a>
+                {% endfor %}
+              </div>
+            </li>
+          {% endfor %}
+        {% else %}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Courses</a>
+            <div class="dropdown-menu">
+              {% for course in site.data.courses %}
+                {% assign element = course[0] %}
+                <a href="{{ site.data.courses[element].homepage | relative_url }} " class="dropdown-item">{{ site.data.courses[element].title | escape }}</a>
+              {% endfor %}
+            </div>
+          </li>
+        {% endif %} 
       </ul>
     </div>
   </div>

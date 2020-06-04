@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="container">
+    <main">
+      {{ content }}
+    </main>
+    <h2 class="mt-5">Select Unit</h2>
+    <nav class="list-group">
+        {% for unit in site.data.courses[page.course].units %}
+            {% assign element = unit[0] %}
+            <a href="{{ site.data.courses[page.course].units[element].home | relative_url }} " class="list-group-item list-group-item-action lead">{{ site.data.courses[page.course].units[element].title }}</a>
+        {% endfor %}
+    </nav>
+</article>

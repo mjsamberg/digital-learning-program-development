@@ -1,6 +1,7 @@
 dlprograms:
   title: "Digital Learning Program Development"
-  homepage: "dlprograms"
+  shorttitle: "DL Program Dev"
+  homepage: "dlprograms/index.html"
   units:
     1:
       title: "Introduction"
@@ -36,7 +37,7 @@ dlprograms:
           url: /dlprograms/leadership/projects.html
     3:
       title: "Digital Content and Materials"
-      home: /dlprograms/leadership/3_planning.html
+      home: /dlprograms/content/1_intro.html
       pages:
           - title: Introduction
             url: /dlprograms/content/1_intro.html

@@ -41,12 +41,12 @@ layout: default
         {% if page.url == item.url %}
           {% if site.data.courses[page.course].units[page.unit].pages[prev_i] and forloop.index0>0 %}
             <li class="page-item">
-              <a class="page-link" href="{{site.data.courses[page.course].units[page.unit].pages[prev_i].url}}"><i class="fas fa-chevron-left">&nbsp;</i>Previous</i></a>
+              <a class="page-link" href="{{site.data.courses[page.course].units[page.unit].pages[prev_i].url | relative_url}}"><i class="fas fa-chevron-left">&nbsp;</i>Previous</i></a>
             </li>
           {% endif %}
           {% if site.data.courses[page.course].units[page.unit].pages[next_i] and next_i!=0 %}
             <li class="page-item ml-auto">
-              <a class="page-link" href="{{site.data.courses[page.course].units[page.unit].pages[next_i].url}}">Next&nbsp;<i class="fas fa-chevron-right"></i></a>
+              <a class="page-link" href="{{site.data.courses[page.course].units[page.unit].pages[next_i].url | relative_url}}">Next&nbsp;<i class="fas fa-chevron-right"></i></a>
             </li>
           {% endif %}
         {% endif %}

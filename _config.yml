@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+url: https://mjsamberg.github.io/courses
 title: Courses
 ncstate_brand_search_code: 018149703590495268473:u8ozjjclv58
 ncstate_brand_search_placeholder: Search FI

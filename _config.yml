@@ -47,19 +47,19 @@ header_pages:
   - title: Units
     subpages:
       - title: "Unit 1: Introduction"
-        url: content/intro/1_intro
+        url: /dlprograms/intro/1_intro
       - title: "Unit 2: Leadership"
-        url: content/leadership/1_intro
+        url: /dlprograms/leadership/1_intro
       - title: "Unit 3: Content and Materials"
-        url: content/content/1_intro
+        url: /dlprograms/content/1_intro
       - title: "Unit 4: Technology Infrastructure"
-        url: content/devices/1_intro
+        url: /dlprograms/devices/1_intro
       - title: "Unit 5: Professional Learning"
-        url: content/pl/1_intro
+        url: /dlprograms/pl/1_intro
       - title: "Unit 6: Funding"
-        url: content/funding/1_intro
+        url: /dlprograms/funding/1_intro
       - title: "Unit 7: Cybersecurity"
-        url: content/cybersecurity/1_intro
+        url: /dlprograms/cybersecurity/1_intro
 
 footer_pages: 
   # - title: Home

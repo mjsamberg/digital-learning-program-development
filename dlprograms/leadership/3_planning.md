@@ -9,7 +9,7 @@ Once a vision for digital-age learning has been built and the current status is 
 ## Logic Models
 A [logic model][1] is a tool for articulating the key elements of a project to support strategic planning and change management efforts. It's a graphical representation that can support a clear understanding of the project, goals, and assumptions. It can also be used as a tool for promoting stakeholder buy-in. Logic Models tend to be living documents and are typically revised often throughout a program cycle.
 <figure class="text-center">
-  <img src="{{site.url}}/dlprograms/leadership/samplelogicmodel.png" alt="Sample Logic Model" style="width: 50%; height: auto" class="mx-auto d-block"/>
+  <img src="{{site.baseurl}}/dlprograms/leadership/samplelogicmodel.png" alt="Sample Logic Model" style="width: 50%; height: auto" class="mx-auto d-block"/>
   <cite class="mx-auto d-block">Source: Friday Institute Research and Evaluation Team</cite>
 </figure>
 
@@ -33,7 +33,7 @@ Color-coding any element in a logic model can be helpful for improving readabili
 
 The logic model below was developed by Dr. Jeni Corn for a flipped classroom model called FIZZ, developed by Dr. Lodge McCammon. Notice that the activities are broken up by programmatic activities in FIZZ and by classroom activities and that outcomes are broken into short-term and intermediate outcomes.
 <figure class="text-center">
-  <img src="{{site.url}}/dlprograms/leadership/fizz-logic-model.png" alt="FIZZ Logic Model" style="width: 100%; height: auto" class="mx-auto d-block"/>
+  <img src="{{site.baseurl}}/dlprograms/leadership/fizz-logic-model.png" alt="FIZZ Logic Model" style="width: 100%; height: auto" class="mx-auto d-block"/>
   <cite class="mx-auto d-block">Source: Drs. Jeni Corn and Lodge McCammon</cite>
 </figure>
 

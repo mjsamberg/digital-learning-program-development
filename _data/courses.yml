@@ -1,0 +1,142 @@
+dlprograms:
+  title: "Digital Learning Program Development"
+  homepage: "dlprograms"
+  units:
+    1:
+      title: "Introduction"
+      home: /dlprograms/intro/1_intro.html
+      pages:
+        - title: Introduction
+          url: /dlprograms/intro/1_intro.html
+        - title: A (Very Brief) History of Digital Learning
+          url: /dlprograms/intro/2_history.html
+        - title: Digital Learning in North Carolina
+          url: /dlprograms/intro/3_nc.html
+        - title: Digital Learning Staff Roles
+          url: /dlprograms/intro/4_roles.html
+    2:
+      title: "Leadership of School Technology Programs"
+      home: /dlprograms/leadership/1_intro.html 
+      pages:
+        - title: Introduction
+          url: /dlprograms/leadership/1_intro.html
+        - title: Data Collection
+          url: /dlprograms/leadership/2_datacollection.html
+        - title: Program Planning
+          url: /dlprograms/leadership/3_planning.html
+        - title: Marketing and Communications
+          url: /dlprograms/leadership/4_marketing.html
+        - title: Program Evaluation
+          url: /dlprograms/leadership/5_evaluation.html
+        - title: Frameworks and Models
+          url: /dlprograms/leadership/6_dlmodels.html
+        - title: Policies and Laws
+          url: /dlprograms/leadership/7_policy.html
+        - title: Unit 2 Projects
+          url: /dlprograms/leadership/projects.html
+    3:
+      title: "Digital Content and Materials"
+      home: /dlprograms/leadership/3_planning.html
+      pages:
+          - title: Introduction
+            url: /dlprograms/content/1_intro.html
+          - title: Accessibility
+            url: /dlprograms/content/2_accessibility.html
+          - title: Universal Design for Learning
+            url: /dlprograms/content/3_udl.html
+          - title: Evaluating Digital Resources
+            url: /dlprograms/content/4_evaluation.html
+          - title: Copyright
+            url: /dlprograms/content/5_copyright.html
+          - title: Creative Commons
+            url: /dlprograms/content/6_creativecommons.html
+          - title: Open Educational Resources
+            url: /dlprograms/content/7_oer.html
+          - title: Teacher-Created Materials
+            url: /dlprograms/content/8_teachercreated.html
+          - title: Interoperability
+            url: /dlprograms/content/9_interoperability.html
+          - title: Projects
+            url: /dlprograms/content/10_projects.html
+    4:
+      title: "Technology Infrastructure and Devices"
+      home: /dlprograms/devices/1_intro.html
+      pages:
+        - title: Introduction
+          url: /dlprograms/devices/1_intro.html
+        - title: Selection of Computing Devices
+          url: /dlprograms/devices/2_selection.html
+        - title: BYOD and Guess Access
+          url: /dlprograms/devices/3_byod.html
+        - title: Networks
+          url: /dlprograms/devices/4_networks.html
+        - title: Other Devices
+          url: /dlprograms/devices/5_otherdevices.html
+        - title: Furniture and Physical Spaces
+          url: /dlprograms/devices/6_furniture.html
+        - title: Makerspaces
+          url: /dlprograms/devices/7_makerspaces.html
+        - title: Technical Support Models
+          url: /dlprograms/devices/8_supportmodels.html
+        - title: Home Internet Accesss
+          url: /dlprograms/devices/9_homeaccess.html
+        - title: Unit Projects
+          url: /dlprograms/devices/10_projects.html
+    5:
+      title: "Professional Learning"
+      home: /dlprograms/pl/1_intro.html
+      pages:
+        - title: Introduction
+          url: /dlprograms/pl/1_intro.html
+        - title: Coaching
+          url: /dlprograms/pl/2_coaching.html
+        - title: Self-Directed Learning
+          url: /dlprograms/pl/3_selfdirected.html
+        - title: Badging and Micro-credentials
+          url: /dlprograms/pl/4_badging.html
+        - title: Online Learning
+          url: /dlprograms/pl/5_online.html
+        - title: Projects
+          url: /dlprograms/pl/projects.html
+    6:
+      title: "Funding"
+      home: /dlprograms/funding/1_intro.html
+      pages:
+        - title: Introduction
+          url: /dlprograms/funding/1_intro.html
+        - title: Funding in NC
+          url: /dlprograms/funding/2_nc.html
+        - title: Budgeting
+          url: /dlprograms/funding/3_budgeting.html
+        - title: Procurement
+          url: /dlprograms/funding/4_procurement.html
+        - title: Grants
+          url: /dlprograms/funding/5_grants.html
+        - title: E-Rate
+          url: /dlprograms/funding/6_erate.html
+        - title: Disposition
+          url: /dlprograms/funding/7_disposition.html
+        - title: Projects
+          url: /dlprograms/funding/8_projects.html
+    7:
+      title: "Security"
+      home: /dlprograms/cybersecurity/1_intro.html
+      pages:
+        - title: Introduction
+          url: /dlprograms/cybersecurity/1_intro.html
+        - title: Networks and Disaster Recovery Planning
+          url: /dlprograms/cybersecurity/2_networks.html
+        - title: Physical Security
+          url: /dlprograms/cybersecurity/3_physical.html
+        - title: User Education
+          url: /dlprograms/cybersecurity/4_user.html
+        - title: Data Security
+          url: /dlprograms/cybersecurity/5_data.html
+        - title: Public Records Laws
+          url: /dlprograms/cybersecurity/6_publicrecords.html
+        - title: Projects
+          url: /dlprograms/cybersecurity/projects.html
+
+  
+  
+

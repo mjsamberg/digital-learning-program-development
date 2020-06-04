@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "A (Very Brief) History of Digital Learning"
-sidebar_section: 1
+course: "dlprograms"
+unit: 1
 previous: /content/intro/1_intro.html
 next: /content/intro/3_nc.html
 ---

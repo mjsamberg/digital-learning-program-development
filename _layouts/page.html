@@ -6,16 +6,13 @@ layout: default
     <h1>{{ page.title | escape }}</h1>
     <hr/>
   </header>
-
-  {% if page.sidebar_section %}
+  {% if site.data.courses[page.course].units[page.unit].pages %}
     <div class="container-fluid">
       <div class="row">
         <aside class="col-md-3 col-xs-12" aria-label="sidebar">
           <nav class="list-group">
-            {%- for item in site.data.sidebars -%}
-              {% if item.section == page.sidebar_section %}
+            {%- for item in site.data.courses[page.course].units[page.unit].pages -%}
                 <a href="{{ item.url | relative_url }} " class="list-group-item list-group-item-action {% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
-              {% endif %}
             {%- endfor -%}
           </nav>
         </aside>
@@ -35,20 +32,25 @@ layout: default
 
 </article>
 
-
-{% if page.next or page.previous %}
+{% if site.data.courses[page.course].units[page.unit].pages %}
   <nav class="container mt-5" aria-label="Previous/Next Navigation">
     <ul class="pagination pagination-lg  justify-content-center">
-      {% if page.previous %}
-        <li class="page-item">
-          <a class="page-link" href="{{page.previous | relative_url}}"><i class="fas fa-chevron-left">&nbsp;</i>Previous</i></a>
-        </li>
-      {% endif %}
-      {% if page.next %}
-        <li class="page-item ml-auto">
-          <a class="page-link" href="{{page.next | relative_url}}">Next&nbsp;<i class="fas fa-chevron-right"></i></a>
-        </li>
-      {% endif %}
+      {%- for item in site.data.courses[page.course].units[page.unit].pages -%}
+        {% assign next_i = forloop.index0 | plus: 1 %}
+        {% assign prev_i = forloop.index0 | minus: 1 %}
+        {% if page.url == item.url %}
+          {% if site.data.courses[page.course].units[page.unit].pages[prev_i] and forloop.index0>0 %}
+            <li class="page-item">
+              <a class="page-link" href="{{site.data.courses[page.course].units[page.unit].pages[prev_i].url}}"><i class="fas fa-chevron-left">&nbsp;</i>Previous</i></a>
+            </li>
+          {% endif %}
+          {% if site.data.courses[page.course].units[page.unit].pages[next_i] and next_i!=0 %}
+            <li class="page-item ml-auto">
+              <a class="page-link" href="{{site.data.courses[page.course].units[page.unit].pages[next_i].url}}">Next&nbsp;<i class="fas fa-chevron-right"></i></a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {%- endfor -%}
     </ul>
   </nav>
 {% endif %}

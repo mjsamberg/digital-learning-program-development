@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Unit 1: Introduction to Digital Learning"
-sidebar_section: 1
+course: "dlprograms"
+unit: 1
 next: "/content/intro/2_history.html"
 ---
 

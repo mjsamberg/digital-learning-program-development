@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Digital Learning in North Carolina"
-sidebar_section: 1
+course: "dlprograms"
+unit: 1
 previous: /content/intro/2_history.html
 next: /content/intro/4_roles.html
 ---

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Digital Learning Staff Roles"
-sidebar_section: 1
+course: "dlprograms"
+unit: 1
 previous: /content/intro/3_nc.html
 ---
 ## Chief Technology Officer

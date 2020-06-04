@@ -1,7 +1,11 @@
 <div class="container">
   <div class="site-title">
       <h1>
-        {{ site.title | escape }}
+        {%- if {{site.data.courses[page.course]}} -%}
+          {{site.data.courses[page.course].title}}
+        {%- else -%}
+          {{ site.title | escape }}
+        {%- endif -%}
       </h1>
       {%- if site.unit_name -%}
           <h2 class="parent-unit">

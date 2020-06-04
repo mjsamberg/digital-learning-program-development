@@ -8,7 +8,10 @@ Once a vision for digital-age learning has been built and the current status is 
 
 ## Logic Models
 A [logic model][1] is a tool for articulating the key elements of a project to support strategic planning and change management efforts. It's a graphical representation that can support a clear understanding of the project, goals, and assumptions. It can also be used as a tool for promoting stakeholder buy-in. Logic Models tend to be living documents and are typically revised often throughout a program cycle.
-![Sample Logic Model][image-1]
+<figure class="text-center">
+  <img src="{{site.url}}/dlprograms/leadership/samplelogicmodel.png" alt="Sample Logic Model" style="width: 50%; height: auto" class="mx-auto d-block"/>
+  <cite class="mx-auto d-block">Source: Friday Institute Research and Evaluation Team</cite>
+</figure>
 
 Logic models contain three major elements:
 * Strategies/activities - the main activities being done in the project.
@@ -29,19 +32,22 @@ Fourth, develop your linkages. Like in most process diagram, the actual work to 
 Color-coding any element in a logic model can be helpful for improving readability or in helping to better articulate relationships. 
 
 The logic model below was developed by Dr. Jeni Corn for a flipped classroom model called FIZZ, developed by Dr. Lodge McCammon. Notice that the activities are broken up by programmatic activities in FIZZ and by classroom activities and that outcomes are broken into short-term and intermediate outcomes.
-![FIZZ Logic Model][image-2]
+<figure class="text-center">
+  <img src="{{site.url}}/dlprograms/leadership/fizz-logic-model.png" alt="FIZZ Logic Model" style="width: 100%; height: auto" class="mx-auto d-block"/>
+  <cite class="mx-auto d-block">Source: Drs. Jeni Corn and Lodge McCammon</cite>
+</figure>
+
 
 
 ## Strategic Plans
 Once a logic model has been developed the next step is to turn the model into a strategic plan. A strategic plan turns the logic model into an operational document - the details of the step-by-step plans and measures and evaluation criteria that the program will use. The logic model moves to the strategic plan typically through a process like a SWOT analysis. SWOT stands for **strengths, weaknesses, opportunities, and threats.** The SWOT analysis examines your linkages in your logic model and the activities and outcomes that you've identified. In the process of developing the SWOT analysis, you should be thinking about how to leverage strengths and opportunities to overcome weaknesses and threats. This SWOT template, provided by ISTE, is a good place to start:
+<figure class="text-center">
+  <img src="https://id.iste.org/sf-images/edtekhub/tech-plan-1.png?Status=Temp&sfvrsn=2" alt="SWOT Analysis Template - Four boxes to list strengths, weakness, opportunities, and challenges." style="width: 50%; height: auto" class="mx-auto d-block"/>
+  <cite class="mx-auto d-block">Source: ISTE</cite>
+</figure>
 
-![SWOT Analysis Template - Four boxes to list strengths, weakness, opportunities, and challenges.][image-3]
 
 Once you understand your current status, the process of writing your strategic plan can begin. The first part of a strategic plan should document the current status, the vision for change, the data collection process, and the desired outcomes and ultimate goals. Then within each section, you would have a goal statement that correlates back to the outcomes in the logic model. Goal statements should be **SMART - Specific, Measurable, Attainable, Realistic, and Time-Bound.**. To support each goal, list the current status, a set of activities and then the sub-activities in granular detail, the responsibility and timeline for each, the budget needed, and the evaluation criteria. Evaluation criteria can be used to evaluate whether an output was completed successfully and whether the outcome was met.  This can take a lot of different formats. Review this [folder containing a variety of school technology plans][2].
 
 [1]:	https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main
 [2]:	https://drive.google.com/drive/folders/0B4SH0GYTPoI_bERORXg4dU13STA?usp=sharing
-
-[image-1]:	samplelogicmodel.png
-[image-2]:	fizz-logic-model.png
-[image-3]:	https://id.iste.org/sf-images/edtekhub/tech-plan-1.png?Status=Temp&sfvrsn=2

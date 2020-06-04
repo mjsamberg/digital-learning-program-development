@@ -30,11 +30,6 @@ In 1985, Apple Computer launched the "Apple Classrooms of Tomorrow" project. Thi
 
 There were also several barriers noted, including difficulties matching teacher expectations of students with student expectations in the program, matching systemic needs with the opportunities afforded by ACOT, and how to leverage ACOT while preparing students for their next grade/school without the technology tools. ACOT was one of the foundational works in 1:1 computing, and was repeated again in 2007.
 
-Here is a promotional video Apple used in 1991 to market their digital learning efforts:
-<div class="embed-responsive embed-responsive-4by3" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WivSUxC60mI?rel=0"></iframe>
-</div>
-<br/>
 In 2000, the state of Maine launched the Maine Learning Technology Initiative which provided Apple laptops and, for a time, home Internet access, to all students in grades 7 and up. This program has undergone [many challenges and changes][12] in the past two decades, including device switches and funding cuts, but is still running today. The Maine initiative has become a template for future statewide rollouts. 
 
 [1]:	https://americanhistory.si.edu/mobilizing-minds/overhead-projectors

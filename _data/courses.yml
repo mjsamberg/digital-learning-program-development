@@ -3,9 +3,6 @@ dlprograms:
   shorttitle: "DL Program Dev"
   homepage: "dlprograms/index.html"
   units:
-    0:
-      title: "Syllabus"
-      home: /dlprograms/syllabus.html
     1:
       title: "Introduction"
       home: /dlprograms/intro/1_intro.html

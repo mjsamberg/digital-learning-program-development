@@ -21,7 +21,7 @@ The North Carolina Digital Learning Plan uses the term "Digital-Age Learning" in
 
 There are a lot of open questions about this type of digital-age transformation in schools. Many digital-learning initiatives have collapsed because of funding issues or lack of planning or community buy-in. Many people believe that children spend too much time attached to screens outside of school, and that [too much screen time is detrimental][10] to their development. Some studies have claimed that [students learn better when technology is not used][11], but other studies [refute this claim][12]. There are also significant questions about how these types of digital transitions [create inequities between schools][13] and [further inequities within schools][14].
 
-In practice, there is no right answer. The questions of how much technology should be used, when, where, and why will vary widely from community to community and from school to school. The "how and why" will be the content in this course. The North Carolina Digital Learning Plan identified five "enabling conditions" and created a [rubric][15] that need to be addressed for a locally-responsive digital-age learning program to succeed:
+In practice, there is no right answer. The questions of how much technology should be used, when, where, and why will vary widely from community to community and from school to school. The "how and why" will be the content in this course. The North Carolina Digital Learning Plan identified five "enabling conditions" and created a [rubric][15] of items within these conditions that need to be addressed for a locally-responsive digital-age learning program to succeed:
 * Leadership and Vision
 * Human Capacity and Professional Learning
 * Digital Content and Instruction

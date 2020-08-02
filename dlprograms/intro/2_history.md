@@ -32,6 +32,12 @@ There were also several barriers noted, including difficulties matching teacher 
 
 In 2000, the state of Maine launched the Maine Learning Technology Initiative which provided Apple laptops and, for a time, home Internet access, to all students in grades 7 and up. This program has undergone [many challenges and changes][12] in the past two decades, including device switches and funding cuts, but is still running today. The Maine initiative has become a template for future statewide rollouts. 
 
+Throughout the 90s and 2000s, schools began to recognize the power of technology in the classroom. Watch this old news clip from CNN:
+<div class="embed-responsive embed-responsive-4by3" style="max-height: 500px; width: auto;">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NJGn78-m1fw?rel=0"></iframe>
+</div>
+<br/>
+
 [1]:	https://americanhistory.si.edu/mobilizing-minds/overhead-projectors
 [2]:	https://en.wikipedia.org/wiki/Ballpoint_pen
 [3]:	https://www.theatlantic.com/technology/archive/2015/08/ballpoint-pens-object-lesson-history-handwriting/402205/

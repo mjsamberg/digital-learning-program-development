@@ -30,13 +30,20 @@ In 1985, Apple Computer launched the "Apple Classrooms of Tomorrow" project. Thi
 
 There were also several barriers noted, including difficulties matching teacher expectations of students with student expectations in the program, matching systemic needs with the opportunities afforded by ACOT, and how to leverage ACOT while preparing students for their next grade/school without the technology tools. ACOT was one of the foundational works in 1:1 computing, and was repeated again in 2007.
 
-In 2000, the state of Maine launched the Maine Learning Technology Initiative which provided Apple laptops and, for a time, home Internet access, to all students in grades 7 and up. This program has undergone [many challenges and changes][12] in the past two decades, including device switches and funding cuts, but is still running today. The Maine initiative has become a template for future statewide rollouts. 
+In 2000, the state of Maine launched the Maine Learning Technology Initiative which provided Apple laptops and, for a time, home Internet access, to all students in grades 7 and up. This program has undergone [many challenges and changes][12] in the past two decades, including device switches and funding cuts, but is still running today. The Maine initiative has become a template for future statewide rollouts.  [Research is pretty clear][13] that the impacts of technology in the classroom but, as expected, the strength of the implication and the quality of the professional learning provided will make or break this effort.
 
-Throughout the 90s and 2000s, schools began to recognize the power of technology in the classroom. Watch this old news clip from CNN:
+Throughout the 90s and 2000s, schools began to recognize the power of technology in the classroom, making desktops available, replacing overheads for SmartBoards, etc. Watch this old news clip from CNN:
 <div class="embed-responsive embed-responsive-4by3" style="max-height: 500px; width: auto;">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NJGn78-m1fw?rel=0"></iframe>
 </div>
 <br/>
+
+However, technology faced an affordability problem. The [OLPC project][14] aimed to fix this, by creating a laptop that cost $100 and was designed for places with limited access to connectivity and electricity. While this device failed, it led the development of devices such as Netbooks and Chromebooks which eventually made technology more affordable ([Moore’s law][15] is also a huge driver of costs in education):
+<div class="embed-responsive embed-responsive-4by3" style="max-height: 500px; width: auto;">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PM33EEAszHA?rel=0"></iframe>
+</div>
+<br/>
+
 
 [1]:	https://americanhistory.si.edu/mobilizing-minds/overhead-projectors
 [2]:	https://en.wikipedia.org/wiki/Ballpoint_pen
@@ -50,3 +57,6 @@ Throughout the 90s and 2000s, schools began to recognize the power of technology
 [10]:	https://medium.com/bits-and-behavior/mindstorms-what-did-papert-argue-and-what-does-it-mean-for-learning-and-education-c8324b58aca4
 [11]:	http://www.ascd.org/publications/educational-leadership/apr94/vol51/num07/Apple-Classrooms-of-Tomorrow@-What-We%27ve-Learned.aspx
 [12]:	http://hackeducation.com/2015/03/02/maine-laptops
+[13]:	https://www.edutopia.org/discussion/what-research-says-about-11
+[14]:	http://one.laptop.org
+[15]:	https://www.investopedia.com/terms/m/mooreslaw.asp

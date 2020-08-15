@@ -55,7 +55,7 @@ In order to generate buy-in from stakeholders in the process, it's important to 
 
 Once themes have been identified, conduct a *root cause analysis* to ensure that you have fully identified "why" a problem or barrier may exist. Root cause analyses help us to understand whether the problem we've identified is actually the problem, or rather if it is a symptom of another problem. Consider this example of a restaurant: you go to a restaurant and order dinner. Everyone receives their orders, but it takes 45 minutes and all of the food is cold. Typically, one might say that the restaurant is "disorganized" or has "lousy service". However, if you were in charge of reviewing the operations of the restaurant, you may determine that the waitstaff is inefficiently routed through the restaurant, or it is hard for the waitstaff to know when food is ready to be picked up, or the chef and the waitstaff are misinterpreting their notes and additional training is needed. Sometimes the root causes yield more obvious solutions (for example, the ["I Voted" sticker is a simple solution that does get people to go vote](https://time.com/4541760/i-voted-sticker-history-origins/)).
 
-A wishbone diagram can help with a Root Cause analysis. 
+A fishbone diagram can help with a Root Cause analysis. 
 <figure class="text-center">
   <img src="https://fi-courses.s3.amazonaws.com/psda/unit_3/fishbone.png" alt="Root Cause Analysis Diagram" style="width: 100%; height: auto" class="mx-auto d-block"/>
   <cite class="mx-auto d-block">Source: Wikipedia</cite>

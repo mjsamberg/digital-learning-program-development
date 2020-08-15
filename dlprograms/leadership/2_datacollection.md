@@ -52,11 +52,19 @@ In the interpretation phase, it is important to be aware of biases. In tradition
 
 In order to generate buy-in from stakeholders in the process, it's important to share interpretations of the data once they have been collected. These representations may take the form of summary reports, infographics, narrative stories, or through making data available in databases or electronic data structures. And while you may share raw data with your stakeholders, it's more likely that they will be focused on what you've learned from the data and what you've identified as a resulting need. In design, these summaries would be tailored to the specific stakeholder group, and used to both validate your interpretation and to collect additional data. 
 
+
 Once themes have been identified, conduct a *root cause analysis* to ensure that you have fully identified "why" a problem or barrier may exist. Root cause analyses help us to understand whether the problem we've identified is actually the problem, or rather if it is a symptom of another problem. Consider this example of a restaurant: you go to a restaurant and order dinner. Everyone receives their orders, but it takes 45 minutes and all of the food is cold. Typically, one might say that the restaurant is "disorganized" or has "lousy service". However, if you were in charge of reviewing the operations of the restaurant, you may determine that the waitstaff is inefficiently routed through the restaurant, or it is hard for the waitstaff to know when food is ready to be picked up, or the chef and the waitstaff are misinterpreting their notes and additional training is needed. Sometimes the root causes yield more obvious solutions (for example, the ["I Voted" sticker is a simple solution that does get people to go vote](https://time.com/4541760/i-voted-sticker-history-origins/)).
+
+A wishbone diagram can help with a Root Cause analysis. 
+<figure class="text-center">
+  <img src="https://fi-courses.s3.amazonaws.com/psda/unit_3/fishbone.png" alt="Design Thinking Model" style="width: 50%; height: auto" class="mx-auto d-block"/>
+  <cite class="mx-auto d-block">Source: Wikipedia</cite>
+</figure>
 
 <div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/T1HF3c-GmvU?rel=0"></iframe>
 </div>
+
 <br/>
 
 [1]:	https://balancedscorecard.org/bsc-basics/articles-videos/the-deming-cycle/

@@ -33,13 +33,13 @@ Design thinking is often referred to as a process with five discrete stages:
 * **Testing**: In this stage, the design is tested, evaluated, and refined.
 
 <figure class="text-center">
-  <img src="http://fi-courses.s3.amazonaws.com/psda/images/dt_steps.png" alt="Design Thinking Model" style="width: 100%; height: auto" class="mx-auto d-block"/>
+  <img src="http://fi-courses.s3.amazonaws.com/psda/images/dt_steps.png" alt="Design Thinking Model" style="width: 50%; height: auto" class="mx-auto d-block"/>
   <cite class="mx-auto d-block">Source: Stanford d.School</cite>
 </figure>
 
 In reality, these are not discrete steps, nor do you move from phase to phase and leave everything behind. For example, when you are creating your prototypes, a good designer will reach back out to the people they interviewed in the *empathize* stage of the process for their feedback. Like many change management processes, Design Thinking has roots in the [Demming Cycle](https://balancedscorecard.org/bsc-basics/articles-videos/the-deming-cycle/) (plan, do, study, act). 
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
+<div class="embed-responsive embed-responsive-16by9 mb-5" style="max-height: 500px; width: auto;">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/a7sEoEvT8l8?rel=0"></iframe>
 </div>
 

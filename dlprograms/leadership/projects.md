@@ -30,7 +30,7 @@ A [logic model][1] is a "map" that describes the relationships between cause and
 
 ## Option 3: Complete a Digital Learning Rubric
 The [North Carolina Digital Learning Progress Rubric][2] and the [Future Ready Readiness Assessment][3] are tools to support schools and districts in identifying their current status in the transition towards digital-age learning. In this assignment, you will:
-* Convene a group of stakeholders to complete either the NC-DLP or the FR Assessment. The group should meet, review the tool, and come to consensus on the current status.
+* Convene a small group of stakeholders to complete either the NC-DLP or the FR Assessment. The group should meet, review the tool, and come to consensus on the current status.
 * Collect evidence that the group meeting has occurred such as meeting notes or a photograph.
 * Write a brief reflection on the results of the rubric and on the process. Specifically identify where there were agreements and disagreements, how you reconciled to come to consensus, and any results which surprised/encouraged/discouraged you.
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Unit 2 Projects"
-sidebar_section: 2_
-previous: "content/leadership/7_policy.html"
+course: "dlprograms"
+unit: 2
 ---
 The purpose of the projects in each unit is to provide you with hands-on experience with the content in the unit. Each unit will have several project options. You should choose the one project that best aligns with your personal interests and your context.
 

@@ -57,7 +57,7 @@ Once themes have been identified, conduct a *root cause analysis* to ensure that
 
 A wishbone diagram can help with a Root Cause analysis. 
 <figure class="text-center">
-  <img src="https://fi-courses.s3.amazonaws.com/psda/unit_3/fishbone.png" alt="Design Thinking Model" style="width: 50%; height: auto" class="mx-auto d-block"/>
+  <img src="https://fi-courses.s3.amazonaws.com/psda/unit_3/fishbone.png" alt="Root Cause Analysis Diagram" style="width: 100%; height: auto" class="mx-auto d-block"/>
   <cite class="mx-auto d-block">Source: Wikipedia</cite>
 </figure>
 

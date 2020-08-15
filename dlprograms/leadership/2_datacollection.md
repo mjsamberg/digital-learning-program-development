@@ -61,6 +61,8 @@ A wishbone diagram can help with a Root Cause analysis.
   <cite class="mx-auto d-block">Source: Wikipedia</cite>
 </figure>
 
+Take a look at this entire process from start to finish in the healthcare field, using this example below. 
+
 <div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/T1HF3c-GmvU?rel=0"></iframe>
 </div>

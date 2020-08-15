@@ -41,8 +41,8 @@ The [North Carolina Digital Learning Progress Rubric][2] and the [Future Ready R
 * 3 points: Reflective element addresses the process, including points of disagreement and surprise.
 
 ## Option 4: Synthesize a digital-age instructional framework
-Unit 2 presents several digital-learning instructional standards, models and frameworks, including the [ISTE standards][4], the [Connected Learning][5] framework,  and the [Florida Technology Integration Matrix][6]. For this project, you will:
-* Identify the elements of these frameworks and standards that are the most useful in your context.
+Unit 2 presents several digital-learning instructional standards, models and frameworks, including the [ISTE standards][4], the [Connected Learning][5] framework,  and the [Florida Technology Integration Matrix][6]. School-wide rubrics (such as [this example](https://www.duxbury.k12.ma.us/Page/1850)) help students and teachers consistently implement practices across the school and can support the development of "soft skills" across the curriculum. Given so many instructional frameworks, it can be helpful for a school to synthesize their own based on pre-existing models, aligning with the school's vision. For this project, you will:
+* Identify the elements of existing frameworks and standards that are the most useful in your context.
 * Synthesize a "skinny model" for digital-age learning within your school. This should draw elements from at least two research-based models (e.g. not SAMR) into a model that fits your school's vision for digital-age learning. 
 * Create a visual "glossy" for your school with the model.
 * Complete a brief write-up that explains the choice of models and elements and how they align with your school's digital-age learning initiative.

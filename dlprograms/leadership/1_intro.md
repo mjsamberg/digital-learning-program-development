@@ -20,7 +20,7 @@ In any change management culture, it's also critical to manage the different typ
 <br/>
 
 ## Design Thinking
->Design "with". Don't design "for".
+>Design "with." Don't design "for."
 
 When we are talking about "managing change", we are really looking at how to design new solutions and new approaches for the way things are currently done in schools. Design thinking is an approach to solving complex problems that was popularized by the Stanford University Design School (d.School). Design thinking focuses on both solving complex problems and focusing on human-centered solutions. Design thinking differs from traditional design in that:
 * The process focuses *on finding the best solution*, and is less concerned with the problem itself or the process.

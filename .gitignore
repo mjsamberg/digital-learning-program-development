@@ -8,3 +8,4 @@ Gemfile.lock
 .Ulysses-Group.plist
 /.bundle
 /vendor
+.Ulysses-Settings.plist

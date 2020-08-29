@@ -41,10 +41,12 @@ dlprograms:
       pages:
           - title: Introduction
             url: /dlprograms/content/1_intro.html
-          - title: Accessibility
-            url: /dlprograms/content/2_accessibility.html
           - title: Universal Design for Learning
-            url: /dlprograms/content/3_udl.html
+            url: /dlprograms/content/udl.html
+          - title: Accessibility
+            url: /dlprograms/content/accessibility.html
+          - title: Executive Function and Self-Regulation
+            url: /dlprograms/content/execfunction.html
           - title: Evaluating Digital Resources
             url: /dlprograms/content/4_evaluation.html
           - title: Copyright

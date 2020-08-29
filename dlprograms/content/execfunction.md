@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Executive “Functioning and Self-Regulation
+title: Executive Functioning and Self-Regulation
 course: "dlprograms"
 unit: 3
 ---

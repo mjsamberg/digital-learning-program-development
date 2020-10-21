@@ -4,6 +4,10 @@ title: "Introduction"
 course: "dlprograms"
 unit: 7
 ---
+## Fall 2020 Whitepaper Series
+Read: [Cybersecurity in K-12: An Overview of the Threat Landscape][1]
+
+## Introduction
 A data breach or a cybersecurity incident is the closest thing a CTO will have to a "3 a.m. phone call". Cybersecurity breaches of any kind can be critically damaging to a CTO, to their school and district, to students and staff and their families, and to public trust. 
 
 In most places, school districts represent the largest and most accessible networks in that locale. That, combined with the trove of personal data available on school systems makes them a very tempting target for hackers. Government IT as a whole is an increasingly popular target for ransomware attackers because of the combination of personal data, the lack of IT resources, and typically lax security practices relative to corporate entities. Most attacks aren't _ransomware_ attacks, where data are encrypted. In many cases, data are stolen or manipulated, and an IT department may never even know. The question is not whether your district will be the target of an attempted cyberattack, it's a question of when. Whether the attack succeeds or not will depend on your plans to identify, contain, mitigate, and remediate the threats caused by these attacks.
@@ -38,16 +42,18 @@ Malware (including viruses) is software that is installed on a computer to cause
 ### Ransomware
 Ransomware is a form of malware that encrypts files on a computer such that a user cannot access them or read them without a decryption key. The attacker demands a payment, usually in the form of Bitcoin, in order to provide the decryption key and release the files. Ransomware is particularly destructive because it will work across all files that a user has access to, including files on networked drives or on Google Drive if the user is running an app like Google Drive FileStream or Backup and Sync. While many ransomware victims have paid the ransom and gotten their files back, many others have not, and the FBI does not recommend paying the ransom. If the ransom is not paid, the files must be recovered from any backups that exist or recreated.
 
-[Municipal ransomware attacks are incredibly common][1]. Several municipalities in North Carolina have suffered catastrophic attacks in recent years, including [Mecklenburg County][2], [Orange County][3], [Lincoln County][4], and the [city and county of Durham][5]. Schools are not immune to these threats either, and several districts have been subject to ransomware attacks this year including [Burke County Schools][6], [Columbus County Schools][7], [Rockingham County Schools][8], and several others. 
+[Municipal ransomware attacks are incredibly common][2]. Several municipalities in North Carolina have suffered catastrophic attacks in recent years, including [Mecklenburg County][3], [Orange County][4], [Lincoln County][5], and the [city and county of Durham][6]. Schools are not immune to these threats either, and several districts have been subject to ransomware attacks this year including [Burke County Schools][7], [Columbus County Schools][8], [Rockingham County Schools][9], [Haywood County Schools][10], and several others. 
 
 ### Denial of Service
 A Denial of Service attack is where one computer (or lots of computers, in which case it's called a Distributed Denial of Service attack, or DDoS) generates lots of traffic to a website, network, or server. The purpose of this attack is not to steal data, but to crash the website or overwhelm a network. DoS attacks are hard to prevent, but typically, shutting down the impacted site, waiting for the attack to pass, and then bringing everything back up will mitigate this type of attack. Firewalls can also intelligently handle and adapt to DDoS attacks using a function called "rate limiting", where all requests from an IP address are automatically blocked above a certain threshold. 
 
-[1]:	https://statescoop.com/Ransomware-Map/
-[2]:	https://www.charlotteobserver.com/news/politics-government/article189428824.html
-[3]:	https://statescoop.com/orange-county-n-c-recovering-from-ransomware-attack/
-[4]:	https://www.wcnc.com/article/news/crime/ransomware-attack-in-lincoln-county-for-2nd-time/275-4ea0de54-d9dc-4f89-924f-04c870af0e8a
-[5]:	https://www.forbes.com/sites/daveywinder/2020/03/10/two-russian-ransomware-attacks-take-down-north-carolina-city-and-county-government-systems/#5a773c2588fa
-[6]:	https://www.morganton.com/news/education/bcps-targeted-in-cyber-threat/article_95b3e3d7-e806-501f-be0d-d0e3568af193.html
-[7]:	https://www.wwaytv3.com/2019/10/18/virus-disrupts-internet-phone-lines-at-columbus-county-schools/
-[8]:	https://thejournal.com/articles/2018/01/12/nc-district-hit-with-malware.aspx
+[1]:	https://www.fi.ncsu.edu/resources/cybersecurity-in-k-12-an-overview-of-the-threat-landscape/
+[2]:	https://statescoop.com/Ransomware-Map/
+[3]:	https://www.charlotteobserver.com/news/politics-government/article189428824.html
+[4]:	https://statescoop.com/orange-county-n-c-recovering-from-ransomware-attack/
+[5]:	https://www.wcnc.com/article/news/crime/ransomware-attack-in-lincoln-county-for-2nd-time/275-4ea0de54-d9dc-4f89-924f-04c870af0e8a
+[6]:	https://www.forbes.com/sites/daveywinder/2020/03/10/two-russian-ransomware-attacks-take-down-north-carolina-city-and-county-government-systems/#5a773c2588fa
+[7]:	https://www.morganton.com/news/education/bcps-targeted-in-cyber-threat/article_95b3e3d7-e806-501f-be0d-d0e3568af193.html
+[8]:	https://www.wwaytv3.com/2019/10/18/virus-disrupts-internet-phone-lines-at-columbus-county-schools/
+[9]:	https://thejournal.com/articles/2018/01/12/nc-district-hit-with-malware.aspx
+[10]:	https://wlos.com/news/local/haywood-county-schools-closed-after-ransomware-attack

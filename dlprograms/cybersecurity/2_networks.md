@@ -4,6 +4,11 @@ title: "Networks and Disaster Recovery Planning"
 course: "dlprograms"
 unit: 7
 ---
+## Public Wi-Fi Networks
+While there is considerable work to be done on private networks, a weak spot for cybersecurity is public wifi networks. All traffic on any network that’s not encrypted (i.e. doesn’t require a password when you try to connect to it the first time) [can be captured and reviewed][1]. In a public setting, like a coffee shop or hotel, this may mean that the websites you visit, the contents of the pages, the data you send, and the data you receive can be inspected by anyone connected to the network. A nefarious actor can also create a fake wifi network with the same name and password as a known network to intercept traffic. Wi-fi networks that you do not directly control or can confirm are known good networks should be assumed to be compromised along with any network that does not employ encryption. To ensure data moves over networks securely, ensure that sites you visit use http:// URLs and use a [full-tunnel Virtual Private Networks (VPN)][2]. VPNs create an encrypted link between your computer and a remote server and sends all traffic over that encrypted link. Because the traffic is encrypted, it cannot be intercepted on an insecure wi-fi network. Additionally, because of the way VPNs work, even a wi-fi operator (i.e. Starbucks) cannot see the individual websites you visit - all their logs will show is a connection to the remote VPN server. Full tunnel VPNs differ from _split tunnel VPNs_ which are used by workplaces - secure traffic to servers within an organization use the VPN link while other traffic does not. Split tunnel VPNs are ideal for secure systems in a school district because they don’t require these systems to be accessible to the general Internet. 
+
+Because VPNs encrypt and mask traffic going over the Internet, they can be used to bypass school content filters. As such, schools may take aggressive action to block the use of a VPN in a school. This creates and interesting cybersecurity paradox for schools - [E-Rate rules require schools to teach digital citizenship][3], and arguably cybersecurity is a critical component of digital citizenship (including the use of VPNs on unknown networks). This has led to debate in Ed-Tech circles - teaching good cybersecurity practices should require us to teach students how to bypass the content filters but many schools do not teach VPN usage for exactly that reason. 
+
 ## Principle of Least Privilege
 One of the core principles of cybersecurity is the _Principle of Least Privilege_. The Principle of Least Privilege is the concept that any user should not have access to things that they don't need to do their jobs. Restricting the number of files and computers a user can compromise is a way to reduce your overall attack surface.
 
@@ -26,9 +31,9 @@ The easiest thing you can do to protect a computer network from being a victim o
 In addition to workstations, any Internet connected device in your school is a potential attack vector. Your phones and phone systems, printers, HVAC systems, lighting systems, servers, applications, PA systems, etc. are all potential targets for attack or vectors that can be used to attack other systems. These systems can also be impacted by ransomware attacks (many phone systems have been compromised in ransomware attacks). These devices all need to be patched and maintained (which is another argument for standardization). In the event that a device can no longer be patched or upgraded, it is a liability and should be discarded.
 
 ## Anti-Malware Tools
-Beyond patching, there are a variety of tools that can proactively detect malware on a computer and prevent a computer from being infected or spread. [Google Suite][1] and [Office 365][2] feature built-in anti-phishing and anti-malware protection that can automatically detect and quarantine malware and flag potential phishing emails. Content filters like [ZScaler][3] and many firewalls can also proactively detect and block malware.  
+Beyond patching, there are a variety of tools that can proactively detect malware on a computer and prevent a computer from being infected or spread. [Google Suite][4] and [Office 365][5] feature built-in anti-phishing and anti-malware protection that can automatically detect and quarantine malware and flag potential phishing emails. Content filters like [ZScaler][6] and many firewalls can also proactively detect and block malware.  
 
-On your computer, tools like [Windows Defender][4] (built-in to windows) and [DetectX for Mac][5] can be used to identify and protect computers from malware by referencing and looking for known executable files. These tools contain profiles that need to be kept up-to-date to find the latest malware. ChromeOS and iOS are locked-down enough that they don't need anti-malware tools because they're built in to the way the OS works. On Android devices, malware is a possibility, but can be avoided by only downloading apps from the Play Store. 
+On your computer, tools like [Windows Defender][7] (built-in to windows) and [DetectX for Mac][8] can be used to identify and protect computers from malware by referencing and looking for known executable files. These tools contain profiles that need to be kept up-to-date to find the latest malware. ChromeOS and iOS are locked-down enough that they don't need anti-malware tools because they're built in to the way the OS works. On Android devices, malware is a possibility, but can be avoided by only downloading apps from the Play Store. 
 
 ## Managed Services
 One of the advantages of using hosted, managed services, especially for critical systems, is that it shifts the responsibility for patching and management from you as the CTO to the vendor. Instead of needing to take responsibility for your keeping your servers secure, patched, and isolated, a managed service does this for you. In addition, if a managed service is breached through technical means (not due to a privilege issue or a compromised account), the vendor of that service is liable which protects both the CTO and the district both legally and financially.  
@@ -47,8 +52,11 @@ Some districts still use tape backup systems to back up servers, These systems a
 
 Some cloud backup tools will also back up users Google Drives and OneDrives so that they can also be restored in the event of data loss. 
 
-[1]:	https://support.google.com/a/answer/9157861?hl=en
-[2]:	https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/anti-spam-and-anti-malware-protection?view=o365-worldwide
-[3]:	https://help.zscaler.com/zia/configuring-malware-protection-policy
-[4]:	https://www.microsoft.com/en-us/windows/comprehensive-security
-[5]:	https://sqwarq.com/detectx/
+[1]:	https://lifehacker.com/how-to-tap-your-network-and-see-everything-that-happens-1649292940
+[2]:	https://www.pcmag.com/picks/the-best-vpn-services?test_uuid=01jrZgWNXhmA3ocG7ZHXevj&test_variant=a
+[3]:	https://www.commonsense.org/education/articles/essential-guide-to-digital-citizenship-for-cipa-and-e-rate
+[4]:	https://support.google.com/a/answer/9157861?hl=en
+[5]:	https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/anti-spam-and-anti-malware-protection?view=o365-worldwide
+[6]:	https://help.zscaler.com/zia/configuring-malware-protection-policy
+[7]:	https://www.microsoft.com/en-us/windows/comprehensive-security
+[8]:	https://sqwarq.com/detectx/

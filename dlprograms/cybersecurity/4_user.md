@@ -29,6 +29,10 @@ Authentication factors are the different ways that you can identify that a perso
 
 Multifactor authentication is when two or more factors are used (and two-factor authentication in particular are when two factors are used). An ATM card is one example of two-factor authentication: you have something you have (your ATM card) and something you know (your PIN).
 
+<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hGRii5f_uSc?rel=0"></iframe>
+</div>
+
 An important distinction for two-factor authentication is the requirement that **both** factors to be used to gain access. Compare this with your phone, where you have the option of a PIN or a fingerprint/face scan. However, because only one of these are required, we say that the phone offers single-factor authentication with two possible factor options. On accounts that require a password AND a PIN, these accounts have two step, single-factor authentication, since both elements are only relying on something you know.
 
 When two-factor authentication is used, a user will typically log in with a username and password (something you know), and then take some action from your phone (such as enter a code form a text message, acknowledge a push notification, or enter a code from an app like [Google Authenticator][14] or [Authy][15]) or by inserting a hardware token like a [Yubikey][16] (something you have). Many apps support two-factor authentication such as [Google][17], [Microsoft][18], [Amazon][19], [Facebook][20], [Twitter][21], and many [others (full list)][22]. 

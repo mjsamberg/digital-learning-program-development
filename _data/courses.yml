@@ -143,6 +143,9 @@ webdev:
   title: "Introduction to Website and Web App Development"
   shorttitle: "Web/App Dev"
   homepage: "webdev/index.html"
-  
+  units:
+    0:
+      title: "Syllabus"
+      home: /webdev/syllabus.pdf
   
 

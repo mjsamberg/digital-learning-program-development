@@ -139,7 +139,10 @@ dlprograms:
           url: /dlprograms/cybersecurity/6_publicrecords.html
         - title: Projects
           url: /dlprograms/cybersecurity/projects.html
-
+dlprograms:
+  title: "Introduction to Website and Web App Development"
+  shorttitle: "Web/App Dev"
+  homepage: "webdev/index.html"
   
   
 

@@ -41,7 +41,7 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - title: Wolfware
-    url: https://moodle-courses1920.wolfware.ncsu.edu/course/view.php?id=4903
+    url: https://wolfware.ncsu.edu
     absolute: true
   - title: Home
     url: /

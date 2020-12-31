@@ -19,7 +19,7 @@ By the end of this course, you'll have enough tools in your toolbox to do any of
 
 ## On Programming Frustration
 <div class="text-center">
-	<img src="https://qph.fs.quoracdn.net/main-qimg-6b83ad0a472c63f5da778da420dcf04b" alt='The two states of every programmer: "I am a God" and "I have no idea what I'm doing"'>
+<img src="https://qph.fs.quoracdn.net/main-qimg-6b83ad0a472c63f5da778da420dcf04b" alt="The two states of every programmer: &quot;I am a God&quot; and &quot;I have no idea what I'm doing&quot;">
 </div>
 
 As mentioned in the syllabus, programming and web development can both be extremely frustrating enterprises. In coding this specific webpage, I spent an hour hunting down what was essentially a typo and then another hour hunting down a problem that wasn't actually a problem and just me being impatient. Programming can be an [incredibly difficult, incredibly frustrating endeavor](https://josephg.com/blog/what-i-tell-all-new-programmers/). Even expert programmers agree that sometimes, [programming sucks](https://www.stilldrinking.org/programming-sucks) (warning: crude language - one thing you'll find when reading programming blogs is language is much more harsh than on education sites).

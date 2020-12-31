@@ -147,5 +147,11 @@ webdev:
     0:
       title: "Syllabus"
       home: /webdev/syllabus.pdf
+    1:
+      title: "Introduction"
+      home: /webdev/introduction/intro.html
+      pages:
+        - title: Introduction
+          url: /webdev/introduction/intro.html
   
 

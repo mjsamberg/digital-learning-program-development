@@ -155,5 +155,7 @@ webdev:
           url: /webdev/introduction/intro.html
         - title: A (Very Abbreviated) History of the Web
           url: /webdev/introduction/history.html
+        - title: Tools and Assignment
+          url: /webdev/introduction/tools.html
   
 

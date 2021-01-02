@@ -28,7 +28,7 @@ Watch [Github Desktop Overview](https://www.youtube.com/watch?v=S7f8qJscmRE) or 
 # Week 1 Assignment
  * Install [Visual Studio Code](https://code.visualstudio.com) and [GitHub Desktop](https://desktop.github.com) on your computer. 
  * Access GitHub Classroom from Moodle
- * Clone the Week 1 assignment using GitHub Desktop
+ * Clone the Week 1 assignment using GitHub Desktop (click on the assignment, click the *Code* button at the upper right of the Github screen, and click *Open with GitHub Desktop* )
  * Open the about.md markdown file. 
  * Complete your bio.
  * Save, commit, and push the file to the repository.

@@ -25,7 +25,7 @@ While most people use GitHub at the command line, we'll be using GitHub Desktop 
 
 Watch [Github Desktop Overview](https://www.youtube.com/watch?v=S7f8qJscmRE) or [read the manual](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories)
 
- # Week 1 Assignment
+# Week 1 Assignment
  * Install [Visual Studio Code](https://code.visualstudio.com) and [GitHub Desktop](https://desktop.github.com) on your computer. 
  * Access GitHub Classroom from Moodle
  * Clone the Week 1 assignment using GitHub Desktop

@@ -35,4 +35,4 @@ Watch [Github Desktop Overview](https://www.youtube.com/watch?v=S7f8qJscmRE) or 
  * Commit your changes to the repository (select the file, add a detailed commit message describing your changes).
  * Push the repository to GitHub.
  * Open the repository on the GitHub website and copy the URL (and validate that the readme.md file is updated correctly).
- * Submit the URL to the discussion board in Unit 1 on Moodle so people can learn about you. 
+ * Submit the URL to the discussion board in Unit 1 on Moodle so your classmates can learn about you. 

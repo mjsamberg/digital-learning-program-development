@@ -153,5 +153,7 @@ webdev:
       pages:
         - title: Introduction
           url: /webdev/introduction/intro.html
+        - title: A (Very Abbreviated) History of the Web
+        url: /webdev/introduction/history.html
   
 

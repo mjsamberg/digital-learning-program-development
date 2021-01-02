@@ -13,7 +13,7 @@ However, the most popular tool right now, by far, is [Visual Studio Code](https:
 
 
 ## Markdown Syntax
-Markdown is a very simple markup language that we will be using for this assignment. It is a simple way of styling basic text without digging into full HTML. Read about the [https://guides.github.com/features/mastering-markdown/#examples](markdown syntax) here.
+Markdown is a very simple markup language that we will be using for this assignment. It is a simple way of styling basic text without digging into full HTML. Read about the [markdown syntax](https://guides.github.com/features/mastering-markdown/) here.
 
 ## Git
 Git is a version control system. A version control system is a database that includes each copy of our code changes, along with what changed. Git (and GitHub, a cloud-based service that runs Git) automatically has features that allow multiple coders to work on a file at the same time and then reconcile all of those changes. People can even take bits of code to work on, make changes, and then include those changes in the original code (called branching and merging). Watch these overview videos:

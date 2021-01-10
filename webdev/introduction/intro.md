@@ -25,7 +25,7 @@ By the end of this course, you'll have enough tools in your toolbox to do any of
 As mentioned in the syllabus, programming and web development can both be extremely frustrating enterprises. In coding this specific webpage, I spent an hour hunting down what was essentially a typo and then another hour hunting down a problem that wasn't actually a problem and just me being impatient. Programming can be an [incredibly difficult, incredibly frustrating endeavor](https://josephg.com/blog/what-i-tell-all-new-programmers/). Even expert programmers agree that sometimes, [programming sucks](https://www.stilldrinking.org/programming-sucks) (warning: crude language - one thing you'll find when reading programming blogs is language is much more harsh than on education sites).
 
 There are four "best practices" for dealing with frustration:
-* Google it. Odds are someone else has dealt with a similar problem before.
+* Google it. Odds are someone else has dealt with a similar problem before. This course is going to rely less on including all of the information on the HTML pages in this course versus linking out to resources you can reference in the future. Get comfortable with reading documentation. 
 * Store code snippets. If you have something done right, keep a document or use an app to store bits of code that work well for you. This way you can reuse them when you have similar issues in the fiture. 
 * Walk away. Coming back later with a fresh perspective can work wonders.
 * Persevere. When you finally get the computer to do what you want, you will feel like you've won the lottery.

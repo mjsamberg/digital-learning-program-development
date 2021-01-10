@@ -157,5 +157,12 @@ webdev:
           url: /webdev/introduction/history.html
         - title: Tools and Assignment
           url: /webdev/introduction/tools.html
+    2:
+      title: "HTML: The Basics"
+      home: /webdev/html/week1/html.html
+      pages:
+        - title: An Overview of HTML
+          url: /webdev/html/week1/html.html
+
   
 

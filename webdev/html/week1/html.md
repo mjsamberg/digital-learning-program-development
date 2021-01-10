@@ -30,7 +30,7 @@ The ```a``` tag defines the tag as a link. the ```href``` attribute describes th
 ## The DOM Model
 Web pages are structured according to the _Document Object Model_ (DOM). 
 <div class="text-center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png" alt="Document Object Model">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png" alt="Document Object Model" style="max-width: 50%;">
 </div>
 
 The DOM is a fancy way of saying that elements contain attributes and text, but may also contain other attributes. Elements that are within elements must be completely contained in the element. For example, if we wanted our "Go to Google!" link to be emphasized with some text after it, we would need to contain the ```em``` tag completely within the ```a``` tag. Therefore, this is valid:

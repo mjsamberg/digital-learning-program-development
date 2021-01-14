@@ -163,6 +163,11 @@ webdev:
       pages:
         - title: An Overview of HTML
           url: /webdev/html/week1/html.html
-
+        - title: The Anatomy of an HTML Document
+          url: /webdev/html/week1/anatomy.html
+        - title: Writing Clean (and Happy) Code
+          url: /webdev/html/week1/clean.html
+        - title: HTML Week 1 Assignment
+          url: /webdev/html/week1/assignment.html
   
 

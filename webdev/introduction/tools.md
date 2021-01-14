@@ -28,14 +28,15 @@ While most people use GitHub at the command line, we'll be using GitHub Desktop 
 Watch [Github Desktop Overview](https://www.youtube.com/watch?v=S7f8qJscmRE) or [read the manual](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories)
 
 # Week 1 Assignment
- * Install [Visual Studio Code](https://code.visualstudio.com) and [GitHub Desktop](https://desktop.github.com) on your computer. 
- * Access GitHub Classroom from Moodle
- * Clone the Week 1 assignment using GitHub Desktop (click on the assignment, click the *Code* button at the upper right of the Github screen, and click *Open with GitHub Desktop* )
- * Open the readme.md markdown file in VS Code using the *Open in Visual Studio Code* button in GitHub Desktop. 
- * Complete your bio using the markdown syntax. Headers are already provided but you can add additional ones as needed or as directed by the assignment. 
- * [Preview your file in VS Code](https://code.visualstudio.com/docs/languages/markdown). 
- * Save the file and switch back to GitHub Desktop.
- * Commit your changes to the repository (select the file, add a detailed commit message describing your changes).
- * Push the repository to GitHub.
- * Open the repository on the GitHub website and copy the URL (and validate that the readme.md file is updated correctly).
- * Submit the URL to the discussion board in Unit 1 on Moodle so your classmates can learn about you. 
+* Access GitHub Classroom from Moodle and create your GitHub account.
+* Install [Visual Studio Code](https://code.visualstudio.com) and [GitHub Desktop](https://desktop.github.com) on your computer. Log in to GitHub Desktop with the account you just created.
+* Access the Week 1 GitHub repository using the link in Moodle.
+* Clone the Week 1 assignment using GitHub Desktop (click on the assignment, click the *Code* button at the upper right of the Github screen, and click *Open with GitHub Desktop* )
+* Open the readme.md markdown file in VS Code using the *Open in Visual Studio Code* button in GitHub Desktop. 
+* Complete your bio using the markdown syntax. Headers are already provided but you can add additional ones as needed or as directed by the assignment. 
+* [Preview your file in VS Code](https://code.visualstudio.com/docs/languages/markdown). 
+* Save the file and switch back to GitHub Desktop.
+* Commit your changes to the repository (select the file, add a detailed commit message describing your changes).
+* Push the repository to GitHub.
+* Open the repository on the GitHub website and copy the URL (and validate that the readme.md file is updated correctly).
+* Submit the URL to the discussion board in Unit 1 on Moodle so your classmates can learn about you. 

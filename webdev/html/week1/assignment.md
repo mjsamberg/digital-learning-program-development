@@ -11,7 +11,7 @@ Instructions
 * Log in to GitHub classroom via Moodle. Navigate to the current week and click the link for the assignment. 
 * Clone the "My Website" repository to your Github Desktop
 * Open it in VS Code and create a new file called "index.html". index.html is the default file name for a website.
-* Create your bio. Include a section for your name, include a section for your bio, and include a section for your favorite edtech tools (list the tools and why you like them, don't worry about linking to them). Use HTML semantic styling correctly.
+* Create your bio. Include, at a minimum, a section for your name, include a section for your bio, and include a section for your favorite edtech tools (list the tools and why you like them, don't worry about linking to them). Use HTML semantic styling correctly. You'll have the option to use this document for most of the semester.
 * You can preview your webpage directly in VS Code by right clicking on the Index.html file in VS Code and selecting *Open In Browser*  
-* Save this file, commit it to GitHub and push your changes.
+* Save this file, commit it to GitHub and push your changes. Use "HTML Week 1 Assignment" somewhere in your commit message.
 * On the GitHub webpage, open the "My Website" repository. Click on the *Settings* link. Scroll down to the section labeled *GitHub Pages*. Change the source to the *main* branch and click Save. GitHub will provide you with a URL to view your finished website. Submit this in the week 2 assignment submit box. 

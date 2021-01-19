@@ -169,5 +169,10 @@ webdev:
           url: /webdev/html/week1/clean.html
         - title: HTML Week 1 Assignment
           url: /webdev/html/week1/assignment.html
-  
+    3:
+      title: "HTML: Linking, Tables, Images, Embeds"
+      home: /webdev/html/week2/links.html
+      pages:
+        - title: Linking
+          url: /webdev/html/week2/links.html
 

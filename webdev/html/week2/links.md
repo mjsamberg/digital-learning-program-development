@@ -4,7 +4,7 @@ title: "Linking"
 course: "webdev"
 unit: 3
 ---
-<section id="intro">
+<a id="intro"></a>
 One of the key features of Hypertext documents is the ability to link between documents. Links in HTML use the ```<a>``` tag. ```<a>``` stands for _anchor_, as in, anchoring to another page. A very basic link has a single attribute, ```href``` which defines the target for the link (the page that is to be linked to). There are other attributes for the ```<a>``` tag which we will explore below. There are other places where the ```href``` attribute is used, largely in JavaScript applications that we will discuss later in the course and in in-page anchors in HTML 4 and below. 
 
 So a basic link looks like this:
@@ -13,7 +13,6 @@ So a basic link looks like this:
 
 and would produce
 <a href="http://www.ncsu.edu">This is a link to NC State University</a>.
-</section>
 
 ## Relative Links
 A "relative link" is a link that points to a destination on the same website or server without using a full URL. This is useful because it allows a website to be moved easily without having to update links (for example, you can develop a website on your computer and then publish to GitHub and everything still works). Consider the following directory structure. When mapping directories, we use a "/" after the name to define a folder, use a "/" to define the top-level of our website:

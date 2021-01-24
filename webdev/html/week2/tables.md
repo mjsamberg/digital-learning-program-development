@@ -153,54 +153,6 @@ While most tables are straightforward, there are some special cases. Consider th
 	  </tbody>
 	</table>
 
-<table class="table table-bordered table-striped">
-  <caption>Clothing Inventory</caption>
-  <thead>
-	<tr>
-	  <th scope="col" rowspan="2">Type</th>
-	  <th scope="col" rowspan="2">Design</th>
-	  <th scope="colgroup" colspan="4">Sizes Available</th>
-	</tr>
-	<tr>
-	  <th scope="col">Small</th>
-	  <th scope="col">Medium</th>
-	  <th scope="col">Large</th>
-	  <th scope="col">Xtra Large</th>
-	</td>
-  </thead>
-  <tbody>
-	<tr>
-	  <th scope="rowgroup" rowspan="2">Sweatshirts</th>
-	  <td>Dinosaur</td>
-	  <td>Yes</td>
-	  <td>Yes</td>
-	  <td>Yes</td>
-	  <td>Yes</td>
-	</tr>
-	<tr>
-	  <td>Penguin</td>
-	  <td>Yes</td>
-	  <td>Yes</td>
-	  <td>No</td>
-	  <td>Yes</td>
-	</tr>
-	<tr>
-	  <th scope="rowgroup" rowspan="2">T-Shirts</th>
-	  <td>Alligator</td>
-	  <td>Yes</td>
-	  <td>No</td>
-	  <td>Yes</td>
-	  <td>Yes</td>
-	</tr>
-	<tr>
-	  <td>Owl</td>
-	  <td>No</td>
-	  <td>Yes</td>
-	  <td>No</td>
-	  <td>Yes</td>
-	</tr>
-  </tbody>
-</table>
 
 This table is more complex than the table above. However, almost all of the building blocks are the same - the change in design is mostly related to attributes in the different cells.
 

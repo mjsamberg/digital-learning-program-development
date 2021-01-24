@@ -67,3 +67,5 @@ You can do the same with an SMS message, with ```<a href="sms:+19195551212&body=
 If you have a long page (like an FAQ page), sometimes it's good to be able to have links to different points on the page (like a list of questions that link to responses further down, or a link that returns to the top of the page).
 
 You can do this by adding an ```id``` attribute to any container element on a page. For example, at the top of this page, I have a section tag ```<section id="intro">```. If you want to link from this from within the page (or from any other page), all I would need to do would be to have a link ```<a href="links.html#intro">Return to Intro</a>``` which would yield <a href="links.html#intro">Return to Intro</a>.
+
+## [Supplemental Reading](https://www.w3schools.com/html/html_links.asp)

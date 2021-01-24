@@ -203,3 +203,5 @@ This table is more complex than the table above. However, almost all of the buil
 
 For starters, notice here that our ```<thead>``` section contains two rows - the first row. We want to have a "Sizes Available" column header that stretches across all of the possible different sizes. We use the ```colspan``` attribute in order to stretch a cell across multiple columns (similar to the "Merge Cells" function in Excel). Conversely, we use the ```rowspan``` attribute for the *Type* and *Design* column so that they expand to fill both rows in the header (since there is no subheader there). We also use the ```colgroup``` value for the ```scope``` attribute for the *Sizes Available* header to tell the browser that the header applies to a group of columns. 
 
+In the data rows, we have row headers across the different types of clothing. Note that we use a ```<th>``` tag for the clothing type to indicate that it is a header and not table data, and we use the ```rowspan``` attribute to ensure that it expands to both rows. We also use the ```scope=rowgroup``` attribute to indicate that the header applies to a group of rows. 
+

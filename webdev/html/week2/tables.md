@@ -150,7 +150,9 @@ While most tables are straightforward, there are some special cases. Consider th
 		  <td>No</td>
 		  <td>Yes</td>
 		</tr>
+	  </tbody>
 	</table>
+
 <table class="table table-bordered table-striped">
   <caption>Clothing Inventory</caption>
   <thead>
@@ -197,6 +199,7 @@ While most tables are straightforward, there are some special cases. Consider th
 	  <td>No</td>
 	  <td>Yes</td>
 	</tr>
+  </tbody>
 </table>
 
 This table is more complex than the table above. However, almost all of the building blocks are the same - the change in design is mostly related to attributes in the different cells.

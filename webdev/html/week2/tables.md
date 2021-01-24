@@ -153,7 +153,7 @@ While most tables are straightforward, there are some special cases. Consider th
 	  </tbody>
 	</table>
 
-<table>
+<table class="table table-bordered table-striped">
   <caption>Clothing Inventory</caption>
   <thead>
 	<tr>

@@ -175,4 +175,6 @@ webdev:
       pages:
         - title: Linking
           url: /webdev/html/week2/links.html
+        - title: Tables
+          url: /webdev/html/week2/tables.html
 

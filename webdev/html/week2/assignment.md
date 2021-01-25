@@ -2,7 +2,7 @@
 layout: page
 title: "HTML Week 2 Assignment"
 course: "webdev"
-unit: 2
+unit: 3
 ---
 
 This week we will be continuing with our website design from last week. 

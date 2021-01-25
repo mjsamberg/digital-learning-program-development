@@ -37,7 +37,7 @@ The temptation (and the Bad Code Trap) that some people fall into is to shortcut
 Now is a good time to mention naming conventions for all web files (HTML files, images, etc.). By default, neither a directory name nor a filename on a website cannot have spaces in it. Also, some web servers are case sensitive, so it is a best practice to only use lowercase file names. Dashes can be used in lieu of spaces if needed, but other special characters may not be used - only letters and numbers and a file extension (i.e. .html).
 
 ## Link Targets
-The default behavior for links is that they should open in the same window that you're currently viewing a page in. That's typically fine when a user is browsing your site, but if they're going to an external site, it may not be - you may want external links to open in the same window. That's where the ```target``` attribute comes in. While there are other uses for this attribute that are used in embedding documents, the setting the ```target``` attribute to ```_blank``` will open in the link in a new window (or tab, depending on browser settings). Example:
+The default behavior for links is that they should open in the same window that you're currently viewing a page in. That's typically fine when a user is browsing your site, but if they're going to an external site, it may not be - you may want external links to open in the same window. That's where the ```target``` attribute comes in. While there are other uses for this attribute that are used in embedding documents, setting the ```target``` attribute to ```_blank``` will open in the link in a new window (or tab, depending on browser settings). Example:
 
 	<a href="http://www.ncsu.edu" target="_blank">NC State, In a new window</a>
 

@@ -24,6 +24,6 @@ Likely many of you have embedded a YouTube video or other content in an LMS or i
 
 For example: 
 
-	<iframe src="http://www.google.com" title="Google" style="width: 85%; height=300px;">
+	<iframe src="https://www.ncsu.edu" title="Google" style="width: 85%; height=300px;">
 
-<iframe src="https://www.google.com" title="Google" style="width: 85%; height: 600px;">
+<iframe src="https://www.ncsu.edu" title="Google" style="width: 85%; height: 600px;">

@@ -53,6 +53,7 @@ yields:
 <h1>My Level 1 Header</h1>
 
 Within this list of tags are lists. Lists use two elements: the ```<ol>``` tag for numbered lists and the ```<ul>``` tag for bulleted (unordered) lists. Within those tags you would use ```<li>``` for individual items like so:
+
 	<ul>
 		<li>List item 1</li>
 		<li>List item 2</li>

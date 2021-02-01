@@ -201,7 +201,7 @@ Pseudo-selectors can also be used in css. For example:
 
 can be used to make all links bold when you mouse over them.
 
-**[Review this resource for a fill list of CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)** and complete the _CSS Selector Tester_ activity on that page as well. 
+**[Review this resource for a full list of CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)** and complete the _CSS Selector Tester_ activity on that page as well. 
 
 ## Grouping Selectors
 If you want a single set of styles to apply to multiple selectors, you can group them on the same line, with a comma between them. For example, if I want all headings level 1-3 to be red, I can use the following:

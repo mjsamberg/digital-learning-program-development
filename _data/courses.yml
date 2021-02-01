@@ -185,7 +185,7 @@ webdev:
       title: "CSS: Intro to CSS, Selectors, Text Formatting"
       home: /webdev/css/week1/intro.html
       pages:
-        - title: Introduction\: What is CSS?
+        - title: Introduction - What is CSS?
           url: /webdev/css/week1/intro.html
         - title: Getting Started with CSS
           url: /webdev/css/week1/setup.html

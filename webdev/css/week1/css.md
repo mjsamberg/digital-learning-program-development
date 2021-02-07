@@ -48,6 +48,28 @@ In this case, the entire ```.lunch-menu``` section would be 1.25 the root elemen
 
 The fourth type is ```vw``` which is the percentage of the width of the window the font takes up. This is rarely used.
 
+### Inline Formatting
+Sometimes, you want to highlight parts of text without styling an entire container. You can apply CSS to inline formatting containers as well. For example, if you have vocabulary words on a webpage, i.e. 
+
+	The quick brown fox <strong class="vocab">jumped</strong> over the lazy dog.
+
+you could style the ```.vocab``` class:
+
+	.vocab{
+		font-weight: bold;
+		color: red;
+	}
+
+If none of the semantic inline tags are appropriate for defining an item, ```<span>``` is the generic class.
+
+	Order your CD now for only <span class="price">$9.95</span>.
+
+And you could style with:
+
+	.price{
+		color: green;
+	}
+
 ### Text Formatting in CSS
 **Read the Following Items**
 * [Styling Fonts with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)

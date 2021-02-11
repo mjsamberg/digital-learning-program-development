@@ -2,7 +2,7 @@
 layout: page
 title: "CSS Layouts and the Box Model"
 course: "webdev"
-unit: 4
+unit: 5
 ---
 Last week, we looked at using CSS to style our text. However, we can use CSS to do much more than just style text. CSS can also be used to arrange content on the page. In this unit, we will explore content layout using CSS, using responsive design features in order to change the way our web pages look on a desktop versus on a mobile device.
 

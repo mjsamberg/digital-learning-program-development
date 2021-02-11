@@ -153,7 +153,7 @@ CSS:
 	
 	#box4{
 	  background-color: orange;
-	  width: 40%;
+	  width: 15%;
 	}
 
 Result:
@@ -193,7 +193,7 @@ Result:
 	
 	#box4{
 	  background-color: orange;
-	  width: 40%;
+	  width: 15%;
 	}
 </style>
 <section class="main-demo-section">

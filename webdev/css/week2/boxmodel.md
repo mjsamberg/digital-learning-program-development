@@ -59,11 +59,11 @@ padding is specified in pixels or percentages, but pixels are typically used:
 
 You can use three values:
 
-	padding: top right/left bottom
+	padding: top right/left bottom;
 
 or two:
 
-	padding: top/bottom right/left
+	padding: top/bottom right/left;
 
 The same syntax will apply for margins, substitute the word "margin" for the word "padding". Padding values are always positive. Margin values can be negative to encroach on another elements space, but this can be unpredictable and is best avoided. 
 

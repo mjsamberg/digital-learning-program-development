@@ -14,9 +14,9 @@ Unless otherwise specified based on our discussions later in the unit, some of t
 	<p>This is a paragraph with an <h2>embedded header</h2> and then some text after.</p> with more text after the paragraph ends.
 
 it would render as 
-<hr/>
+<div style="background: #cccccc">
 <p>This is a paragraph with an <h2>embedded header</h2> and then some text after.</p> with more text after the paragraph ends.
-<hr/>
+</div>
 
 Other elements that are within text are called ```inline``` elements and include elements used to style text (i.e. ```<span>```, ```<a>```, ```<strong>```, ```<em>```, etc.). Inline elements don't force text to a new line, and format the text inline with other elements. [Here's a full list](https://www.w3schools.com/html/html_blocks.asp) of inline and block elements.
 
@@ -35,11 +35,11 @@ And then the following HTML:
 
 would produce:
 
-<hr>
+<div style="background: #cccccc">
 <p>This is an example of an inline link to the <a style="display: block; font-size: 2em;" href="http://www.google.com">Googles</a>, which is kind of something you might use one day.</p>
-<hr>
+</div>
 
-### <a href="https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/">Read more about block, inline, and inline block</a>
+<a href="https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/">Read more about block, inline, and inline block</a>
 
 ## Padding, Borders, Margins
 

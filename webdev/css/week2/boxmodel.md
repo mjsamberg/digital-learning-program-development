@@ -193,7 +193,7 @@ Result:
 	
 	#box4{
 	  background-color: orange;
-	  width: 15%;
+	  width: 25%;
 	}
 </style>
 <section class="main-demo-section">

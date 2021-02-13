@@ -201,3 +201,5 @@ webdev:
       pages:
         - title: The Box Model
           url: /webdev/css/week2/boxmodel.html
+        - title: Positioning Elements 
+          url: /webdev/css/week2/placement.html

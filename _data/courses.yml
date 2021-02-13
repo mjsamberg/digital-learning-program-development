@@ -197,7 +197,7 @@ webdev:
           url: /webdev/css/week1/assignment.html
     5:
       title: "CSS: Page Layout"
-      home: /webdev/css/week1/boxmodel.html
+      home: /webdev/css/week2/boxmodel.html
       pages:
         - title: The Box Model
           url: /webdev/css/week2/boxmodel.html

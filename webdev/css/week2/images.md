@@ -70,7 +70,7 @@ Any container, from the entire page to a single div, can have a background. The 
 	
 	<div id="test-div">My Test Div</div>
 	
-<div style="width: 200px; height: 200px; background-color: blue; margin: auto: color: white;">My Test Div</div>
+<div style="width: 200px; height: 200px; background-color: blue; margin: auto; color: white;">My Test Div</div>
 
 You can also use a background image. The example below shows an image background with a text overlay. The ```background-image``` accepts a file name in parentheses, prefixed by ```url```:
 

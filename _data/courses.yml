@@ -205,3 +205,5 @@ webdev:
           url: /webdev/css/week2/placement.html
         - title: Responsive Design 
           url: /webdev/css/week2/responsive.html
+        - title: Image Transformations and Backgrounds 
+          url: /webdev/css/week2/images.html

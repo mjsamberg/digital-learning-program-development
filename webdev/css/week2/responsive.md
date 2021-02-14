@@ -39,7 +39,7 @@ While there are [many more attributes to extend media queries](https://developer
 	@media (min-width: 1200px) { ... }
 
 So for example, let's look a the _lorem ipsum_ callout box on the previous page. A callout box works well on a desktop, but on a mobile device, it may impact readability. So on mobile devices and tablets, I want the callout box to be the width of the page instead of a callout box. Because I want tablets to be included, I'll use ```@media (max-width: 991px)``` as my media query and because I don't want ```float:right;``` on mobile, I'll use ```float: clear``` to unset that value. I'm also going to change the color of the background and the text, for illustration purposes and change the margin so that the callout is centered on the screen. Review the example below and change the width of the window to see how the page reacts to the changes:
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="mjsamberg" data-slug-hash="LYbxBON" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ECI519 - Unit 5 - Responsive">
+<p class="codepen" data-height="400" data-theme-id="light" data-default-tab="result" data-user="mjsamberg" data-slug-hash="LYbxBON" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ECI519 - Unit 5 - Responsive">
   <span>See the Pen <a href="https://codepen.io/mjsamberg/pen/LYbxBON">
   ECI519 - Unit 5 - Responsive</a> by Mark Samberg (<a href="https://codepen.io/mjsamberg">@mjsamberg</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

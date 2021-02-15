@@ -45,7 +45,15 @@ So for example, let's look a the _lorem ipsum_ callout box on the previous page.
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
+### Dark Mode
+Many modern phones and browsers offer a "dark mode". In CSS, the browser can automatically detect and apply a different stylesheet for dark mode using media queries. For example:
 
+	@media (prefers-color-scheme: dark){
+		html{
+			background-color: black;
+			color: white;
+		}
+	}
 
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 

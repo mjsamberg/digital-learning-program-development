@@ -87,10 +87,11 @@ You can always add custom CSS if you want, by adding an additional class anywher
 and add the following to my CSS:
 
 	.blue{
-		background-color: blue;
+		background-color: blue; 
+		color: white;
 	}
 
-<div class="row" style="background-color: blue;">
+<div class="row" style="background-color: blue; color: white;">
 <div class="col-xs-12 col-md-3">
 	Box 1
 </div>

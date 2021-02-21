@@ -154,5 +154,16 @@ You can extend Bootstrap in a number of ways. You can change your fonts same as 
 
 Because of CSS's inheritance model, the styling from both the Bootstrap stylesheet and from your stylesheet will be applied. [Bootstrap.build](https://bootstrap.build) is a free site that will let you bake-in some changes to CSS easily, such as new color schemes and would replace the Bootstrap ```<link>``` from above.
 
+#### Colors
+Bootstrap contains _variables_ that you can use in your CSS instead of using HTML color codes for certain colors. This will ensure that the colors of your text will always match the colors used in Bootstrap. You can use these as follows. In your CSS, instead of using a reserved color code or hex code, use the following:
+
+	.color-example{
+		color: var(--blue);
+	}
+
+Acceptable values inside of ```var``` are ```--blue```, ```--indigo```, ```--purple```, ```--pink```, ```--red```, ```--orange```, ```--yellow```, ```--green```, ```--teal```, ```--cyan```, ```--white```, ```--gray```, ```--gray-dark```.
+
+There are also colors for ```--primary``` (your site's primary color), ```--secondary``` (your site's secondary color), as well as for the different error states that you can see throughout bootstrap's code: ```--success```, ```--info```, ```--warning```, ```--danger```.
+
 ## Other Frameworks
 Bootstrap is not the only framework available. [Tailwind](https://tailwindcss.com) is a new one that's gaining a lot of popularity. It's much more popular than Bootstrap, but is much more complicated to use.

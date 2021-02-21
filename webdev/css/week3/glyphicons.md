@@ -53,7 +53,7 @@ which would yield:
 
 You can also use the glyphicons inside other containers. For example, a right arrow after a link:
 
-	<a href="http://www.ncsu.edu">NC State University <i class="bi bi-arrow-right-short"></a>
+	<a href="http://www.ncsu.edu">NC State University <i class="bi bi-arrow-right-short"></i></a>
 
 yields:
 

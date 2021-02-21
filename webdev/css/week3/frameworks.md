@@ -145,5 +145,14 @@ and displays as
 
 [**Review everything in the _Content_ and _Components_ sections of the Bootstrap documentation**](https://getbootstrap.com/docs/4.3/components/alerts/)
 
+### Extending Bootstrap
+You can extend Bootstrap in a number of ways. You can change your fonts same as before. You can also add CSS to Bootstrap classes. For example, if you want all ```.col-md-6``` boxes to be gray, you can add the following to your CSS:
+
+	.col-md-6{
+		background-color: gray;
+	}
+
+Because of CSS's inheritance model, the styling from both the Bootstrap stylesheet and from your stylesheet will be applied. [Bootstrap.build](https://bootstrap.build) is a free site that will let you bake-in some changes to CSS easily, such as new color schemes and would replace the Bootstrap ```<link>``` from above.
+
 ## Other Frameworks
 Bootstrap is not the only framework available. [Tailwind](https://tailwindcss.com) is a new one that's gaining a lot of popularity. It's much more popular than Bootstrap, but is much more complicated to use.

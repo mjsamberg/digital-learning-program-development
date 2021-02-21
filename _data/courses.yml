@@ -213,5 +213,5 @@ webdev:
       title: "CSS: Frameworks"
       home: /webdev/css/week3/frameworks.html
       pages:
-        - title: The Box Model
+        - title: Bootstrap and CSS Frameworks
           url: /webdev/css/week3/frameworks.html

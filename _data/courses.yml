@@ -215,3 +215,5 @@ webdev:
       pages:
         - title: Bootstrap and CSS Frameworks
           url: /webdev/css/week3/frameworks.html
+        - title: Glyphicons
+          url: /webdev/css/week3/glyphicons.html

@@ -209,3 +209,9 @@ webdev:
           url: /webdev/css/week2/images.html
         - title: Assignment 
           url: /webdev/css/week2/assignment.html
+    6:
+      title: "CSS: Frameworks"
+      home: /webdev/css/week3/frameworks.html
+      pages:
+        - title: The Box Model
+          url: /webdev/css/week3/frameworks.html

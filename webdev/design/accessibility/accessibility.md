@@ -49,6 +49,36 @@ WebAIM has a [WCAG checklist][14] that it is a good idea to run through on webpa
 </div>
 <br/>
 
+Within Bootstrap, [there are a few built-in tools for accessibility](https://getbootstrap.com/docs/4.6/getting-started/accessibility/). As you read the manual, you'll notice that accessibility issues are flagged throughout. However, the ```.sr-only``` class can be used for specific items to flag additional information that will only be identified by assistive devices like screen readers. This is useful in many examples, including links that open in a new window. Based on WCAG guidelines, you should identify a link will be opening in a new user so that users aren't confused when this happens. A best practice for screen readers is to include a note in the link text:
+
+  <a href="http://www.ncsu.edu" target="_blank">NC State University <span class="sr-only">(Opens in a new window)</span></a>
+
+The "Opens in a new window" text would only appear to users of screen readers and other assistive devices. If you're not using Bootstrap, you can recreate this using the following CSS. What this CSS does, effectively, is move the items in the ```.sr-only``` class very far off-screen into a 1px-by-1px block. Because screen readers read HTML in order, it will be read, but a user will not see it. Again, you only need to implement this if you __are not using Bootstrap__
+
+  .sr-only {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+  }
+  
+Additionally, Bootstrap has built-in support for _focus states_. In order to be WCAG 2.1 compliant, you must be able to navigate to all clickable elements on the page using the _Tab_ key. A blue glow will show up by default in most browsers when an element is highlighted. You can use the ```:focus``` modifier in CSS to change the appearance of this focus state to make it more pronounced. For example, if I have a link, I can do the following my CSS (overdramatized for effect - it doesn't need to actually be that pronounced):
+
+  a:focus{
+    border: 5px solid blue;
+  }
+
+Therefore, ```<a href="http://www.ncsu.edu">NC State University</a>``` would look like this (click and hold or use the tab key to see):
+
+<style>
+.focus-demo:focus{
+  border: 5px solid blue;
+}
+</style>
+<a href="http://www.ncsu.edu" class="focus-demo">NC State University</a>
+
 ### Microsoft Office and Google Docs  
 Both Microsoft Office and Google Docs include the ability to add alternative text to images. Also, while Microsoft and Google Docs both have the ability to use semantic styling to flag headers, captions, etc, most people change the text styling instead, creating an accessibility challenge. Semantic styling should be used wherever possible.  Additionally, tables should be simple and avoid the use of merged cells. MS Office also has the ability to flag a row as a "header row" which improves accessibility.
 

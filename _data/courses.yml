@@ -224,6 +224,6 @@ webdev:
       home: /webdev/design/accessibility/universaldesign.md
       pages:
         - title: Universal Design
-          url: /webdev/design/accessibility/universaldesign.md
+          url: /webdev/design/accessibility/universaldesign.html
         - title: Accessibility
-          url: /webdev/design/accessibility/accessibility.md
+          url: /webdev/design/accessibility/accessibility.html

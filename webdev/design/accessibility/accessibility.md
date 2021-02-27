@@ -55,20 +55,20 @@ Within Bootstrap, [there are a few built-in tools for accessibility](https://get
 
 The "Opens in a new window" text would only appear to users of screen readers and other assistive devices. If you're not using Bootstrap, you can recreate this using the following CSS. What this CSS does, effectively, is move the items in the ```.sr-only``` class very far off-screen into a 1px-by-1px block. Because screen readers read HTML in order, it will be read, but a user will not see it. Again, you only need to implement this if you __are not using Bootstrap__
 
-  .sr-only {
-    position:absolute;
-    left:-10000px;
-    top:auto;
-    width:1px;
-    height:1px;
-    overflow:hidden;
-  }
+    .sr-only {
+      position:absolute;
+      left:-10000px;
+      top:auto;
+      width:1px;
+      height:1px;
+      overflow:hidden;
+    }
   
 Additionally, Bootstrap has built-in support for _focus states_. In order to be WCAG 2.1 compliant, you must be able to navigate to all clickable elements on the page using the _Tab_ key. A blue glow will show up by default in most browsers when an element is highlighted. You can use the ```:focus``` modifier in CSS to change the appearance of this focus state to make it more pronounced. For example, if I have a link, I can do the following my CSS (overdramatized for effect - it doesn't need to actually be that pronounced):
 
-  a:focus{
-    border: 5px solid blue;
-  }
+    a:focus{
+      border: 5px solid blue;
+    }
 
 Therefore, ```<a href="http://www.ncsu.edu">NC State University</a>``` would look like this (click and hold or use the tab key to see):
 

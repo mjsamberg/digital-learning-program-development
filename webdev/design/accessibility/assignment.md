@@ -4,7 +4,7 @@ title: "Assignment"
 course: "webdev"
 unit: 7
 ---
-Your assignment this week will be a little different. You should continue working on your website and complete the following items. You'll need to log in to [LinkedIn Learning](https://www.lib.ncsu.edu/faq/how-do-i-access-linkedin-learning-nc-state-community-member) in order to complete some of these materials.
+Your assignment this week will be a little different - there is more to be done, but you'll have two weeks to complete everything. You should continue working on your website and complete the following items. You'll need to log in to [LinkedIn Learning](https://www.lib.ncsu.edu/faq/how-do-i-access-linkedin-learning-nc-state-community-member) in order to complete some of these materials.
 
 ## Accessibility
 * **Read** [Accessible for All](https://web.dev/accessible/) by Google

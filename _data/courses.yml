@@ -219,3 +219,11 @@ webdev:
           url: /webdev/css/week3/glyphicons.html
         - title: Branching and Assignment
           url: /webdev/css/week3/branching.html
+    7:
+      title: "Accessiblity"
+      home: /webdev/design/accessibility/universaldesign.md
+      pages:
+        - title: Universal Design
+          url: /webdev/design/accessibility/universaldesign.md
+        - title: Accessibility
+          url: /webdev/design/accessibility/accessibility.md

@@ -15,6 +15,7 @@ Your assignment this week will be a little different - there is more to be done,
 * **Update** your website to be WCAG 2.1 compliant using the [WCAG 2.1 checklist](https://webaim.org/standards/wcag/checklist) from WebAIM
 * **Use** WebAIM's [WAVE Tool](https://wave.webaim.org) and [Contrast Checker](https://webaim.org/resources/contrastchecker/) to confirm that your site is accessible. Fix any errors that arise, and review warnings and messages to determine what needs to be addressed.
 * **Upload** your certificate from Linked In Learning to the Moodle course and complete the forum reflection.
+* _Optional, But Strongly Encouraged_: **Complete** [Making Accessible Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fteaching-techniques-making-accessible-learning%3Ftrk%3Dshare_ent_url%26shareId%3DN9kW6KVIToyLpcJ2MeuJ9w%253D%253D&account=53565897) on LinkedIn Learning
 
  
 ## Usability

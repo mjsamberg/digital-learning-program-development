@@ -229,3 +229,9 @@ webdev:
           url: /webdev/design/accessibility/accessibility.html
         - title: Assignment
           url: /webdev/design/accessibility/assignment.html
+    8:
+      title: "Intro to JavaScript"
+      home: /webdev/javascript/intro/intro.html
+      pages:
+        - title: Universal Design
+          url: /webdev/javascript/intro/intro.html

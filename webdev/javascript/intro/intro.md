@@ -39,4 +39,6 @@ JavaScript is very similar to other programming languages. If you're familiar wi
 
 ### Assignment
 * Go to [Free Code Camp's JavaScript Tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+* Create an Account
 * Complete the Introduction to JavaScript Course
+* Upload your certificate to WolfWare

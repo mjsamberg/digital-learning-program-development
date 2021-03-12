@@ -233,5 +233,5 @@ webdev:
       title: "Intro to JavaScript"
       home: /webdev/javascript/intro/intro.html
       pages:
-        - title: Universal Design
+        - title: Intro to JavaScript
           url: /webdev/javascript/intro/intro.html
